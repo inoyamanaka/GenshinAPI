@@ -1,0 +1,441 @@
+[
+  {
+    "name": "AMBER",
+    "role": "MELT DPS",
+    "recommended_weapon": [
+      "The First Great Magic (5)",
+      "Aqua Simulacra (5)",
+      "Thundering Pulse (5)~= Skyward Harp (5)~= Polar Star (5)",
+      "Slingshot (3)",
+      "Amos' Bow (5)~= Hunter's Path (5)",
+      "Ibis Piercer (4) (R5)~= Viridescent Hunt (4)",
+      "Hamayumi (4)~= Prototype Crescent (4)",
+      "Song of Stillness (4)",
+      "Windblume Ode (4)~= The Stringless (4)",
+      "Sharpshooter's Oath (3)~= King's Squire (4)~= Scion of the Blazing Sun (4)"
+    ],
+    "recommended_artifact": [
+      "Shimenawa's Reminiscence (4)",
+      "Wanderer's Troupe (4)",
+      "Crimson Witch of Flames (4)~= Marechaussee Hunter (2) + Crimson Witch of Flames (2)~= Gilded Dreams (4)",
+      "Crimson Witch of Flames (2) / Marechaussee Hunter (2) + 80 EM set (2)",
+      "Crimson Witch of Flames (2) / Marechaussee Hunter (2) + 18% ATK set (2)~= 80 EM set (2) + 80 EM  set (2)",
+      "18% ATK set (2) + 18% ATK set (2)",
+      "18% ATK set (2) + 80 EM set (2)"
+    ],
+    "mainstat": "Sands - ATK% / Elemental MasteryGoblet - Pyro DMGCirclet - Crit DMG",
+    "substat": [
+      "Crit DMG",
+      "ATK%",
+      "Elemental Mastery",
+      "Flat ATK"
+    ],
+    "talen_priority": [
+      "Normal Attack",
+      "Skill"
+    ],
+    "image_urls": [
+      "https://cdn.wanderer.moe/genshin-impact/splash-art/amber-alternativeoutfit.png",
+      "https://cdn.wanderer.moe/genshin-impact/splash-art/amber-nobg.png",
+      "https://cdn.wanderer.moe/genshin-impact/splash-art/amber.png"
+    ]
+  },
+  {
+    "name": "XIANGLING",
+    "role": "OFF-FIELD DPS",
+    "recommended_weapon": [
+      "Staff of the Scarlet Sands (5)",
+      "Staff of Homa (5) ~= Engulfing Lightning (5) ~= The Catch (4)",
+      "Primordial Jade Winged-Spear (5) ~= Skyward Spine (5) ~= Calamity Queller (5)~= Deathmatch (4) ~= Ballad of the Fjords (4)",
+      "Vortex Vanquisher (5) ~= Wavebreaker's Fin (4)~= Dragon's Bane (4)",
+      "Missive Windspear (4)",
+      "Kitain Cross Spear (4)",
+      "Lithic Spear (4)",
+      "Favonius Lance (4)",
+      "Prototype Starglitter (4)"
+    ],
+    "recommended_artifact": [
+      "Emblem of Severed Fate (4)",
+      "Crimson Witch of Flames (4)",
+      "Noblesse Oblige (2) / Crimson Witch of Flames (2) / +18% ATK set (2) / +80 EM set (2) / Emblem of Severed Fate (2) [Choose Two]",
+      "Noblesse Oblige (4)",
+      "The Exile (2) Scholar (2)"
+    ],
+    "mainstat": "Sands - Energy Recharge / ATK% / Elemental MasteryGoblet - Pyro DMG Circlet - Crit Rate / DMG ",
+    "substat": [
+      "Energy Recharge",
+      "Crit Rate / DMG",
+      "ATK%",
+      "Elemental Mastery",
+      "Flat ATK"
+    ],
+    "talen_priority": [
+      "Burst",
+      "Skill"
+    ],
+    "image_urls": [
+      "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png",
+      "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling.png"
+    ]
+  },
+  {
+    "name": "BENNETT",
+    "role": "DPS",
+    "recommended_weapon": [
+      "Mistsplitter Reforged (5)",
+      "Primordial Jade Cutter (5)",
+      "Freedom-Sworn (5)",
+      "Summit Shaper (5)",
+      "Aquila Favonia (5)",
+      "Blackcliff Longsword (1 Stack) (4)",
+      "Iron Sting (4)",
+      "The Alley Flash (4)",
+      "Skyward Blade (5)",
+      "The Black Sword (4)",
+      "Iron Sting (4)",
+      "Festering Desire (4)",
+      "Prototype Rancour (4)"
+    ],
+    "recommended_artifact": [
+      "Crimson Witch of Flames (4)",
+      "Crimson Witch of Flames (2) +18% ATK set (2) / Noblesse Oblige (2) / +80 EM set (2) [Choose Two]",
+      "Thundering Fury (4)"
+    ],
+    "mainstat": "Sands - Elemental Mastery / ATK%*Goblet - Pyro DMG Circlet - Crit Rate / DMG**EM sands is generally > ATK%",
+    "substat": [
+      "but substat quality and weapon choice can potentially favour ATK% sands."
+    ],
+    "talen_priority": [
+      "Crit Rate / DMG",
+      "Elemental Mastery",
+      "ATK%",
+      "Energy RechargeElemental Mastery has lower priority than ATK% when using Iron Sting"
+    ],
+    "image_urls": [
+      "https://cdn.wanderer.moe/genshin-impact/splash-art/bennett-nobg.png",
+      "https://cdn.wanderer.moe/genshin-impact/splash-art/bennett.png"
+    ]
+  },
+  {
+    "name": "XINYAN",
+    "role": "PHYSICAL DPS",
+    "recommended_weapon": [
+      "Redhorn Stonethresher (5)",
+      "Skyward Pride (5)",
+      "Serpent Spine (4)",
+      "The Unforged (5)",
+      "Song of Broken Pines (5)",
+      "Wolf's Gravestone (5)",
+      "Luxurious Sea-Lord (4)",
+      "Snow-Tombed Starsilver (4)",
+      "Prototype Archaic (4)"
+    ],
+    "recommended_artifact": [
+      "Pale Flame (2) Bloodstained Chivalry (2)",
+      "Pale Flame (4)",
+      "Emblem of Severed Fate (2) +25% Physical DMG set (2)",
+      "+25% Physical DMG set (2) / +18% ATK set (2) / Noblesse Oblige (2) / Husk of Opulent Dreams (2) [Choose Two]"
+    ],
+    "mainstat": "Sands - ATK% / Energy RechargeGoblet - Physical DMG Circlet - Crit Rate / DMG ",
+    "substat": [
+      "Crit Rate / DMG",
+      "ATK%",
+      "Energy Recharge",
+      "DEF%"
+    ],
+    "talen_priority": [
+      "Normal Attack>= Burst>= Skill"
+    ],
+    "image_urls": [
+      "https://cdn.wanderer.moe/genshin-impact/splash-art/xinyan-nobg.png",
+      "https://cdn.wanderer.moe/genshin-impact/splash-art/xinyan.png"
+    ]
+  },
+  {
+    "name": "YANFEI",
+    "role": "DPS",
+    "recommended_weapon": [
+      "Skyward Atlas (5) ~= Memory of Dust (5)",
+      "Lost Prayer to the Sacred Winds (5)",
+      "Kagura's Verity (5)",
+      "The Widsith (4)",
+      "Dodoco Tales (4)",
+      "Solar Pearl (4)",
+      "Blackcliff Agate (4)",
+      "Mappa Mare (4)"
+    ],
+    "recommended_artifact": [
+      "Crimson Witch of Flames (4)",
+      "Gilded Dreams (4)",
+      "Wanderer's Troupe (4)",
+      "Crimson Witch of Flames (2) +18% ATK set (2) / +80 EM set (2)",
+      "Shimenawa's Reminiscence (4)",
+      "Retracing Bolide (4)"
+    ],
+    "mainstat": "Sands - ATK% / Elemental MasteryGoblet - Pyro DMGCirclet - Crit Rate / DMG",
+    "substat": [
+      "Crit Rate / DMG",
+      "ATK%",
+      "Energy Recharge",
+      "Elemental Mastery",
+      "Flat ATK"
+    ],
+    "talen_priority": [
+      "Normal Attack",
+      "Burst",
+      "Skill"
+    ],
+    "image_urls": [
+      "https://cdn.wanderer.moe/genshin-impact/splash-art/yanfei-nobg.png",
+      "https://cdn.wanderer.moe/genshin-impact/splash-art/yanfei.png"
+    ]
+  },
+  {
+    "name": "THOMA",
+    "role": "BURGEON\u2729",
+    "recommended_weapon": [
+      "Kitain Cross Spear (4)",
+      "Favonius Lance (4)",
+      "Dragon's Bane (4)",
+      "Moonpiercer (4)",
+      "Black Tassel (3)"
+    ],
+    "recommended_artifact": [
+      "Flower of Paradise Lost (4)",
+      "Gilded Dreams (4)",
+      "+80 EM set (2) +80 EM set (2)",
+      "Emblem of Severed Fate (2) +80 EM Set (2)",
+      "Crimson Witch of Flames (4)"
+    ],
+    "mainstat": "Sands - Energy Recharge / Elemental MasteryGoblet - Elemental MasteryCirclet - Elemental Mastery",
+    "substat": [
+      "Energy Recharge",
+      "Elemental Mastery",
+      "HP%",
+      "Flat HP",
+      "Crit Rate"
+    ],
+    "talen_priority": [
+      "Skill",
+      "Burst For an EM-focused build"
+    ],
+    "image_urls": [
+      "https://cdn.wanderer.moe/genshin-impact/splash-art/thoma-nobg.png",
+      "https://cdn.wanderer.moe/genshin-impact/splash-art/thoma.png"
+    ]
+  },
+  {
+    "name": "DILUC",
+    "role": "DPS",
+    "recommended_weapon": [
+      "Redhorn Stonethresher (5) ~= Beacon of the Reed Sea (5)",
+      "Serpent Spine (4)",
+      "Wolf's Gravestone (5)~= The Unforged (5)",
+      "Rainslasher (4) ~= Mailed Flower (4)",
+      "Skyward Pride (5)",
+      "Song of Broken Pines (5)",
+      "Blackcliff Slasher (4)~= Luxurious Sea-Lord (4)",
+      "Prototype Archaic (4)Assumptions are important for this ranking. Please check notes for relevant weapons."
+    ],
+    "recommended_artifact": [
+      "Crimson Witch of Flames (4)",
+      "Gilded Dreams (4)",
+      "Crimson Witch of Flames (2) / +18% ATK set (2) / +80 EM set (2) [Choose Two]",
+      "Gladiator's Finale (4)"
+    ],
+    "mainstat": "Sands - Elemental Mastery* / ATK%Goblet - Pyro DMGCirclet - Crit Rate / DMG",
+    "substat": [
+      "Crit Rate / DMG",
+      "ATK%",
+      "Elemental Mastery (higher prio in Vaporize/Melt comps)",
+      "Energy Recharge"
+    ],
+    "talen_priority": [
+      "Normal Attack",
+      "Skill",
+      "BurstWorth noting that Diluc's constellations boost his Elemental Skill's damage"
+    ],
+    "image_urls": [
+      "https://cdn.wanderer.moe/genshin-impact/splash-art/diluc-nobg.png",
+      "https://cdn.wanderer.moe/genshin-impact/splash-art/diluc.png"
+    ]
+  },
+  {
+    "name": "KLEE",
+    "role": "DPS",
+    "recommended_weapon": [
+      "The Widsith (4)",
+      "Lost Prayer to the Sacred Winds (5)~= Kagura's Verity (5)",
+      "The Widsith (4)",
+      "Skyward Atlas (5)~= Tulaytullah's Remembrance (5)",
+      "Memory of Dust (5)",
+      "Solar Pearl (4)",
+      "Dodoco Tales (4)",
+      "Blackcliff Agate (4)",
+      "Mappa Mare (4)",
+      "Magic Guide (3)Check Notes"
+    ],
+    "recommended_artifact": [
+      "Crimson Witch of Flames (2) +18% ATK set (2)",
+      "Lavawalker (4)",
+      "Crimson Witch of Flames (4)",
+      "Crimson Witch of Flames (2) Noblesse Oblige (2)",
+      "Wanderer's Troupe (4)"
+    ],
+    "mainstat": "Sands - ATK% Goblet - Pyro DMGCirclet - Crit Rate / DMG",
+    "substat": [
+      "Crit Rate / DMG",
+      "ATK%",
+      "Elemental Mastery",
+      "Energy Recharge",
+      "Flat ATK"
+    ],
+    "talen_priority": [
+      "Normal Attack",
+      "Burst",
+      "Skill"
+    ],
+    "image_urls": [
+      "https://cdn.wanderer.moe/genshin-impact/splash-art/klee-nobg.png",
+      "https://cdn.wanderer.moe/genshin-impact/splash-art/klee-skin.png",
+      "https://cdn.wanderer.moe/genshin-impact/splash-art/klee.png"
+    ]
+  },
+  {
+    "name": "HU TAO",
+    "role": "DPS",
+    "recommended_weapon": [
+      "Staff of Homa (5)",
+      "Staff of the Scarlet Sands (5)",
+      "Ballad of the Fjords (4)",
+      "Dragon's Bane (4)~= Deathmatch (4)",
+      "Primordial Jade Winged-Spear (5)",
+      "Lithic Spear (4 Stacks) (4)",
+      "Missive Windspear (4)",
+      "White Tassel (3) ~= Blackcliff Pole (0 stack) (4)~= Kitain Cross Spear (4)~= Rightful Reward (4)"
+    ],
+    "recommended_artifact": [
+      "Crimson Witch of Flames (4)",
+      "Shimenawa's Reminiscence (4)",
+      "Gilded Dreams (4)",
+      "Crimson Witch of Flames (2) / +80 EM set (2) / +20% HP (2) [Choose Two]",
+      "Retracing Bolide (4)"
+    ],
+    "mainstat": "Sands - HP% / Elemental MasteryGoblet - Pyro DMGCirclet - Crit Rate / DMG",
+    "substat": [
+      "Crit Rate / DMG",
+      "Elemental Mastery",
+      "HP%",
+      "ATK%",
+      "Energy Recharge"
+    ],
+    "talen_priority": [
+      "Normal Attack",
+      "Skill",
+      "Burst"
+    ]
+  },
+  {
+    "name": "YOIMIYA",
+    "role": "DPS",
+    "recommended_weapon": [
+      "Thundering Pulse (5)",
+      "Aqua Simulacra (5)~= Polar Star (5)",
+      "Hunter's Path (5)",
+      "Slingshot (3)",
+      "Amos' Bow (5)~= Skyward Harp (5)",
+      "Rust (4)"
+    ],
+    "recommended_artifact": [
+      "Shimenawa's Reminiscence (4)",
+      "Crimson Witch of Flames (4)",
+      "Gilded Dreams (4)",
+      "Echoes of an Offering (4)",
+      "Retracing Bolide (4)",
+      "Crimson Witch of Flames (2) / +18% ATK set (2) / +80 EM set (2) [Choose Two]"
+    ],
+    "mainstat": "Sands - ATK% / Elemental MasteryGoblet - Pyro DMGCirclet - Crit Rate / DMG",
+    "substat": [
+      "Crit Rate / DMG",
+      "ATK%",
+      "Elemental Mastery",
+      "Energy Recharge",
+      "Flat ATK"
+    ],
+    "talen_priority": [
+      "Normal Attack",
+      "Skill = Burst"
+    ],
+    "image_urls": [
+      "https://cdn.wanderer.moe/genshin-impact/splash-art/yoimiya-nobg.png",
+      "https://cdn.wanderer.moe/genshin-impact/splash-art/yoimiya.png"
+    ]
+  },
+  {
+    "name": "DEHYA",
+    "role": "ON FIELD DPS",
+    "recommended_weapon": [
+      "Beacon of the Reed Sea (5)",
+      "Redhorn Stonethresher (5)",
+      "Wolf's Gravestone (5)",
+      "Skyward Pride (5)",
+      "The Unforged (5)",
+      "Blackcliff Slasher (4)~= Serpent Spine (4)~= Luxurious Sea-Lord (4)~= Favonius Greatsword (4)",
+      "Akuoumaru (4)",
+      "Prototype Archaic (4)"
+    ],
+    "recommended_artifact": [
+      "Emblem of Severed Fate (4)",
+      "Vourukasha's Glow (4)",
+      "Lavawalker (4)",
+      "Crimson Witch of Flames (4)",
+      "Crimson Witch of Flames (2) / Noblesse Oblige (2) / +18% ATK set (2) [Choose Two]"
+    ],
+    "mainstat": "Sands - ATK% / Energy RechargeGoblet - Pyro DMGCirclet - Crit Rate / DMG",
+    "substat": [
+      "Energy Recharge",
+      "Crit Rate / DMG",
+      "ATK%",
+      "Elemental Mastery",
+      "HP%",
+      "Flat ATK"
+    ],
+    "talen_priority": [
+      "Burst",
+      "Skill"
+    ],
+    "image_urls": [
+      "https://cdn.wanderer.moe/genshin-impact/splash-art/dehya-nobg.png"
+    ]
+  },
+  {
+    "name": "LYNEY",
+    "role": "DPS (4PC MARECHAUSSEE HUNTER)",
+    "recommended_weapon": [
+      "The First Great Magic (5)",
+      "Aqua Simulacra (5)",
+      "Thundering Pulse (5)",
+      "Skyward Harp (5)",
+      "Amos' Bow (5)",
+      "Polar Star (5)~= Song of Stillness (4)~= Prototype Crescent (4)",
+      "Scion of the Blazing Sun (4)~= Blackcliff Warbow (4)"
+    ],
+    "recommended_artifact": [
+      "Marechaussee Hunter (4)"
+    ],
+    "mainstat": "Sands - ATK%Goblet - Pyro DMGCirclet - Crit DMG",
+    "substat": [
+      "Crit Rate / DMG",
+      "ATK%",
+      "Energy Recharge",
+      "Flat ATK"
+    ],
+    "talen_priority": [
+      "Normal Attack",
+      "Skill / Burst"
+    ],
+    "image_urls": [
+      "https://cdn.wanderer.moe/genshin-impact/splash-art/lyney-nobg.png"
+    ]
+  }
+]

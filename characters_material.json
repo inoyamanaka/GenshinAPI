@@ -1,0 +1,34 @@
+[
+  {
+    "talentMaterial": [
+      {
+        "name": "Justice",
+        "image": "https://paimon.moe/images/items/teachings_of_justice.png"
+      },
+      {
+        "name": "Lightless Mass",
+        "image": "https://paimon.moe/images/items/lightless_mass.png"
+      }
+    ]
+  },
+  {
+    "talentAsencsion": [
+      {
+        "name": "Varunada Lazurite Fragment",
+        "image": "https://paimon.moe/images/items/varunada_lazurite_fragment.png"
+      },
+      {
+        "name": "Water That Failed To Transcend",
+        "image": "https://paimon.moe/images/items/water_that_failed_to_transcend.png"
+      },
+      {
+        "name": "Lakelight Lily",
+        "image": "https://paimon.moe/images/items/lakelight_lily.png"
+      },
+      {
+        "name": "Whopperflower Nectar",
+        "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+      }
+    ]
+  }
+]
