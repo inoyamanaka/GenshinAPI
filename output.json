@@ -1,397 +1,1197 @@
 [
   {
-    "name": "AMBER",
-    "role": "MELT DPS",
-    "recommended_weapon": [
-      "The First Great Magic (5)",
-      "Aqua Simulacra (5)",
-      "Thundering Pulse (5)~= Skyward Harp (5)~= Polar Star (5)",
-      "Slingshot (3)",
-      "Amos' Bow (5)~= Hunter's Path (5)",
-      "Ibis Piercer (4) (R5)~= Viridescent Hunt (4)",
-      "Hamayumi (4)~= Prototype Crescent (4)",
-      "Song of Stillness (4)",
-      "Windblume Ode (4)~= The Stringless (4)",
-      "Sharpshooter's Oath (3)~= King's Squire (4)~= Scion of the Blazing Sun (4)"
-    ],
-    "recommended_artifact": [
-      "Shimenawa's Reminiscence (4)",
-      "Wanderer's Troupe (4)",
-      "Crimson Witch of Flames (4)~= Marechaussee Hunter (2) + Crimson Witch of Flames (2)~= Gilded Dreams (4)",
-      "Crimson Witch of Flames (2) / Marechaussee Hunter (2) + 80 EM set (2)",
-      "Crimson Witch of Flames (2) / Marechaussee Hunter (2) + 18% ATK set (2)~= 80 EM set (2) + 80 EM  set (2)",
-      "18% ATK set (2) + 18% ATK set (2)",
-      "18% ATK set (2) + 80 EM set (2)"
-    ],
-    "mainstat": "Sands - ATK% / Elemental MasteryGoblet - Pyro DMGCirclet - Crit DMG",
-    "substat": [
-      "Crit DMG",
-      "ATK%",
-      "Elemental Mastery",
-      "Flat ATK"
-    ],
-    "talen_priority": [
-      "Normal Attack",
-      "Skill"
+    "0": [
+      {
+        "name": "Amber",
+        "role": "MELT DPS",
+        "recommended_artifact": [
+          "Shimenawa's Reminiscence (4)",
+          "Wanderer's Troupe (4)",
+          "Crimson Witch of Flames (4)~= Marechaussee Hunter (2) + Crimson Witch of Flames (2)~= Gilded Dreams (4)",
+          "Crimson Witch of Flames (2) / Marechaussee Hunter (2) + 80 EM set (2)",
+          "Crimson Witch of Flames (2) / Marechaussee Hunter (2) + 18% ATK set (2)~= 80 EM set (2) + 80 EM  set (2)",
+          "18% ATK set (2) + 18% ATK set (2)",
+          "18% ATK set (2) + 80 EM set (2)"
+        ],
+        "mainstat": "Sands - ATK% / Elemental MasteryGoblet - Pyro DMGCirclet - Crit DMG",
+        "substat": [
+          "Crit DMG",
+          "ATK%",
+          "Elemental Mastery",
+          "Flat ATK"
+        ]
+      },
+      {
+        "name": "Xiangling",
+        "role": "OFF-FIELD DPS ",
+        "recommended_artifact": [
+          "Emblem of Severed Fate (4)",
+          "Crimson Witch of Flames (4)",
+          "Noblesse Oblige (2) / Crimson Witch of Flames (2) / +18% ATK set (2) / +80 EM set (2) / Emblem of Severed Fate (2) [Choose Two]",
+          "Noblesse Oblige (4)",
+          "The Exile (2) Scholar (2)"
+        ],
+        "mainstat": "Sands - Energy Recharge / ATK% / Elemental MasteryGoblet - Pyro DMG Circlet - Crit Rate / DMG",
+        "substat": [
+          "Energy Recharge",
+          "Crit Rate / DMG",
+          "ATK%",
+          "Elemental Mastery",
+          "Flat ATK"
+        ]
+      },
+      {
+        "name": "Bennett",
+        "role": "DPS",
+        "recommended_artifact": [
+          "Crimson Witch of Flames (4)",
+          "Crimson Witch of Flames (2) +18% ATK set (2) / Noblesse Oblige (2) / +80 EM set (2) [Choose Two]",
+          "Thundering Fury (4)"
+        ],
+        "mainstat": "Sands - Elemental Mastery / ATK%*Goblet - Pyro DMG Circlet - Crit Rate / DMG**EM sands is generally > ATK%",
+        "substat": [
+          "but substat quality and weapon choice can potentially favour ATK% sands."
+        ]
+      },
+      {
+        "name": "Xinyan",
+        "role": "PHYSICAL DPS ",
+        "recommended_artifact": [
+          "Pale Flame (2) Bloodstained Chivalry (2)",
+          "Pale Flame (4)",
+          "Emblem of Severed Fate (2) +25% Physical DMG set (2)",
+          "+25% Physical DMG set (2) / +18% ATK set (2) / Noblesse Oblige (2) / Husk of Opulent Dreams (2) [Choose Two]"
+        ],
+        "mainstat": "Sands - ATK% / Energy RechargeGoblet - Physical DMG Circlet - Crit Rate / DMG",
+        "substat": [
+          "Crit Rate / DMG",
+          "ATK%",
+          "Energy Recharge",
+          "DEF%"
+        ]
+      },
+      {
+        "name": "Yanfei",
+        "role": "DPS",
+        "recommended_artifact": [
+          "Crimson Witch of Flames (4)",
+          "Gilded Dreams (4)",
+          "Wanderer's Troupe (4)",
+          "Crimson Witch of Flames (2) +18% ATK set (2) / +80 EM set (2)",
+          "Shimenawa's Reminiscence (4)",
+          "Retracing Bolide (4)"
+        ],
+        "mainstat": "Sands - ATK% / Elemental MasteryGoblet - Pyro DMGCirclet - Crit Rate / DMG",
+        "substat": [
+          "Crit Rate / DMG",
+          "ATK%",
+          "Energy Recharge",
+          "Elemental Mastery",
+          "Flat ATK"
+        ]
+      },
+      {
+        "name": "Thoma",
+        "role": "BURGEON",
+        "recommended_artifact": [
+          "Flower of Paradise Lost (4)",
+          "Gilded Dreams (4)",
+          "+80 EM set (2) +80 EM set (2)",
+          "Emblem of Severed Fate (2) +80 EM Set (2)",
+          "Crimson Witch of Flames (4)"
+        ],
+        "mainstat": "Sands - Energy Recharge / Elemental MasteryGoblet - Elemental MasteryCirclet - Elemental Mastery",
+        "substat": [
+          "Energy Recharge",
+          "Elemental Mastery",
+          "HP%",
+          "Flat HP",
+          "Crit Rate"
+        ]
+      },
+      {
+        "name": "Diluc",
+        "role": "DPS ",
+        "recommended_artifact": [
+          "Crimson Witch of Flames (4)",
+          "Gilded Dreams (4)",
+          "Crimson Witch of Flames (2) / +18% ATK set (2) / +80 EM set (2) [Choose Two]",
+          "Gladiator's Finale (4)"
+        ],
+        "mainstat": "Sands - Elemental Mastery* / ATK%Goblet - Pyro DMGCirclet - Crit Rate / DMG",
+        "substat": [
+          "Crit Rate / DMG",
+          "ATK%",
+          "Elemental Mastery (higher prio in Vaporize/Melt comps)",
+          "Energy Recharge"
+        ]
+      },
+      {
+        "name": "Klee",
+        "role": "DPS ",
+        "recommended_artifact": [
+          "Crimson Witch of Flames (2) +18% ATK set (2)",
+          "Lavawalker (4)",
+          "Crimson Witch of Flames (4)",
+          "Crimson Witch of Flames (2) Noblesse Oblige (2)",
+          "Wanderer's Troupe (4)"
+        ],
+        "mainstat": "Sands - ATK% Goblet - Pyro DMGCirclet - Crit Rate / DMG",
+        "substat": [
+          "Crit Rate / DMG",
+          "ATK%",
+          "Elemental Mastery",
+          "Energy Recharge",
+          "Flat ATK"
+        ]
+      },
+      {
+        "name": "Hu_tao",
+        "role": "DPS ",
+        "recommended_artifact": [
+          "Crimson Witch of Flames (4)",
+          "Shimenawa's Reminiscence (4)",
+          "Gilded Dreams (4)",
+          "Crimson Witch of Flames (2) / +80 EM set (2) / +20% HP (2) [Choose Two]",
+          "Retracing Bolide (4)"
+        ],
+        "mainstat": "Sands - HP% / Elemental MasteryGoblet - Pyro DMGCirclet - Crit Rate / DMG",
+        "substat": [
+          "Crit Rate / DMG",
+          "Elemental Mastery",
+          "HP%",
+          "ATK%",
+          "Energy Recharge"
+        ]
+      },
+      {
+        "name": "Yoimiya",
+        "role": "DPS ",
+        "recommended_artifact": [
+          "Shimenawa's Reminiscence (4)",
+          "Crimson Witch of Flames (4)",
+          "Gilded Dreams (4)",
+          "Echoes of an Offering (4)",
+          "Retracing Bolide (4)",
+          "Crimson Witch of Flames (2) / +18% ATK set (2) / +80 EM set (2) [Choose Two]"
+        ],
+        "mainstat": "Sands - ATK% / Elemental MasteryGoblet - Pyro DMGCirclet - Crit Rate / DMG",
+        "substat": [
+          "Crit Rate / DMG"
+        ]
+      },
+      {
+        "name": "Dehya",
+        "role": "ON FIELD DPS",
+        "recommended_artifact": [
+          "Emblem of Severed Fate (4)",
+          "Vourukasha's Glow (4)",
+          "Lavawalker (4)",
+          "Crimson Witch of Flames (4)",
+          "Crimson Witch of Flames (2) / Noblesse Oblige (2) / +18% ATK set (2) [Choose Two]"
+        ],
+        "mainstat": "Sands - ATK% / Energy RechargeGoblet - Pyro DMGCirclet - Crit Rate / DMG",
+        "substat": [
+          "Energy Recharge",
+          "Crit Rate / DMG",
+          "ATK%",
+          "Elemental Mastery",
+          "HP%",
+          "Flat ATK"
+        ]
+      },
+      {
+        "name": "Lyney",
+        "role": "DPS (4PC MARECHAUSSEE HUNTER) ",
+        "recommended_artifact": [
+          "Marechaussee Hunter (4)"
+        ],
+        "mainstat": "Sands - ATK%Goblet - Pyro DMGCirclet - Crit DMG",
+        "substat": [
+          "Crit Rate / DMG",
+          "ATK%",
+          "Energy Recharge",
+          "Flat ATK"
+        ]
+      }
     ]
   },
   {
-    "name": "XIANGLING",
-    "role": "OFF-FIELD DPS",
-    "recommended_weapon": [
-      "Staff of the Scarlet Sands (5)",
-      "Staff of Homa (5) ~= Engulfing Lightning (5) ~= The Catch (4)",
-      "Primordial Jade Winged-Spear (5) ~= Skyward Spine (5) ~= Calamity Queller (5)~= Deathmatch (4) ~= Ballad of the Fjords (4)",
-      "Vortex Vanquisher (5) ~= Wavebreaker's Fin (4)~= Dragon's Bane (4)",
-      "Missive Windspear (4)",
-      "Kitain Cross Spear (4)",
-      "Lithic Spear (4)",
-      "Favonius Lance (4)",
-      "Prototype Starglitter (4)"
-    ],
-    "recommended_artifact": [
-      "Emblem of Severed Fate (4)",
-      "Crimson Witch of Flames (4)",
-      "Noblesse Oblige (2) / Crimson Witch of Flames (2) / +18% ATK set (2) / +80 EM set (2) / Emblem of Severed Fate (2) [Choose Two]",
-      "Noblesse Oblige (4)",
-      "The Exile (2) Scholar (2)"
-    ],
-    "mainstat": "Sands - Energy Recharge / ATK% / Elemental MasteryGoblet - Pyro DMG Circlet - Crit Rate / DMG ",
-    "substat": [
-      "Energy Recharge",
-      "Crit Rate / DMG",
-      "ATK%",
-      "Elemental Mastery",
-      "Flat ATK"
-    ],
-    "talen_priority": [
-      "Burst",
-      "Skill"
+    "1": [
+      {
+        "name": "Fischl",
+        "role": "OFF-FIELD DPS ",
+        "recommended_artifact": [
+          "Golden Troupe (4)",
+          "Thundering Fury (2) +18% ATK set (2)",
+          "Thundersoother (4)",
+          "+18% ATK set (2) +18% ATK set (2)",
+          "Tenacity of the Millelith (4)"
+        ],
+        "mainstat": "Sands - ATK%Goblet - Electro DMGCirclet - Crit Rate / DMG",
+        "substat": [
+          "Crit Rate / DMG",
+          "ATK%",
+          "Energy Recharge",
+          "Elemental Mastery",
+          "Flat ATK"
+        ]
+      },
+      {
+        "name": "Beidou",
+        "role": "OFF-FIELD AGGRAVATE DPS",
+        "recommended_artifact": [
+          "Emblem of Severed Fate (4)",
+          "Noblesse Oblige (2) / Thundering Fury (2) / +18% ATK set (2) / Emblem of Severed Fate (2) [Choose Two]",
+          "Thundersoother (4)"
+        ],
+        "mainstat": "Sands - ATK% / Energy RechargeGoblet - Electro DMGCirclet - Crit Rate / DMG",
+        "substat": [
+          "Energy Recharge",
+          "Crit Rate / DMG",
+          "ATK%",
+          "Energy Recharge",
+          "Elemental Mastery",
+          "Flat ATK Prioritize Energy Recharge first until you can burst off cooldown"
+        ]
+      },
+      {
+        "name": "Lisa",
+        "role": "AGGRAVATE DPS",
+        "recommended_artifact": [
+          "Thundering Fury (4)",
+          "Gilded Dreams (4)",
+          "Thundersoother (4)",
+          "Thundering Fury (2) +18% ATK set (2) +80 EM set (2) [Choose Two]"
+        ],
+        "mainstat": "Sands - Elemental Mastery / ATK%Goblet - Electro DMGCirclet - Crit Rate / DMG",
+        "substat": [
+          "Crit Rate / DMG",
+          "ATK%~= Elemental Mastery",
+          "Energy Recharge",
+          "Flat ATK"
+        ]
+      },
+      {
+        "name": "Razor",
+        "role": "HYPERBLOOM / EM BUILD ",
+        "recommended_artifact": [
+          "Gilded Dreams (4)~= Flower of Paradise Lost (4)",
+          "+80 EM set (2) +80 EM set (2)",
+          "Thundering Fury (4)"
+        ],
+        "mainstat": "Sands - Elemental MasteryGoblet  - Elemental MasteryCirclet  - Elemental Mastery",
+        "substat": [
+          "Elemental Mastery",
+          "Energy Recharge",
+          "Crit Rate% [Only for Favonius Greatsword]"
+        ]
+      },
+      {
+        "name": "Kujou_sara",
+        "role": "BURST SUPPORT",
+        "recommended_artifact": [
+          "Emblem of Severed Fate (4)",
+          "Noblesse Oblige (4)",
+          "Noblesse Oblige (2) Thundering Fury (2)",
+          "Noblesse Oblige (2) +18% ATK set (2)"
+        ],
+        "mainstat": "Sands - Energy Recharge / ATK%Goblet - Electro DMGCirclet - Crit Rate / DMG",
+        "substat": [
+          "Energy Recharge",
+          "Crit Rate / DMG",
+          "ATK%",
+          "Flat ATKPrioritize Energy Recharge first until you can burst off cooldown"
+        ]
+      },
+      {
+        "name": "Kuki_shinobu",
+        "role": "HYPERBLOOM ",
+        "recommended_artifact": [
+          "Flower of Paradise Lost (4)",
+          "Gilded Dreams (4)",
+          "+80 EM set (2) +80 EM set (2)",
+          "Thundering Fury (4)"
+        ],
+        "mainstat": "Sands - Elemental MasteryGoblet - Elemental MasteryCirclet - Elemental Mastery",
+        "substat": [
+          "Elemental Mastery",
+          "HP%",
+          "Flat HP",
+          "Energy RechargeElemental Mastery is essentially your only priority"
+        ]
+      },
+      {
+        "name": "Dori",
+        "role": "SUPPORT ",
+        "recommended_artifact": [
+          "Noblesse Oblige (4)",
+          "Deepwood Memories (4)",
+          "Instructor (4)",
+          "The Exile (4)"
+        ],
+        "mainstat": "Sands - Energy Recharge / HP% / Elemental MasteryGoblet - HP% / Elemental Mastery Circlet - Healing Bonus / HP% / Elemental Mastery**A Crit Rate Circlet can be considered if running Favonius Greatsword",
+        "substat": [
+          "Crit Rate",
+          "Energy Recharge",
+          "HP%",
+          "Elemental MasteryCrit Rate is useful only when using Favonius Greatsword"
+        ]
+      },
+      {
+        "name": "Keqing",
+        "role": "PHYSICAL DPS",
+        "recommended_artifact": [
+          "Pale Flame (4)",
+          "Pale Flame (2) Bloodstained Chivalry (2)",
+          "+25% Physical DMG set (2) +18% ATK set (2)",
+          "Retracing Bolide (4)",
+          "Bloodstained Chivalry (4)"
+        ],
+        "mainstat": "Sands - ATK%Goblet - Physical DMGCirclet - Crit Rate / DMG",
+        "substat": [
+          "Crit Rate / DMG",
+          "ATK%",
+          "Flat ATK",
+          "Energy Recharge"
+        ]
+      },
+      {
+        "name": "Raiden_shogun",
+        "role": "HYPERBLOOM",
+        "recommended_artifact": [
+          "Flower of Paradise Lost (4)",
+          "Gilded Dreams (4)",
+          "+80 EM set (2) / +80 EM set (2)"
+        ],
+        "mainstat": "Sands - Elemental MasteryGoblet - Elemental MasteryCirclet - Elemental Mastery",
+        "substat": [
+          "Elemental Mastery",
+          "ATK%",
+          "Energy Recharge",
+          "Crit Rate/ DMGEM is essentially your only priority"
+        ]
+      },
+      {
+        "name": "Yae_miko",
+        "role": "OFF-FIELD DPS ",
+        "recommended_artifact": [
+          "Golden Troupe (4)~= Emblem of Severed Fate (4)",
+          "+18% ATK set (2) / Thundering Fury (2) / Emblem of Severed Fate (2) [Choose Two]",
+          "Thundersoother (4)",
+          "Tenacity of the Millelith (4)"
+        ],
+        "mainstat": "Sands - Energy Recharge / ATK%Goblet - Electro DMG Circlet - Crit Rate / DMG",
+        "substat": [
+          "Crit Rate / DMG",
+          "ATK%",
+          "Energy Recharge",
+          "Elemental Mastery",
+          "Flat ATK"
+        ]
+      },
+      {
+        "name": "Cyno",
+        "role": "QUICKBLOOM DPS ",
+        "recommended_artifact": [
+          "Thundering Fury (4)",
+          "Gilded Dreams (4)~= Flower of Paradise Lost (4)",
+          "+80 EM set (2) / +80 EM set (2) / Thundering Fury (2) [Choose Two]",
+          "Gladiator's Finale (4)"
+        ],
+        "mainstat": "Sands - Elemental MasteryGoblet - Electro DMG / Elemental MasteryCirclet - Crit Rate / DMG / Elemental Mastery",
+        "substat": [
+          "Energy Recharge",
+          "Elemental Mastery",
+          "Crit Rate / DMG",
+          "ATK%"
+        ]
+      }
     ]
   },
   {
-    "name": "BENNETT",
-    "role": "DPS",
-    "recommended_weapon": [
-      "Mistsplitter Reforged (5)",
-      "Primordial Jade Cutter (5)",
-      "Freedom-Sworn (5)",
-      "Summit Shaper (5)",
-      "Aquila Favonia (5)",
-      "Blackcliff Longsword (1 Stack) (4)",
-      "Iron Sting (4)",
-      "The Alley Flash (4)",
-      "Skyward Blade (5)",
-      "The Black Sword (4)",
-      "Iron Sting (4)",
-      "Festering Desire (4)",
-      "Prototype Rancour (4)"
-    ],
-    "recommended_artifact": [
-      "Crimson Witch of Flames (4)",
-      "Crimson Witch of Flames (2) +18% ATK set (2) / Noblesse Oblige (2) / +80 EM set (2) [Choose Two]",
-      "Thundering Fury (4)"
-    ],
-    "mainstat": "Sands - Elemental Mastery / ATK%*Goblet - Pyro DMG Circlet - Crit Rate / DMG**EM sands is generally > ATK%",
-    "substat": [
-      "but substat quality and weapon choice can potentially favour ATK% sands."
-    ],
-    "talen_priority": [
-      "Crit Rate / DMG",
-      "Elemental Mastery",
-      "ATK%",
-      "Energy RechargeElemental Mastery has lower priority than ATK% when using Iron Sting"
+    "2": [
+      {
+        "name": "Collei",
+        "role": "SUPPORT ",
+        "recommended_artifact": [
+          "Deepwood Memories (4)",
+          "Noblesse Oblige (4)",
+          "Tenacity of the Millelith (4)",
+          "Instructor (4)",
+          "Gilded Dreams (4)",
+          "The Exile (4)"
+        ],
+        "mainstat": "Sands - Energy Recharge / ATK% / Elemental MasteryGoblet - Dendro DMG / Elemental Mastery*Circlet - Crit Rate / DMG / Elemental Mastery***Prioritize Energy Recharge if her Energy Requirements are not met.",
+        "substat": [
+          "Energy Recharge",
+          "Crit Rate / DMG",
+          "ATK% / Elemental Mastery"
+        ]
+      },
+      {
+        "name": "Yaoyao",
+        "role": "SUPPORT ",
+        "recommended_artifact": [
+          "Deepwood Memories (4)",
+          "Tenacity of the Millelith (4)",
+          "Instructor (4)",
+          "Ocean-Hued Clam (4)",
+          "Maiden Beloved (4)",
+          "+15% Healing Bonus (2)/+20% HP (2)/Emblem of Severed Fate (2) [Choose Two]",
+          "Flower of Paradise Lost (4)",
+          "Gilded Dreams (4)",
+          "80 EM (2) + 80 EM (2)"
+        ],
+        "mainstat": "Sands - HP% / Energy Recharge%Goblet - HP%Circlet - Healing Bonus%",
+        "substat": [
+          "Energy Recharge% until requirement is met",
+          "HP%",
+          "Crit Rate",
+          "Flat HPTry to build some Crit Rate through substats if using Favonius Lance. Crit Rate is not important on other weapons."
+        ]
+      },
+      {
+        "name": "Kaveh",
+        "role": "BLOOM DRIVER ",
+        "recommended_artifact": [
+          "Deepwood Memories (4)",
+          "Ocean Hued Clam (4)",
+          "Flower of Paradise Lost (4)",
+          "Instructor (4)",
+          "Gilded Dreams (4)"
+        ],
+        "mainstat": "Sands - Energy Recharge / Elemental MasteryGoblet - Elemental MasteryCirclet - Elemental Mastery / Crit Rate*",
+        "substat": [
+          "Energy Recharge",
+          "Elemental Mastery",
+          "Crit Rate"
+        ]
+      },
+      {
+        "name": "Kirara",
+        "role": "SHIELD SUPPORT ",
+        "recommended_artifact": [
+          "Tenacity of the Millelith (2) + Vourukasha's Glow (2)",
+          "Instructor (4)",
+          "Tenacity of the Millelith (4)",
+          "Deepwood Memories (4)",
+          "Noblesse Oblige (4)"
+        ],
+        "mainstat": "Sands: HP% / Energy Recharge%Goblet: HP%Circlet: HP% / Crit Rate%*",
+        "substat": [
+          "Energy Recharge%",
+          "HP%",
+          "Crit Rate",
+          "Flat HP"
+        ]
+      },
+      {
+        "name": "Tighnari",
+        "role": "QUICK SWAP DPS ",
+        "recommended_artifact": [
+          "Wanderer's Troupe (4)~= Gilded Dreams (4)",
+          "Deepwood Memories (2) / +80 EM set (2) / +18% ATK set (2) [Choose Two]",
+          "Deepwood Memories (4)"
+        ],
+        "mainstat": "Sands - ATK% / Elemental MasteryGoblet - Dendro DMGCirclet - Crit Rate / DMG",
+        "substat": [
+          "Crit Rate / DMG",
+          "Elemental Mastery",
+          "ATK%",
+          "Energy Recharge"
+        ]
+      },
+      {
+        "name": "Nahida",
+        "role": "DPS & SUPPORT ",
+        "recommended_artifact": [
+          "Deepwood Memories (4)",
+          "Gilded Dreams (4)",
+          "+80 EM set (2) / +80 EM set (2) / Deepwood Memories (2) [Choose Two]",
+          "Tenacity of the Millelith (4)",
+          "Flower of Paradise Lost (4)"
+        ],
+        "mainstat": "Sands - Elemental MasteryGoblet - Elemental Mastery / Dendro DMGCirclet - Elemental Mastery / Crit Rate / DMG",
+        "substat": [
+          "Energy Recharge (Until Requirement)",
+          "Crit Rate / Crit DMG~= Elemental Mastery",
+          "ATK%"
+        ]
+      },
+      {
+        "name": "Alhaitham",
+        "role": "SPREAD DPS ",
+        "recommended_artifact": [
+          "Gilded Dreams (4)",
+          "Deepwood Memories (2) / Emblem of Severed Fate (2) / +80 EM set (2) [Choose Two]",
+          "Deepwood Memories (4)"
+        ],
+        "mainstat": "Sands - Elemental Mastery / ATK%Goblet - Dendro DMGCirclet - Crit Rate / DMG",
+        "substat": [
+          "Energy Recharge (Until Requirement)",
+          "Crit Rate / DMG",
+          "Elemental Mastery",
+          "ATK%",
+          "Flat ATK Certain quicken teams can run little to no Energy Recharge and simply burst every other rotation without a dps loss If you're running under 200 Elemental Mastery this substat has priority over Crit"
+        ]
+      },
+      {
+        "name": "Baizhu",
+        "role": "SUPPORT ",
+        "recommended_artifact": [
+          "Deepwood Memories (4)",
+          "Ocean-Hued Clam (4)",
+          "Instructor (4)",
+          "Noblesse Oblige (4)",
+          "Tenacity of the Millelith (2) / Vourukasha's Glow (2) / Emblem of Severed Fate (2) [Choose Two]"
+        ],
+        "mainstat": "Sands - HP% / Energy RechargeGoblet - HP%Circlet - HP% / Healing Bonus**Check notes",
+        "substat": [
+          "Energy Recharge",
+          "HP%",
+          "Flat HP",
+          "Crit RatePrioritize Energy Recharge until requirement is met. Crit Rate is only recommended when using Favonius Codex."
+        ]
+      }
     ]
   },
   {
-    "name": "XINYAN",
-    "role": "PHYSICAL DPS",
-    "recommended_weapon": [
-      "Redhorn Stonethresher (5)",
-      "Skyward Pride (5)",
-      "Serpent Spine (4)",
-      "The Unforged (5)",
-      "Song of Broken Pines (5)",
-      "Wolf's Gravestone (5)",
-      "Luxurious Sea-Lord (4)",
-      "Snow-Tombed Starsilver (4)",
-      "Prototype Archaic (4)"
-    ],
-    "recommended_artifact": [
-      "Pale Flame (2) Bloodstained Chivalry (2)",
-      "Pale Flame (4)",
-      "Emblem of Severed Fate (2) +25% Physical DMG set (2)",
-      "+25% Physical DMG set (2) / +18% ATK set (2) / Noblesse Oblige (2) / Husk of Opulent Dreams (2) [Choose Two]"
-    ],
-    "mainstat": "Sands - ATK% / Energy RechargeGoblet - Physical DMG Circlet - Crit Rate / DMG ",
-    "substat": [
-      "Crit Rate / DMG",
-      "ATK%",
-      "Energy Recharge",
-      "DEF%"
-    ],
-    "talen_priority": [
-      "Normal Attack>= Burst>= Skill"
+    "3": [
+      {
+        "name": "Xingqiu",
+        "role": "OFF-FIELD DPS ",
+        "recommended_artifact": [
+          "Emblem of Severed Fate (4)",
+          "Noblesse Oblige (4)",
+          "Nymph's Dream (4)~= Noblesse Oblige (2) / 15% Hydro DMG Bonus set (2) / +18% ATK set (2) / Emblem of Severed Fate (2) [Choose Two]",
+          "Blizzard Strayer (4)"
+        ],
+        "mainstat": "Sands - Energy Recharge / ATK%*Goblet - Hydro DMGCirclet - Crit Rate / DMG",
+        "substat": [
+          "Crit Rate / DMG",
+          "ATK%",
+          "Energy Recharge",
+          "Elemental Mastery",
+          "Flat ATKPrioritize Energy Recharge first if you can't burst off cooldown"
+        ]
+      },
+      {
+        "name": "Barbara",
+        "role": "SUPPORT",
+        "recommended_artifact": [
+          "Ocean-Hued Clam (4)",
+          "Maiden Beloved (4)",
+          "+15% Healing Bonus (2)/+20% HP (2) [Choose Two]",
+          "Instructor (4)"
+        ],
+        "mainstat": "Sands - HP%Goblet - HP%Circlet - Healing Bonus",
+        "substat": [
+          "HP%",
+          "Flat HP"
+        ]
+      },
+      {
+        "name": "Candace",
+        "role": "SUPPORT ",
+        "recommended_artifact": [
+          "Emblem of Severed Fate (4)",
+          "Emblem of Severed Fate (2) / +15% Hydro DMG Bonus set (2) / Noblesse Oblige (2) / +20% HP set (2) [Choose Two]"
+        ],
+        "mainstat": "Sands - Energy Recharge / HP%Goblet - HP% / Hydro DMGCirclet - HP% / Crit Rate / DMG",
+        "substat": [
+          "Energy Recharge",
+          "Crit Rate",
+          "HP%",
+          "Flat HP Crit Rate only if running Favonius Lance"
+        ]
+      },
+      {
+        "name": "Childe",
+        "role": "DPS ",
+        "recommended_artifact": [
+          "Nymph's Dream (4)",
+          "Heart of Depth (4)",
+          "+15% Hydro DMG set (2) +18% ATK set (2)",
+          "Noblesse Oblige (2) / +15% Hydro DMG set (2) / +18% ATK set (2) [Choose Two]",
+          "Shimenawa's Reminiscence (4)"
+        ],
+        "mainstat": "Sands - ATK%Goblet - Hydro DMGCirclet - Crit Rate / DMG",
+        "substat": [
+          "Crit Rate / DMG",
+          "ATK%",
+          "Elemental Mastery",
+          "Energy Recharge",
+          "Flat ATK"
+        ]
+      },
+      {
+        "name": "Mona",
+        "role": "DPS",
+        "recommended_artifact": [
+          "Heart of Depth (4)",
+          "Noblesse Oblige (2) +15% Hydro DMG set (2)",
+          "Noblesse Oblige (2) / +15% Hydro DMG set (2) / +18% ATK set (2) / +80 EM set (2) [Choose Two]",
+          "Wanderer's Troupe (4)"
+        ],
+        "mainstat": "Sands - ATK%Goblet - Hydro DMGCirclet - Crit Rate / DMG",
+        "substat": [
+          "Crit Rate / DMG",
+          "ATK%",
+          "Elemental Mastery",
+          "Energy Recharge"
+        ]
+      },
+      {
+        "name": "Sangonomiya_kokomi",
+        "role": "SUPPORT",
+        "recommended_artifact": [
+          "Tenacity of the Millelith (4)",
+          "Ocean-Hued Clam (4)",
+          "Maiden Beloved (4)",
+          "Maiden Beloved (2) / Ocean-Hued Clam (2) / Tenacity of the Millelith (2) [Choose Two]"
+        ],
+        "mainstat": "Sands - Energy Recharge / HP%Goblet - HP%Circlet - Healing Bonus / HP%**Mainstats are not important for Tenacity of the Millelith (4) if you do not need the extra healing. Focus on Energy Recharge substats instead.",
+        "substat": [
+          "Energy Recharge",
+          "HP%",
+          "ATK%",
+          "Flat HP",
+          "Flat ATK"
+        ]
+      },
+      {
+        "name": "Kamisato_ayato",
+        "role": "DPS ",
+        "recommended_artifact": [
+          "Heart of Depth (4) ~= Gladiator's Finale (4)~= Nymph's Dream (4)",
+          "+15% Hydro DMG set (2) +18% ATK set (2)",
+          "Blizzard Strayer (4)",
+          "Thundering Fury (4)",
+          "Echoes of an Offering (4)"
+        ],
+        "mainstat": "Sands - ATK%Goblet - Hydro DMGCirclet - Crit Rate / DMG",
+        "substat": [
+          "Crit Rate / DMG",
+          "ATK%",
+          "Energy Recharge",
+          "HP%",
+          "Elemental Mastery",
+          "Flat ATK"
+        ]
+      },
+      {
+        "name": "Yelan",
+        "role": "HIGH ENERGY REQUIREMENT(OFF-FIELD DPS)",
+        "recommended_artifact": [
+          "Emblem of Severed Fate (4)",
+          "Emblem of Severed Fate (2) / Tenacity of the Millelith (2) / +15% Hydro DMG set (2) / Noblesse Oblige (2) [Choose Two]"
+        ],
+        "mainstat": "Sands - Energy Recharge / HP%Goblet - Hydro DMG / HP%*Circlet - Crit Rate / Crit DMG / HP%",
+        "substat": [
+          "Energy Recharge",
+          "HP% ~= Crit Rate / DMG",
+          "Flat HP Energy Recharge should be prioritised until requirements are met."
+        ]
+      },
+      {
+        "name": "Nilou",
+        "role": "BLOOM SUPPORT ",
+        "recommended_artifact": [
+          "+20% HP set (2) +20% HP set (2)",
+          "+20% HP set (2) and [Choose One] +15% Hydro DMG set (2) / Noblesse Oblige (2) / +80 EM set (2)",
+          "Deepwood Memories (4)"
+        ],
+        "mainstat": "Sands - HP% / Energy RechargeGoblet - HP%Circlet - HP%",
+        "substat": [
+          "HP%",
+          "Flat HP",
+          "Energy Recharge (if bursting every rotation)",
+          "Elemental Mastery",
+          "Crit Rate / DMG Prefers HP substats above all else until you reach the limit of your  A4 passive which is at 74444 HP"
+        ]
+      },
+      {
+        "name": "Neuvillette",
+        "role": "DPS ",
+        "recommended_artifact": [
+          "Marechaussee Hunter (4)",
+          "Heart of Depth (4)",
+          "+15% Hydro DMG set (2) / 20% HP set (2) / Marechausse Hunter (2) [Choose Two]~= Retracing Bolide (4)~= Wanderer's Troupe (4)~= Nymph's Dream (4)"
+        ],
+        "mainstat": "Sands - HP%Goblet - Hydro DMG / HP%*Circlet - Crit Rate / Crit DMG / HP%",
+        "substat": [
+          "Energy Recharge",
+          "Crit Rate / Crit DMG~= HP%",
+          "Flat HP Energy Recharge should be prioritised until requirements are met."
+        ]
+      },
+      {
+        "name": "Furina",
+        "role": "OFF-FIELD DPS & SUPPORT",
+        "recommended_artifact": [
+          "Golden Troupe (4)",
+          "Tenacity of the Millelith (4)",
+          "+15% Hydro DMG set (2) / Golden Troupe (2) / +20% HP set (2) / Emblem of Severed Fate (2) [Choose Two]"
+        ],
+        "mainstat": "Sands - Energy Recharge / HP%Goblet - HP% / Hydro DMG*Circlet - Crit Rate / Crit DMG",
+        "substat": [
+          "Energy Recharge",
+          "HP%~= Crit Rate / Crit DMG",
+          "Flat HP Energy Recharge should be prioritised until requirements are met."
+        ]
+      }
     ]
   },
   {
-    "name": "YANFEI",
-    "role": "DPS",
-    "recommended_weapon": [
-      "Skyward Atlas (5) ~= Memory of Dust (5)",
-      "Lost Prayer to the Sacred Winds (5)",
-      "Kagura's Verity (5)",
-      "The Widsith (4)",
-      "Dodoco Tales (4)",
-      "Solar Pearl (4)",
-      "Blackcliff Agate (4)",
-      "Mappa Mare (4)"
-    ],
-    "recommended_artifact": [
-      "Crimson Witch of Flames (4)",
-      "Gilded Dreams (4)",
-      "Wanderer's Troupe (4)",
-      "Crimson Witch of Flames (2) +18% ATK set (2) / +80 EM set (2)",
-      "Shimenawa's Reminiscence (4)",
-      "Retracing Bolide (4)"
-    ],
-    "mainstat": "Sands - ATK% / Elemental MasteryGoblet - Pyro DMGCirclet - Crit Rate / DMG",
-    "substat": [
-      "Crit Rate / DMG",
-      "ATK%",
-      "Energy Recharge",
-      "Elemental Mastery",
-      "Flat ATK"
-    ],
-    "talen_priority": [
-      "Normal Attack",
-      "Burst",
-      "Skill"
+    "4": [
+      {
+        "name": "Diona",
+        "role": "SUPPORT",
+        "recommended_artifact": [
+          "Noblesse Oblige (4)",
+          "+20% HP set (2) / +20% HP set (2) / Emblem of Severed Fate (2) / +15% Healing Bonus set (2) [Choose Two]",
+          "Maiden Beloved (4)~= Ocean-Hued Clam (4)",
+          "Instructor (4)",
+          "Tenacity of the Millelith (4)"
+        ],
+        "mainstat": "Sands - Energy Recharge / HP% Goblet - HP% Circlet - HP% / Healing Bonus",
+        "substat": [
+          "Energy Recharge",
+          "HP%",
+          "Crit Rate",
+          "Flat HPCrit Rate substats are only recommended when using Favonius Warbow."
+        ]
+      },
+      {
+        "name": "Chongyun",
+        "role": "BURST SUPPORT",
+        "recommended_artifact": [
+          "Noblesse Oblige (2) Blizzard Strayer (2)",
+          "Emblem of Severed Fate (4)",
+          "Gilded Dreams (4)",
+          "Noblesse Oblige (2) / Blizzard Strayer (2) / +80 EM set (2) / +18% ATK set (2) / Emblem of Severed Fate (2) [Choose Two]",
+          "Noblesse Oblige (4)"
+        ],
+        "mainstat": "Sands - ATK% / Energy Recharge / Elemental MasteryGoblet - Cryo DMGCirclet - Crit Rate / DMG",
+        "substat": [
+          "Crit Rate / DMG",
+          "ATK%",
+          "Elemental Mastery",
+          "Energy Recharge",
+          "Flat ATK"
+        ]
+      },
+      {
+        "name": "Kaeya",
+        "role": "FREEZE ",
+        "recommended_artifact": [
+          "Blizzard Strayer (4)",
+          "Blizzard Strayer (2) +18% ATK set (2)",
+          "Gladiator's Finale (4)",
+          "Blizzard Strayer (2) Noblesse Oblige (2)"
+        ],
+        "mainstat": "Sands - ATK%Goblet - Cryo DMG Circlet - Crit DMG",
+        "substat": [
+          "Crit DMG",
+          "ATK%",
+          "Energy Recharge",
+          "Crit Rate",
+          "Flat ATKGenerally has less value than the other offensive stats due to Blizzard Strayer and Cryo Resonance"
+        ]
+      },
+      {
+        "name": "Rosaria",
+        "role": "REVERSEMELT",
+        "recommended_artifact": [
+          "Gilded Dreams (4)~= Lavawalker (4)",
+          "Emblem of Severed Fate (4)",
+          "Blizzard Strayer (2) Noblesse Oblige (2)"
+        ],
+        "mainstat": "Sands - Elemental Mastery / ATK%Goblet - Cryo DMGCirclet - Crit Rate / DMG",
+        "substat": [
+          "Crit Rate",
+          "Crit DMG",
+          "Elemental Mastery / ATK%",
+          "Energy Recharge",
+          "Flat ATK"
+        ]
+      },
+      {
+        "name": "Layla",
+        "role": "SUPPORT ",
+        "recommended_artifact": [
+          "Tenacity of the Millelith (4)",
+          "Noblesse Oblige (4)",
+          "Tenacity of the Millelith (2) / Blizzard Strayer (2) / Emblem of Severed Fate (2) [Choose Two]",
+          "Blizzard Strayer (4)",
+          "Emblem of Severed Fate (4)"
+        ],
+        "mainstat": "Sands - HP% / Energy RechargeGoblet - HP% / Cryo DMGCirclet - HP% / Crit Rate / DMG",
+        "substat": [
+          "HP%",
+          "Energy Recharge",
+          "Crit Rate / DMG"
+        ]
+      },
+      {
+        "name": "Mika",
+        "role": "SUPPORT ",
+        "recommended_artifact": [
+          "Noblesse Oblige (4)",
+          "Ocean-Hued Clam (4)",
+          "Maiden Beloved (4)",
+          "Mixes of +15% Healing Bonus (2) Emblem of Severed Fate (2) +20% HP (2)",
+          "The Exile (4)"
+        ],
+        "mainstat": "Sands - Energy Recharge / HP%Goblet - HP%Circlet - Healing Bonus / Crit Rate%*",
+        "substat": [
+          "Energy Recharge",
+          "Crit Rate",
+          "HP%",
+          "Flat HPCritical Rate is only recommended when using Favonius Lance"
+        ]
+      },
+      {
+        "name": "Freminet",
+        "role": "PHYSICAL DPS ",
+        "recommended_artifact": [
+          "Pale Flame (4)",
+          "Pale Flame (2) / Emblem of Severed Fate (2)~= +25% Physical DMG set (2) and +25% Physical DMG set (2) / Golden Troupe (2) / +18% ATK set (2) [Choose One]",
+          "Golden Troupe (4)",
+          "Gladiator's Finale (4)"
+        ],
+        "mainstat": "Sands - ATK%Goblet - Physical DMG%Circlet - Crit Rate / DMG",
+        "substat": [
+          "Energy Recharge",
+          "Crit Rate / DMG",
+          "ATK%",
+          "Elemental Mastery",
+          "Flat ATKPrioritize Energy Recharge until you meet the requirement."
+        ]
+      },
+      {
+        "name": "Charlotte",
+        "role": "SUPPORT ",
+        "recommended_artifact": [
+          "Noblesse Oblige (4)~= Tenacity of the Millelith (4)",
+          "Ocean-Hued Clam (4)",
+          "Emblem of Severed Fate (2) / +18% ATK set (2) / +15% Healing Bonus set (2) [Choose Two]",
+          "Maiden Beloved (4)",
+          "Blizzard Strayer (4)"
+        ],
+        "mainstat": "Sands - Energy Recharge / ATK%Goblet - ATK%Circlet - Healing Bonus / ATK% / Crit Rate**Crit Rate is only recommended if Charlotte is using Favonius Codex",
+        "substat": [
+          "Energy Recharge",
+          "ATK%",
+          "Crit Rate",
+          "Flat ATK",
+          "Crit DMG Energy Recharge should be prioritised until requirements are met."
+        ]
+      },
+      {
+        "name": "Qiqi",
+        "role": "SUPPORT",
+        "recommended_artifact": [
+          "Tenacity of the Millelith (4)",
+          "Ocean-Hued Clam (4)",
+          "Maiden Beloved (4)",
+          "+15% Healing Bonus set (2) +18% ATK set (2)",
+          "Noblesse Oblige (4)",
+          "+20% ER set (2) / Emblem of Severed Fate (2)"
+        ],
+        "mainstat": "Sands - ATK% / Energy Recharge Goblet - ATK%Circlet - Healing Bonus / ATK%",
+        "substat": [
+          "ATK%",
+          "Energy Recharge",
+          "Flat ATK"
+        ]
+      }
     ]
   },
   {
-    "name": "THOMA",
-    "role": "BURGEON\u2729",
-    "recommended_weapon": [
-      "Kitain Cross Spear (4)",
-      "Favonius Lance (4)",
-      "Dragon's Bane (4)",
-      "Moonpiercer (4)",
-      "Black Tassel (3)"
-    ],
-    "recommended_artifact": [
-      "Flower of Paradise Lost (4)",
-      "Gilded Dreams (4)",
-      "+80 EM set (2) +80 EM set (2)",
-      "Emblem of Severed Fate (2) +80 EM Set (2)",
-      "Crimson Witch of Flames (4)"
-    ],
-    "mainstat": "Sands - Energy Recharge / Elemental MasteryGoblet - Elemental MasteryCirclet - Elemental Mastery",
-    "substat": [
-      "Energy Recharge",
-      "Elemental Mastery",
-      "HP%",
-      "Flat HP",
-      "Crit Rate"
-    ],
-    "talen_priority": [
-      "Skill",
-      "Burst For an EM-focused build"
+    "5": [
+      {
+        "name": "Sucrose",
+        "role": "EM BUILD",
+        "recommended_artifact": [
+          "Viridescent Venerer (4)",
+          "Instructor (4)",
+          "+80 EM set (2) +80 EM set (2)"
+        ],
+        "mainstat": "Sands - Elemental Mastery Goblet - Elemental Mastery Circlet - Elemental Mastery",
+        "substat": [
+          "Elemental Mastery",
+          "Energy Recharge",
+          "ATK%",
+          "Crit Rate / DMG"
+        ]
+      },
+      {
+        "name": "Sayu",
+        "role": "SUPPORT",
+        "recommended_artifact": [
+          "Viridescent Venerer (4)",
+          "Noblesse Oblige (4)",
+          "Emblem of Severed Fate (2) +15% Healing Bonus set (2)",
+          "Ocean-Hued Clam (4)"
+        ],
+        "mainstat": "Sands - Energy Recharge / Elemental MasteryGoblet - Elemental Mastery / ATK%Circlet - Healing Bonus / Elemental Mastery",
+        "substat": [
+          "Energy Recharge",
+          "Elemental Mastery",
+          "ATK%",
+          "Crit RateCrit Rate only forFavonius Greatsword."
+        ]
+      },
+      {
+        "name": "Shikanoin_heizou",
+        "role": "ANEMO DPS ",
+        "recommended_artifact": [
+          "Viridescent Venerer (4)",
+          "Golden Troupe (4)",
+          "Golden Troupe (2) / +15% Anemo DMG set (2)",
+          "Desert Pavilion Chronicle (4)~= +15% Anemo DMG set (2) / Golden Troupe (2) / +18% ATK set (2) / +80 EM set (2) [Choose Two]"
+        ],
+        "mainstat": "Sands - ATK%Goblet - Anemo DMGCirclet - Crit Rate / Crit DMG",
+        "substat": [
+          "Crit Rate / DMG",
+          "ATK%",
+          "Energy Recharge",
+          "Elemental Mastery"
+        ]
+      },
+      {
+        "name": "Faruzan",
+        "role": "SUPPORT",
+        "recommended_artifact": [
+          "Viridescent Venerer (4)~= Noblesse Oblige (4)",
+          "Emblem of Severed Fate (4)",
+          "Golden Troupe (4)~= Tenacity of the Millelith (4)",
+          "Emblem of Severed Fate (2) / +20% ER set (2)"
+        ],
+        "mainstat": "Sands - Energy RechargeGoblet - Anemo DMGCirclet - Crit Rate / DMG",
+        "substat": [
+          "Energy Recharge",
+          "Crit Rate",
+          "Crit DMG",
+          "ATK%",
+          "Flat ATK Only assumes higher priority than Crit DMG when using Favonius Warbow"
+        ]
+      },
+      {
+        "name": "Lynette",
+        "role": "OFF-FIELD DPS",
+        "recommended_artifact": [
+          "Viridescent Venerer (4)",
+          "Emblem of Severed Fate (4)",
+          "Noblesse Oblige (4)",
+          "+15% Anemo DMG set (2) / +20% ER set (2) / Noblesse Oblige (2) / +18% ATK set (2) [Choose Two]"
+        ],
+        "mainstat": "Sands - Energy Recharge / ATK%Goblet - Anemo DMGCirclet - Crit Rate / DMG",
+        "substat": [
+          "Energy Recharge",
+          "Crit Rate",
+          "Crit DMG",
+          "ATK%",
+          "Flat ATKPrioritize Energy Recharge until you meet the requirement.Only assumes higher priority than Crit DMG when using Favonius Sword"
+        ]
+      },
+      {
+        "name": "Venti",
+        "role": "REACTIONOFF-FIELD DPS",
+        "recommended_artifact": [
+          "Viridescent Venerer (4) Prioritize this set unless someone else holds it",
+          "Noblesse Oblige (4)",
+          "Gilded Dreams (4)",
+          "+80 EM set (2) +80 EM set (2)",
+          "Instructor (4)"
+        ],
+        "mainstat": "Sands - Elemental Mastery Goblet - Elemental Mastery Circlet - Elemental Mastery",
+        "substat": [
+          "Elemental Mastery",
+          "Energy Recharge",
+          "ATK%",
+          "Crit Rate / DMG",
+          "Flat ATK"
+        ]
+      },
+      {
+        "name": "Xiao",
+        "role": "DPS ",
+        "recommended_artifact": [
+          "Vermillion Hereafter (4)",
+          "Desert Pavilion Chronicle (4)~= Marechaussee Hunter (4)",
+          "+15% Anemo DMG set (2) / +18% ATK Set (2) / +18% ATK set (2) / Emblem of Severed Fate (2) [Choose Two]"
+        ],
+        "mainstat": "Sands - ATK%Goblet - Anemo DMG / ATK%*Circlet - Crit Rate / DMG",
+        "substat": [
+          "Energy Recharge until requirement is met",
+          "Crit Rate/DMG",
+          "ATK%",
+          "Elemental Mastery~= Flat ATK"
+        ]
+      },
+      {
+        "name": "Kaedehara_kazuha",
+        "role": "REACTION DPS & SUPPORT",
+        "recommended_artifact": [
+          "Viridescent Venerer (4)",
+          "Instructor (4)",
+          "Thundering Fury (4)"
+        ],
+        "mainstat": "Sands - Elemental Mastery / Energy RechargeGoblet - Elemental MasteryCirclet - Elemental Mastery",
+        "substat": [
+          "Energy Recharge",
+          "Elemental Mastery",
+          "ATK% / Crit RatePrioritize Energy Recharge until you meet the requirement. Prioritize Crit Rate over ATK% if running Favonius"
+        ]
+      },
+      {
+        "name": "Wanderer",
+        "role": "DPS (MINIMAL EXTERNAL BUFFS) ",
+        "recommended_artifact": [
+          "Desert Pavilion Chronicle (4)",
+          "Shimenawa's Reminiscence (4)",
+          "Echoes of an Offering (4)",
+          "+15% Anemo DMG Set (2) +15% Anemo DMG Set (2) +18% ATK Set (2) +18% ATK Set (2) [Choose Two]",
+          "Blizzard Strayer (4)",
+          "Lavawalker (4)",
+          "Viridescent Venerer (4)"
+        ],
+        "mainstat": "Sands - ATK%Goblet - Anemo DMGCirclet - Crit Rate / DMG",
+        "substat": [
+          "Crit Rate / DMG",
+          "ATK%",
+          "Flat ATK",
+          "Elemental Mastery",
+          "Energy Recharge"
+        ]
+      }
     ]
   },
   {
-    "name": "DILUC",
-    "role": "DPS",
-    "recommended_weapon": [
-      "Redhorn Stonethresher (5) ~= Beacon of the Reed Sea (5)",
-      "Serpent Spine (4)",
-      "Wolf's Gravestone (5)~= The Unforged (5)",
-      "Rainslasher (4) ~= Mailed Flower (4)",
-      "Skyward Pride (5)",
-      "Song of Broken Pines (5)",
-      "Blackcliff Slasher (4)~= Luxurious Sea-Lord (4)",
-      "Prototype Archaic (4)Assumptions are important for this ranking. Please check notes for relevant weapons."
-    ],
-    "recommended_artifact": [
-      "Crimson Witch of Flames (4)",
-      "Gilded Dreams (4)",
-      "Crimson Witch of Flames (2) / +18% ATK set (2) / +80 EM set (2) [Choose Two]",
-      "Gladiator's Finale (4)"
-    ],
-    "mainstat": "Sands - Elemental Mastery* / ATK%Goblet - Pyro DMGCirclet - Crit Rate / DMG",
-    "substat": [
-      "Crit Rate / DMG",
-      "ATK%",
-      "Elemental Mastery (higher prio in Vaporize/Melt comps)",
-      "Energy Recharge"
-    ],
-    "talen_priority": [
-      "Normal Attack",
-      "Skill",
-      "BurstWorth noting that Diluc's constellations boost his Elemental Skill's damage"
-    ]
-  },
-  {
-    "name": "KLEE",
-    "role": "DPS",
-    "recommended_weapon": [
-      "The Widsith (4)",
-      "Lost Prayer to the Sacred Winds (5)~= Kagura's Verity (5)",
-      "The Widsith (4)",
-      "Skyward Atlas (5)~= Tulaytullah's Remembrance (5)",
-      "Memory of Dust (5)",
-      "Solar Pearl (4)",
-      "Dodoco Tales (4)",
-      "Blackcliff Agate (4)",
-      "Mappa Mare (4)",
-      "Magic Guide (3)Check Notes"
-    ],
-    "recommended_artifact": [
-      "Crimson Witch of Flames (2) +18% ATK set (2)",
-      "Lavawalker (4)",
-      "Crimson Witch of Flames (4)",
-      "Crimson Witch of Flames (2) Noblesse Oblige (2)",
-      "Wanderer's Troupe (4)"
-    ],
-    "mainstat": "Sands - ATK% Goblet - Pyro DMGCirclet - Crit Rate / DMG",
-    "substat": [
-      "Crit Rate / DMG",
-      "ATK%",
-      "Elemental Mastery",
-      "Energy Recharge",
-      "Flat ATK"
-    ],
-    "talen_priority": [
-      "Normal Attack",
-      "Burst",
-      "Skill"
-    ]
-  },
-  {
-    "name": "HU TAO",
-    "role": "DPS",
-    "recommended_weapon": [
-      "Staff of Homa (5)",
-      "Staff of the Scarlet Sands (5)",
-      "Ballad of the Fjords (4)",
-      "Dragon's Bane (4)~= Deathmatch (4)",
-      "Primordial Jade Winged-Spear (5)",
-      "Lithic Spear (4 Stacks) (4)",
-      "Missive Windspear (4)",
-      "White Tassel (3) ~= Blackcliff Pole (0 stack) (4)~= Kitain Cross Spear (4)~= Rightful Reward (4)"
-    ],
-    "recommended_artifact": [
-      "Crimson Witch of Flames (4)",
-      "Shimenawa's Reminiscence (4)",
-      "Gilded Dreams (4)",
-      "Crimson Witch of Flames (2) / +80 EM set (2) / +20% HP (2) [Choose Two]",
-      "Retracing Bolide (4)"
-    ],
-    "mainstat": "Sands - HP% / Elemental MasteryGoblet - Pyro DMGCirclet - Crit Rate / DMG",
-    "substat": [
-      "Crit Rate / DMG",
-      "Elemental Mastery",
-      "HP%",
-      "ATK%",
-      "Energy Recharge"
-    ],
-    "talen_priority": [
-      "Normal Attack",
-      "Skill",
-      "Burst"
-    ]
-  },
-  {
-    "name": "YOIMIYA",
-    "role": "DPS",
-    "recommended_weapon": [
-      "Thundering Pulse (5)",
-      "Aqua Simulacra (5)~= Polar Star (5)",
-      "Hunter's Path (5)",
-      "Slingshot (3)",
-      "Amos' Bow (5)~= Skyward Harp (5)",
-      "Rust (4)"
-    ],
-    "recommended_artifact": [
-      "Shimenawa's Reminiscence (4)",
-      "Crimson Witch of Flames (4)",
-      "Gilded Dreams (4)",
-      "Echoes of an Offering (4)",
-      "Retracing Bolide (4)",
-      "Crimson Witch of Flames (2) / +18% ATK set (2) / +80 EM set (2) [Choose Two]"
-    ],
-    "mainstat": "Sands - ATK% / Elemental MasteryGoblet - Pyro DMGCirclet - Crit Rate / DMG",
-    "substat": [
-      "Crit Rate / DMG",
-      "ATK%",
-      "Elemental Mastery",
-      "Energy Recharge",
-      "Flat ATK"
-    ],
-    "talen_priority": [
-      "Normal Attack",
-      "Skill = Burst"
-    ]
-  },
-  {
-    "name": "DEHYA",
-    "role": "ON FIELD DPS",
-    "recommended_weapon": [
-      "Beacon of the Reed Sea (5)",
-      "Redhorn Stonethresher (5)",
-      "Wolf's Gravestone (5)",
-      "Skyward Pride (5)",
-      "The Unforged (5)",
-      "Blackcliff Slasher (4)~= Serpent Spine (4)~= Luxurious Sea-Lord (4)~= Favonius Greatsword (4)",
-      "Akuoumaru (4)",
-      "Prototype Archaic (4)"
-    ],
-    "recommended_artifact": [
-      "Emblem of Severed Fate (4)",
-      "Vourukasha's Glow (4)",
-      "Lavawalker (4)",
-      "Crimson Witch of Flames (4)",
-      "Crimson Witch of Flames (2) / Noblesse Oblige (2) / +18% ATK set (2) [Choose Two]"
-    ],
-    "mainstat": "Sands - ATK% / Energy RechargeGoblet - Pyro DMGCirclet - Crit Rate / DMG",
-    "substat": [
-      "Energy Recharge",
-      "Crit Rate / DMG",
-      "ATK%",
-      "Elemental Mastery",
-      "HP%",
-      "Flat ATK"
-    ],
-    "talen_priority": [
-      "Burst",
-      "Skill"
-    ]
-  },
-  {
-    "name": "LYNEY",
-    "role": "DPS (4PC MARECHAUSSEE HUNTER)",
-    "recommended_weapon": [
-      "The First Great Magic (5)",
-      "Aqua Simulacra (5)",
-      "Thundering Pulse (5)",
-      "Skyward Harp (5)",
-      "Amos' Bow (5)",
-      "Polar Star (5)~= Song of Stillness (4)~= Prototype Crescent (4)",
-      "Scion of the Blazing Sun (4)~= Blackcliff Warbow (4)"
-    ],
-    "recommended_artifact": [
-      "Marechaussee Hunter (4)"
-    ],
-    "mainstat": "Sands - ATK%Goblet - Pyro DMGCirclet - Crit DMG",
-    "substat": [
-      "Crit Rate / DMG",
-      "ATK%",
-      "Energy Recharge",
-      "Flat ATK"
-    ],
-    "talen_priority": [
-      "Normal Attack",
-      "Skill / Burst"
+    "6": [
+      {
+        "name": "Ningguang",
+        "role": "DPS ",
+        "recommended_artifact": [
+          "Archaic Petra (2) and [Choose Two] Noblesse Oblige (2) / +18% ATK set (2) / Emblem of Severed Fate (2)~= Husk of Opulent Dreams (4)",
+          "Thundersoother (4)~= Lavawalker (4)",
+          "Archaic Petra (4)",
+          "Emblem of Severed Fate (4)"
+        ],
+        "mainstat": "Sands - ATK%Goblet - Geo DMGCirclet - Crit Rate / DMG",
+        "substat": [
+          "Crit Rate / DMG",
+          "ATK%",
+          "Energy Recharge",
+          "Flat ATK"
+        ]
+      },
+      {
+        "name": "Noelle",
+        "role": "DPS ",
+        "recommended_artifact": [
+          "Husk of Opulent Dreams (4)",
+          "Retracing Bolide (4)",
+          "Gladiator's Finale (4)",
+          "Husk of Opulent Dreams (2) Archaic Petra (2)"
+        ],
+        "mainstat": "Sands - DEF% / ATK%Goblet - Geo DMGCirclet - Crit Rate / DMGATK% sands when below C6 and below Talent Level 9 Burst.",
+        "substat": [
+          "Crit Rate / DMG",
+          "Energy Recharge",
+          "DEF%"
+        ]
+      },
+      {
+        "name": "Gorou",
+        "role": "SUPPORT ",
+        "recommended_artifact": [
+          "The Exile (4)",
+          "Noblesse Oblige (4)",
+          "Emblem of Severed Fate (2) +20% ER set (2)"
+        ],
+        "mainstat": "Sands - Energy RechargeGoblet - Geo DMG / DEF%*Circlet - Crit Rate / DEF%* / Healing Bonus*",
+        "substat": [
+          "Energy Recharge",
+          "DEF%",
+          "Crit Rate"
+        ]
+      },
+      {
+        "name": "Yun_jin",
+        "role": "SUPPORT",
+        "recommended_artifact": [
+          "Husk of Opulent Dreams (4)",
+          "Husk of Opulent Dreams (2) Emblem of Severed Fate (2)",
+          "Noblesse Oblige (4)"
+        ],
+        "mainstat": "Sands - DEF% / Energy RechargeGoblet - DEF%Circlet - DEF% / Crit Rate*",
+        "substat": [
+          "DEF%",
+          "Energy Recharge",
+          "Flat DEF",
+          "Crit Rate"
+        ]
+      },
+      {
+        "name": "Zhongli",
+        "role": "PHYSICAL DPS",
+        "recommended_artifact": [
+          "Pale Flame (4)",
+          "Pale Flame (2) Bloodstained Chivalry (2)",
+          "Gladiator's Finale (4)",
+          "+25% Physical DMG set (2) +18% ATK set (2)",
+          "Retracing Bolide (4)"
+        ],
+        "mainstat": "Sands - ATK% / HP%Goblet - Physical DMGCirclet - Crit Rate / DMG",
+        "substat": [
+          "Crit Rate / DMG",
+          "ATK%",
+          "HP%",
+          "Energy Recharge",
+          "Flat ATK"
+        ]
+      },
+      {
+        "name": "Albedo",
+        "role": "OFF-FIELD DPS ",
+        "recommended_artifact": [
+          "Husk of Opulent Dreams (4)~= Golden Troupe (4)",
+          "Husk of Opulent Dreams (2) Archaic Petra (2) Golden Troupe (2) [Choose Two]",
+          "Archaic Petra (4)",
+          "Tenacity of the Millelith (4)",
+          "Noblesse Oblige (4)"
+        ],
+        "mainstat": "Sands - DEF%Goblet - Geo DMG Circlet - Crit Rate / DMG / DEF%",
+        "substat": [
+          "Crit Rate / DMG",
+          "DEF%",
+          "ATK%",
+          "Energy Recharge"
+        ]
+      },
+      {
+        "name": "Arataki_itto",
+        "role": "DPS ",
+        "recommended_artifact": [
+          "Husk of Opulent Dreams (4)",
+          "Desert Pavilion Chronicle (4)",
+          "Retracing Bolide (4)",
+          "Husk of Opulent Dreams (2) / Archaic Petra (2) / Emblem of Severed Fate (2) [Choose Two]"
+        ],
+        "mainstat": "Sands - DEF%Goblet - Geo DMGCirclet - Crit Rate / DMG",
+        "substat": [
+          "Crit Rate / DMG",
+          "DEF%",
+          "Energy Recharge",
+          "ATK%",
+          "Flat DEF",
+          "Flat ATK"
+        ]
+      }
     ]
   }
 ]

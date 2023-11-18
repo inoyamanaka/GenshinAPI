@@ -1,29 +1,42 @@
 [
   {
+    "real_name": "Hu Tao[Note 1]",
+    "rarity": "5 Stars",
+    "weapon": "Polearm",
+    "constellation": "Papilio Charontis",
+    "region": "Liyue",
+    "affiliation": "Wangsheng Funeral Parlor",
+    "element": "Pyro",
+    "img_namecard": [],
+    "img_character": [
+      {
+        "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
+        "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
+        "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+      }
+    ],
     "talentMaterial": [
       {
-        "name": "Justice",
-        "image": "https://paimon.moe/images/items/teachings_of_justice.png"
+        "name": "Diligence",
+        "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
       },
       {
-        "name": "Lightless Mass",
-        "image": "https://paimon.moe/images/items/lightless_mass.png"
+        "name": "Shard of a Foul Legacy",
+        "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
       }
-    ]
-  },
-  {
+    ],
     "talentAsencsion": [
       {
-        "name": "Varunada Lazurite Fragment",
-        "image": "https://paimon.moe/images/items/varunada_lazurite_fragment.png"
+        "name": "Agnidus Agate Fragment",
+        "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
       },
       {
-        "name": "Water That Failed To Transcend",
-        "image": "https://paimon.moe/images/items/water_that_failed_to_transcend.png"
+        "name": "Juvenile Jade",
+        "image": "https://paimon.moe/images/items/juvenile_jade.png"
       },
       {
-        "name": "Lakelight Lily",
-        "image": "https://paimon.moe/images/items/lakelight_lily.png"
+        "name": "Silk Flower",
+        "image": "https://paimon.moe/images/items/silk_flower.png"
       },
       {
         "name": "Whopperflower Nectar",
