@@ -1,6 +1,7 @@
 import json
 from fastapi import FastAPI
 import requests
+import uvicorn
 
 app = FastAPI()
 
@@ -30,3 +31,5 @@ def get_detail_character(name: str):
     url = f"https://genshin.jmp.blue/characters/{name}"
     response = requests.get(url)
 
+if __name__ == "__main__":
+    uvicorn.run(app, host="127.0.0.1", port=8000)
