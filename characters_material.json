@@ -12,7 +12,8 @@
       {
         "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
         "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-        "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+        "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434",
+        "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/hu_tao-nobg.png"
       }
     ],
     "talentMaterial": [

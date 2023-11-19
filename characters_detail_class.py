@@ -62,6 +62,7 @@ class GenshinCharacterScraper:
         img_char_1 = ''
         img_char_2 = ''
         img_char_3 = ''
+        img_char_nbg = ''
 
         html_2 = requests.get(f'https://genshin-impact.fandom.com/wiki/{char_name.title()}').text
         soup_2 = BeautifulSoup(html_2, "lxml")
@@ -72,11 +73,13 @@ class GenshinCharacterScraper:
         img_char_1 = img_char[0].find('a')['href']
         img_char_2 = img_char[1].find('a')['href']
         img_char_3 = img_char[2].find('a')['href']
+        img_char_nbg = f'https://cdn.wanderer.moe/genshin-impact/splash-art/{char_name.lower()}-nobg.png'
 
         list_img_char.append({
                             "img_card":img_char_1,
                             "img_wish":img_char_2,
-                            "img_in_game":img_char_3})
+                            "img_in_game":img_char_3,
+                            "img_char_nbg":img_char_nbg})
                 
 
         return list_img_char
