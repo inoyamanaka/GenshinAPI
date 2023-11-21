@@ -18,7 +18,14 @@
         "constellation": "Lepus",
         "region": "Mondstadt",
         "affiliation": "Knights of Favonius",
-        "element": "Pyro"
+        "element": "Pyro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Item_Amber_Bunny.png/revision/latest?cb=20201118063322",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Namecard_Background_Amber_Bunny.png/revision/latest?cb=20210330005327",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/3/3f/Namecard_Banner_Amber_Bunny.png/revision/latest?cb=20210330005423"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -86,7 +93,14 @@
         "constellation": "Trulla",
         "region": "Liyue",
         "affiliation": "Wanmin Restaurant",
-        "element": "Pyro"
+        "element": "Pyro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Xiangling_Fresh_from_the_Pan.png/revision/latest?cb=20201118070019",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Namecard_Background_Xiangling_Fresh_from_the_Pan.png/revision/latest?cb=20210330005406",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Namecard_Banner_Xiangling_Fresh_from_the_Pan.png/revision/latest?cb=20210330005309"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -153,7 +167,14 @@
         "constellation": "Rota Calamitas",
         "region": "Mondstadt",
         "affiliation": "Adventurers' Guild",
-        "element": "Pyro"
+        "element": "Pyro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Item_Bennett_Recognition.png/revision/latest?cb=20201118065944",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/5/5c/Namecard_Background_Bennett_Recognition.png/revision/latest?cb=20210330005330",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Namecard_Banner_Bennett_Recognition.png/revision/latest?cb=20210330005426"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -214,7 +235,14 @@
         "constellation": "Fila Ignium",
         "region": "Liyue",
         "affiliation": "\"The Red Strings\"",
-        "element": "Pyro"
+        "element": "Pyro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/a/a0/Item_Xinyan_Song%27s_End.png/revision/latest?cb=20201208040743",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/3/3b/Namecard_Background_Xinyan_Song%27s_End.png/revision/latest?cb=20210330005408",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/e/ef/Namecard_Banner_Xinyan_Song%27s_End.png/revision/latest?cb=20210330005311"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -279,7 +307,14 @@
         "constellation": "Bestia Iustitia",
         "region": "Liyue",
         "affiliation": "Adepti",
-        "element": "Pyro"
+        "element": "Pyro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Item_Yanfei_Impartial.png/revision/latest?cb=20210428065706",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Namecard_Background_Yanfei_Impartial.png/revision/latest?cb=20210509012458",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/9/94/Namecard_Banner_Yanfei_Impartial.png/revision/latest?cb=20210509012502"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -347,7 +382,14 @@
         "constellation": "Rubeum Scutum",
         "region": "Inazuma",
         "affiliation": "Yashiro Commission",
-        "element": "Pyro"
+        "element": "Pyro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Item_Thoma_Blazing_Guard.png/revision/latest?cb=20211013105003",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/7/7c/Namecard_Background_Thoma_Blazing_Guard.png/revision/latest?cb=20211013105246",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/4/4b/Namecard_Banner_Thoma_Blazing_Guard.png/revision/latest?cb=20211013105150"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -414,7 +456,14 @@
         "constellation": "Noctua",
         "region": "Mondstadt",
         "affiliation": "Dawn Winery",
-        "element": "Pyro"
+        "element": "Pyro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/c/c7/Item_Diluc_Flames.png/revision/latest?cb=20201118064922",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Namecard_Background_Diluc_Flames.png/revision/latest?cb=20210330005335",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/0/08/Namecard_Banner_Diluc_Flames.png/revision/latest?cb=20210330005430"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -479,7 +528,14 @@
         "constellation": "Trifolium",
         "region": "Mondstadt",
         "affiliation": "Knights of Favonius",
-        "element": "Pyro"
+        "element": "Pyro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/5/58/Item_Klee_Explosive.png/revision/latest?cb=20201118063513",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Namecard_Background_Klee_Explosive.png/revision/latest?cb=20210330005344",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/9/91/Namecard_Banner_Klee_Explosive.png/revision/latest?cb=20210330005249"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -546,7 +602,14 @@
         "constellation": "Papilio Charontis",
         "region": "Liyue",
         "affiliation": "Wangsheng Funeral Parlor",
-        "element": "Pyro"
+        "element": "Pyro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Item_Hu_Tao_Spirit_Soother.png/revision/latest?cb=20210208142355",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Namecard_Background_Hu_Tao_Spirit_Soother.png/revision/latest?cb=20210330005340",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/4/43/Namecard_Banner_Hu_Tao_Spirit_Soother.png/revision/latest?cb=20210330005434"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -613,7 +676,14 @@
         "constellation": "Carassius Auratus",
         "region": "Inazuma",
         "affiliation": "Naganohara Fireworks",
-        "element": "Pyro"
+        "element": "Pyro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Item_Yoimiya_Auratus_Spark.png/revision/latest?cb=20210725071318",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Namecard_Background_Yoimiya_Auratus_Spark.png/revision/latest?cb=20210725071335",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Namecard_Banner_Yoimiya_Auratus_Spark.png/revision/latest?cb=20210725071354"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -677,7 +747,14 @@
         "constellation": "Mantichora",
         "region": "Sumeru",
         "affiliation": "The Eremites",
-        "element": "Pyro"
+        "element": "Pyro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Dehya_Purifying_Flame.png/revision/latest?cb=20230301050411",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/0/08/Namecard_Background_Dehya_Purifying_Flame.png/revision/latest?cb=20230301050434",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/5/5e/Namecard_Banner_Dehya_Purifying_Flame.png/revision/latest?cb=20230301051501"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -745,7 +822,14 @@
         "constellation": "Felis Fuscus",
         "region": "Fontaine",
         "affiliation": "Hotel Bouffes d'ete",
-        "element": "Pyro"
+        "element": "Pyro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/1/1d/Item_Lyney_Pretense.png/revision/latest?cb=20230816184147",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Namecard_Background_Lyney_Pretense.png/revision/latest?cb=20230816190526",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Namecard_Banner_Lyney_Pretense.png/revision/latest?cb=20230816190523"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -807,7 +891,14 @@
         "constellation": "Corvus",
         "region": "Mondstadt",
         "affiliation": "Adventurers' Guild",
-        "element": "Electro"
+        "element": "Electro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Item_Fischl_Night_Raven.png/revision/latest?cb=20201118065803",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/0/0c/Namecard_Background_Fischl_Night_Raven.png/revision/latest?cb=20210330005336",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/e/ed/Namecard_Banner_Fischl_Night_Raven.png/revision/latest?cb=20210330005432"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -874,7 +965,14 @@
         "constellation": "Victor Mare",
         "region": "Liyue",
         "affiliation": "The Crux",
-        "element": "Electro"
+        "element": "Electro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/1/17/Item_Beidou_Weighing_Anchor.png/revision/latest?cb=20201118070835",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Namecard_Background_Beidou_Weighing_Anchor.png/revision/latest?cb=20210330005329",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Namecard_Banner_Beidou_Weighing_Anchor.png/revision/latest?cb=20210330005425"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -940,7 +1038,14 @@
         "constellation": "Tempus Fugit",
         "region": "Mondstadt",
         "affiliation": "Knights of Favonius",
-        "element": "Electro"
+        "element": "Electro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/2/29/Item_Lisa_Tempus_Fugit.png/revision/latest?cb=20201118065654",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/8/86/Namecard_Background_Lisa_Tempus_Fugit.png/revision/latest?cb=20210330005345",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/8/8c/Namecard_Banner_Lisa_Tempus_Fugit.png/revision/latest?cb=20210330005250"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -1005,7 +1110,14 @@
         "constellation": "Lupus Minor",
         "region": "Mondstadt",
         "affiliation": "Wolvendom",
-        "element": "Electro"
+        "element": "Electro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Item_Razor_Wolvensprint.png/revision/latest?cb=20201118065217",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Namecard_Background_Razor_Wolvensprint.png/revision/latest?cb=20210330005356",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/f/fa/Namecard_Banner_Razor_Wolvensprint.png/revision/latest?cb=20210330005300"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -1068,7 +1180,14 @@
         "constellation": "Flabellum",
         "region": "Inazuma",
         "affiliation": "Tenryou Commission",
-        "element": "Electro"
+        "element": "Electro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Item_Kujou_Sara_Tengu.png/revision/latest?cb=20210901111434",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/f/f6/Namecard_Background_Kujou_Sara_Tengu.png/revision/latest?cb=20210902035055",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/2/23/Namecard_Banner_Kujou_Sara_Tengu.png/revision/latest?cb=20210902035128"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -1133,7 +1252,14 @@
         "constellation": "Tribulatio Demptio",
         "region": "Inazuma",
         "affiliation": "Arataki Gang",
-        "element": "Electro"
+        "element": "Electro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/e/e2/Item_Kuki_Shinobu_Net.png/revision/latest?cb=20220602041041",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Namecard_Background_Kuki_Shinobu_Net.png/revision/latest?cb=20220602041050",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/e/e6/Namecard_Banner_Kuki_Shinobu_Net.png/revision/latest?cb=20220602041058"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -1198,7 +1324,14 @@
         "constellation": "Magicae Lucerna",
         "region": "Sumeru",
         "affiliation": "The Palace of Alcazarzaray",
-        "element": "Electro"
+        "element": "Electro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/8/8e/Item_Dori_Jinni.png/revision/latest?cb=20220831100543",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/6/68/Namecard_Background_Dori_Jinni.png/revision/latest?cb=20220910215254",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Namecard_Banner_Dori_Jinni.png/revision/latest?cb=20220910215303"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -1263,7 +1396,14 @@
         "constellation": "Trulla Cementarii",
         "region": "Liyue",
         "affiliation": "Liyue Qixing",
-        "element": "Electro"
+        "element": "Electro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Item_Keqing_Lightning_Stiletto.png/revision/latest?cb=20201118070142",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Namecard_Background_Keqing_Lightning_Stiletto.png/revision/latest?cb=20210330005344",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/a/a2/Namecard_Banner_Keqing_Lightning_Stiletto.png/revision/latest?cb=20210330005248"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -1329,7 +1469,14 @@
         "constellation": "Imperatrix Umbrosa",
         "region": "Inazuma",
         "affiliation": "Inazuma City",
-        "element": "Electro"
+        "element": "Electro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Item_Raiden_Shogun_Enlightenment.png/revision/latest?cb=20210901111436",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/5/5e/Namecard_Background_Raiden_Shogun_Enlightenment.png/revision/latest?cb=20210902035057",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Namecard_Banner_Raiden_Shogun_Enlightenment.png/revision/latest?cb=20210902035130"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -1393,7 +1540,14 @@
         "constellation": "Divina Vulpes",
         "region": "Inazuma",
         "affiliation": "Grand Narukami Shrine",
-        "element": "Electro"
+        "element": "Electro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/6/6e/Item_Yae_Miko_Kitsune_Dreaming.png/revision/latest?cb=20220216094303",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/Namecard_Background_Yae_Miko_Kitsune_Dreaming.png/revision/latest?cb=20220216094255",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/9/97/Namecard_Banner_Yae_Miko_Kitsune_Dreaming.png/revision/latest?cb=20220216094314"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -1459,7 +1613,14 @@
         "constellation": "Lupus Aureus",
         "region": "Sumeru",
         "affiliation": "Temple of Silence",
-        "element": "Electro"
+        "element": "Electro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/3/39/Item_Cyno_Silence.png/revision/latest?cb=20220928034733",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Namecard_Background_Cyno_Silence.png/revision/latest?cb=20220928034748",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Namecard_Banner_Cyno_Silence.png/revision/latest?cb=20220928034807"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -1524,7 +1685,14 @@
         "constellation": "Leptailurus Cervarius",
         "region": "Sumeru",
         "affiliation": "Gandharva Ville",
-        "element": "Dendro"
+        "element": "Dendro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/b/bc/Item_Collei_Good_Virtue.png/revision/latest?cb=20220824153548",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Namecard_Background_Collei_Good_Virtue.png/revision/latest?cb=20220824153627",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/1/10/Namecard_Banner_Collei_Good_Virtue.png/revision/latest?cb=20220824153656"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -1590,7 +1758,14 @@
         "constellation": "Osmanthus",
         "region": "Liyue",
         "affiliation": "Streetward Rambler's Abode",
-        "element": "Dendro"
+        "element": "Dendro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/6/61/Item_Yaoyao_Yuegui.png/revision/latest?cb=20230118034748",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Namecard_Background_Yaoyao_Yuegui.png/revision/latest?cb=20230118034729",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/7/7f/Namecard_Banner_Yaoyao_Yuegui.png/revision/latest?cb=20230118034652"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -1660,7 +1835,14 @@
         "constellation": "Paradisaea",
         "region": "Sumeru",
         "affiliation": "Kshahrewar",
-        "element": "Dendro"
+        "element": "Dendro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/8/8f/Item_Kaveh_Domed_Court.png/revision/latest?cb=20230412092526",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/9/9e/Namecard_Background_Kaveh_Domed_Court.png/revision/latest?cb=20230412092457",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Namecard_Banner_Kaveh_Domed_Court.png/revision/latest?cb=20230412092553"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -1725,7 +1907,14 @@
         "constellation": "Arcella",
         "region": "Inazuma",
         "affiliation": "Komaniya Express",
-        "element": "Dendro"
+        "element": "Dendro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Kirara_Neko_Box.png/revision/latest?cb=20230524071012",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/3/3f/Namecard_Background_Kirara_Neko_Box.png/revision/latest?cb=20230524071046",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/3/36/Namecard_Banner_Kirara_Neko_Box.png/revision/latest?cb=20230524071109"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -1791,7 +1980,14 @@
         "constellation": "Vulpes Zerda",
         "region": "Sumeru",
         "affiliation": "Gandharva Ville",
-        "element": "Dendro"
+        "element": "Dendro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/5/5a/Item_Tighnari_Dew-Kissed.png/revision/latest?cb=20220824154433",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Namecard_Background_Tighnari_Dew-Kissed.png/revision/latest?cb=20220824154534",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Namecard_Banner_Tighnari_Dew-Kissed.png/revision/latest?cb=20220824154628"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -1855,7 +2051,14 @@
         "constellation": "Sapientia Oromasdis",
         "region": "Sumeru",
         "affiliation": "Sumeru City",
-        "element": "Dendro"
+        "element": "Dendro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/f/f3/Item_Nahida_Crescent.png/revision/latest?cb=20221102040649",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/9/9c/Namecard_Background_Nahida_Crescent.png/revision/latest?cb=20221102040701",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/6/6c/Namecard_Banner_Nahida_Crescent.png/revision/latest?cb=20221102041115"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -1920,7 +2123,14 @@
         "constellation": "Vultur Volans",
         "region": "Sumeru",
         "affiliation": "Sumeru Akademiya",
-        "element": "Dendro"
+        "element": "Dendro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Item_Alhaitham_Enlightenment.png/revision/latest?cb=20230118034746",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/3/37/Namecard_Background_Alhaitham_Enlightenment.png/revision/latest?cb=20230118034727",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Namecard_Banner_Alhaitham_Enlightenment.png/revision/latest?cb=20230118034650"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -1985,7 +2195,14 @@
         "constellation": "Lagenaria",
         "region": "Liyue",
         "affiliation": "Bubu Pharmacy",
-        "element": "Dendro"
+        "element": "Dendro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/8/8c/Item_Baizhu_Relief.png/revision/latest?cb=20230412092724",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/f/f4/Namecard_Background_Baizhu_Relief.png/revision/latest?cb=20230412092703",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/c/cd/Namecard_Banner_Baizhu_Relief.png/revision/latest?cb=20230412092742"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -2051,7 +2268,14 @@
         "constellation": "Fabulae Textile",
         "region": "Liyue",
         "affiliation": "Feiyun Commerce Guild",
-        "element": "Hydro"
+        "element": "Hydro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Item_Xingqiu_Rainbow.png/revision/latest?cb=20201118070050",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/b/b0/Namecard_Background_Xingqiu_Rainbow.png/revision/latest?cb=20210330005407",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Namecard_Banner_Xingqiu_Rainbow.png/revision/latest?cb=20210330005310"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -2117,7 +2341,14 @@
         "constellation": "Crater",
         "region": "Mondstadt",
         "affiliation": "Church of Favonius",
-        "element": "Hydro"
+        "element": "Hydro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Item_Barbara_Flow.png/revision/latest?cb=20201118065545",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Namecard_Background_Barbara_Flow.png/revision/latest?cb=20210330005328",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Namecard_Banner_Barbara_Flow.png/revision/latest?cb=20210330005424"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -2180,7 +2411,14 @@
         "constellation": "Sagitta Scutum",
         "region": "Sumeru",
         "affiliation": "Aaru Village",
-        "element": "Hydro"
+        "element": "Hydro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Item_Candace_Gray_Heron.png/revision/latest?cb=20220928034731",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/8/86/Namecard_Background_Candace_Gray_Heron.png/revision/latest?cb=20220928034746",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/a/ad/Namecard_Banner_Candace_Gray_Heron.png/revision/latest?cb=20220928034805"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -2243,7 +2481,14 @@
         "constellation": "Monoceros Caeli",
         "region": "Snezhnaya",
         "affiliation": "Fatui",
-        "element": "Hydro"
+        "element": "Hydro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/5/50/Item_Childe_Foul_Legacy.png/revision/latest?cb=20201208040743",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Namecard_Background_Childe_Foul_Legacy.png/revision/latest?cb=20210330005358",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Namecard_Banner_Childe_Foul_Legacy.png/revision/latest?cb=20210330005302"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -2310,7 +2555,14 @@
         "constellation": "Astrolabos",
         "region": "Mondstadt",
         "affiliation": "Mondstadt",
-        "element": "Hydro"
+        "element": "Hydro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mona_Starry_Sky.png/revision/latest?cb=20201118065913",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Namecard_Background_Mona_Starry_Sky.png/revision/latest?cb=20210330005349",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Namecard_Banner_Mona_Starry_Sky.png/revision/latest?cb=20210330005254"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -2375,7 +2627,14 @@
         "constellation": "Dracaena Somnolenta",
         "region": "Inazuma",
         "affiliation": "Watatsumi Island",
-        "element": "Hydro"
+        "element": "Hydro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/6/62/Item_Sangonomiya_Kokomi_The_Deep.png/revision/latest?cb=20210901111438",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/7/70/Namecard_Background_Sangonomiya_Kokomi_The_Deep.png/revision/latest?cb=20210902035100",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/2/26/Namecard_Banner_Sangonomiya_Kokomi_The_Deep.png/revision/latest?cb=20210902035132"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -2441,7 +2700,14 @@
         "constellation": "Cypressus Custos",
         "region": "Inazuma",
         "affiliation": "Yashiro Commission",
-        "element": "Hydro"
+        "element": "Hydro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/c/c7/Item_Kamisato_Ayato_Ripple.png/revision/latest?cb=20220330025022",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/e/e1/Namecard_Background_Kamisato_Ayato_Ripple.png/revision/latest?cb=20220330025027",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/d/dc/Namecard_Banner_Kamisato_Ayato_Ripple.png/revision/latest?cb=20220330025030"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -2509,7 +2775,14 @@
         "constellation": "Umbrabilis Orchis",
         "region": "Liyue",
         "affiliation": "Yanshang Teahouse",
-        "element": "Hydro"
+        "element": "Hydro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/7/70/Item_Yelan_Throw.png/revision/latest?cb=20220531064743",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/7/73/Namecard_Background_Yelan_Throw.png/revision/latest?cb=20220531064425",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Namecard_Banner_Yelan_Throw.png/revision/latest?cb=20220531064620"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -2571,7 +2844,14 @@
         "constellation": "Lotos Somno",
         "region": "Sumeru",
         "affiliation": "Zubayr Theater",
-        "element": "Hydro"
+        "element": "Hydro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Item_Nilou_Lotus_Dance.png/revision/latest?cb=20220928093927",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/1/1c/Namecard_Background_Nilou_Lotus_Dance.png/revision/latest?cb=20220928093940",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Namecard_Banner_Nilou_Lotus_Dance.png/revision/latest?cb=20221014113815"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -2636,7 +2916,14 @@
         "constellation": "Leviathan Judicator",
         "region": "Fontaine",
         "affiliation": "Court of Fontaine",
-        "element": "Hydro"
+        "element": "Hydro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/c/c4/Item_Neuvillette_Surge.png/revision/latest?cb=20230927112829",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/f/f7/Namecard_Background_Neuvillette_Surge.png/revision/latest?cb=20230927112650",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/d/db/Namecard_Banner_Neuvillette_Surge.png/revision/latest?cb=20230927112902"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -2699,7 +2986,14 @@
         "constellation": "Animula Choragi",
         "region": "Fontaine",
         "affiliation": "Court of Fontaine",
-        "element": "Hydro"
+        "element": "Hydro",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/8/80/Item_Furina_Banquet.png/revision/latest?cb=20231108032121",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/f/fa/Namecard_Background_Furina_Banquet.png/revision/latest?cb=20231108032045",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Namecard_Banner_Furina_Banquet.png/revision/latest?cb=20231108032140"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -2762,7 +3056,14 @@
         "constellation": "Feles",
         "region": "Mondstadt",
         "affiliation": "The Cat's Tail",
-        "element": "Cryo"
+        "element": "Cryo",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Item_Diona_Meow%21.png/revision/latest?cb=20201208040742",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Namecard_Background_Diona_Meow%21.png/revision/latest?cb=20210330005336",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/0/0d/Namecard_Banner_Diona_Meow%21.png/revision/latest?cb=20210330005431"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -2828,7 +3129,14 @@
         "constellation": "Nubis Caesor",
         "region": "Liyue",
         "affiliation": "Tianheng Thaumaturges",
-        "element": "Cryo"
+        "element": "Cryo",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Item_Chongyun_Spirit_Blade.png/revision/latest?cb=20201118070905",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/b/b5/Namecard_Background_Chongyun_Spirit_Blade.png/revision/latest?cb=20210330005334",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Namecard_Banner_Chongyun_Spirit_Blade.png/revision/latest?cb=20210330005429"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -2895,7 +3203,14 @@
         "constellation": "Pavo Ocellus",
         "region": "Mondstadt",
         "affiliation": "Knights of Favonius",
-        "element": "Cryo"
+        "element": "Cryo",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/f/f6/Item_Kaeya_Pavo_Ocellus.png/revision/latest?cb=20201118065620",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/c/c5/Namecard_Background_Kaeya_Pavo_Ocellus.png/revision/latest?cb=20210330005343",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/7/75/Namecard_Banner_Kaeya_Pavo_Ocellus.png/revision/latest?cb=20210330005247"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -2961,7 +3276,14 @@
         "constellation": "Spinea Corona",
         "region": "Mondstadt",
         "affiliation": "Church of Favonius",
-        "element": "Cryo"
+        "element": "Cryo",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/7/75/Item_Rosaria_Indenture.png/revision/latest?cb=20210317155152",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/8/82/Namecard_Background_Rosaria_Indenture.png/revision/latest?cb=20210330005356",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Namecard_Banner_Rosaria_Indenture.png/revision/latest?cb=20210330005301"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -3026,7 +3348,14 @@
         "constellation": "Luscinia",
         "region": "Sumeru",
         "affiliation": "Rtawahist",
-        "element": "Cryo"
+        "element": "Cryo",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/f/f5/Item_Layla_Daydream.png/revision/latest?cb=20221102041217",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/b/b9/Namecard_Background_Layla_Daydream.png/revision/latest?cb=20221102041232",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Namecard_Banner_Layla_Daydream.png/revision/latest?cb=20221102041120"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -3091,7 +3420,14 @@
         "constellation": "Palumbus",
         "region": "Mondstadt",
         "affiliation": "Knights of Favonius",
-        "element": "Cryo"
+        "element": "Cryo",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mika_Index.png/revision/latest?cb=20230301050413",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Namecard_Background_Mika_Index.png/revision/latest?cb=20230301050436",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Namecard_Banner_Mika_Index.png/revision/latest?cb=20230301051503"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -3157,7 +3493,14 @@
         "constellation": "Automaton",
         "region": "Fontaine",
         "affiliation": "Hotel Bouffes d'ete",
-        "element": "Cryo"
+        "element": "Cryo",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/8/87/Item_Freminet_Progress.png/revision/latest?cb=20230816190341",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/5/50/Namecard_Background_Freminet_Progress.png/revision/latest?cb=20230816190100",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/c/c0/Namecard_Banner_Freminet_Progress.png/revision/latest?cb=20230816190050"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -3223,7 +3566,14 @@
         "constellation": "Hualina Veritas",
         "region": "Fontaine",
         "affiliation": "The Steambird",
-        "element": "Cryo"
+        "element": "Cryo",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/6/6b/Item_Charlotte_Exclusive.png/revision/latest?cb=20231108032000",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Namecard_Background_Charlotte_Exclusive.png/revision/latest?cb=20231108031907",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Namecard_Banner_Charlotte_Exclusive.png/revision/latest?cb=20231108032021"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -3290,7 +3640,14 @@
         "constellation": "Pristina Nola",
         "region": "Liyue",
         "affiliation": "Bubu Pharmacy",
-        "element": "Cryo"
+        "element": "Cryo",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Item_Qiqi_Cold_Storage.png/revision/latest?cb=20201118070120",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/0/06/Namecard_Background_Qiqi_Cold_Storage.png/revision/latest?cb=20210330005355",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Namecard_Banner_Qiqi_Cold_Storage.png/revision/latest?cb=20210330005259"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -3356,7 +3713,14 @@
         "constellation": "Ampulla",
         "region": "Mondstadt",
         "affiliation": "Knights of Favonius",
-        "element": "Anemo"
+        "element": "Anemo",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/f/ff/Item_Sucrose_Bio-Alchemy.png/revision/latest?cb=20201118065725",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/f/fd/Namecard_Background_Sucrose_Bio-Alchemy.png/revision/latest?cb=20210330005357",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/6/69/Namecard_Banner_Sucrose_Bio-Alchemy.png/revision/latest?cb=20210330005302"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -3420,7 +3784,14 @@
         "constellation": "Nyctereutes Minor",
         "region": "Inazuma",
         "affiliation": "Shuumatsuban",
-        "element": "Anemo"
+        "element": "Anemo",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/6/63/Item_Sayu_Muji-Muji_Daruma.png/revision/latest?cb=20210725071316",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/0/06/Namecard_Background_Sayu_Muji-Muji_Daruma.png/revision/latest?cb=20210725071331",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/1/1d/Namecard_Banner_Sayu_Muji-Muji_Daruma.png/revision/latest?cb=20210725071350"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -3485,7 +3856,14 @@
         "constellation": "Cervus Minor",
         "region": "Inazuma",
         "affiliation": "Tenryou Commission",
-        "element": "Anemo"
+        "element": "Anemo",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Item_Shikanoin_Heizou_Temari.png/revision/latest?cb=20220713054103",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Namecard_Background_Shikanoin_Heizou_Temari.png/revision/latest?cb=20220713054114",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/b/b1/Namecard_Banner_Shikanoin_Heizou_Temari.png/revision/latest?cb=20220713054123"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -3550,7 +3928,14 @@
         "constellation": "Flosculi Implexi",
         "region": "Sumeru",
         "affiliation": "Haravatat",
-        "element": "Anemo"
+        "element": "Anemo",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/d/d7/Item_Faruzan_Sealed_Secret.png/revision/latest?cb=20221207033847",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Namecard_Background_Faruzan_Sealed_Secret.png/revision/latest?cb=20221207033849",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Namecard_Banner_Faruzan_Sealed_Secret.png/revision/latest?cb=20221207033845"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -3616,7 +4001,14 @@
         "constellation": "Felis Alba",
         "region": "Fontaine",
         "affiliation": "Hotel Bouffes d'ete",
-        "element": "Anemo"
+        "element": "Anemo",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Item_Lynette_Earnestness.png/revision/latest?cb=20230816185018",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/7/79/Namecard_Background_Lynette_Earnestness.png/revision/latest?cb=20230816190439",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Namecard_Banner_Lynette_Earnestness.png/revision/latest?cb=20230816190436"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -3682,7 +4074,14 @@
         "constellation": "Carmen Dei",
         "region": "Mondstadt",
         "affiliation": "Mondstadt",
-        "element": "Anemo"
+        "element": "Anemo",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Item_Venti_Azure_Sky.png/revision/latest?cb=20201118065425",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Namecard_Background_Venti_Azure_Sky.png/revision/latest?cb=20210330005404",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Namecard_Banner_Venti_Azure_Sky.png/revision/latest?cb=20210330005308"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -3749,7 +4148,14 @@
         "constellation": "Alatus Nemeseos",
         "region": "Liyue",
         "affiliation": "Liyue Adeptus",
-        "element": "Anemo"
+        "element": "Anemo",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Item_Xiao_Mask.png/revision/latest?cb=20210208142400",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Namecard_Background_Xiao_Mask.png/revision/latest?cb=20210330005407",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Namecard_Banner_Xiao_Mask.png/revision/latest?cb=20210330005309"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -3813,7 +4219,14 @@
         "constellation": "Acer Palmatum",
         "region": "Inazuma",
         "affiliation": "The Crux",
-        "element": "Anemo"
+        "element": "Anemo",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Item_Kaedehara_Kazuha_Autumn_Maple-Viewing.png/revision/latest?cb=20210610195727",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/c/c5/Namecard_Background_Kaedehara_Kazuha_Autumn_Maple-Viewing.png/revision/latest?cb=20210610195733",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/e/e6/Namecard_Banner_Kaedehara_Kazuha_Autumn_Maple-Viewing.png/revision/latest?cb=20210610195738"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -3876,7 +4289,14 @@
         "constellation": "Peregrinus",
         "region": "Sumeru",
         "affiliation": "Vahumana",
-        "element": "Anemo"
+        "element": "Anemo",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/9/94/Item_Wanderer_Drifter%27s_Ballad.png/revision/latest?cb=20221207033640",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/3/3d/Namecard_Background_Wanderer_Drifter%27s_Ballad.png/revision/latest?cb=20221207033642",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/8/80/Namecard_Banner_Wanderer_Drifter%27s_Ballad.png/revision/latest?cb=20221207033637"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -3945,7 +4365,14 @@
         "constellation": "Opus Aequilibrium",
         "region": "Liyue",
         "affiliation": "Liyue Qixing",
-        "element": "Geo"
+        "element": "Geo",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Item_Ningguang_Phoenix.png/revision/latest?cb=20201118070809",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/e/eb/Namecard_Background_Ningguang_Phoenix.png/revision/latest?cb=20210330005353",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/8/8f/Namecard_Banner_Ningguang_Phoenix.png/revision/latest?cb=20210330005257"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -4010,7 +4437,14 @@
         "constellation": "Parma Cordis",
         "region": "Mondstadt",
         "affiliation": "Knights of Favonius",
-        "element": "Geo"
+        "element": "Geo",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/9/90/Item_Noelle_Protector.png/revision/latest?cb=20201118065834",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/b/b0/Namecard_Background_Noelle_Protector.png/revision/latest?cb=20210330005354",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Namecard_Banner_Noelle_Protector.png/revision/latest?cb=20210330005258"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -4074,7 +4508,14 @@
         "constellation": "Canis Bellatoris",
         "region": "Inazuma",
         "affiliation": "Watatsumi Island",
-        "element": "Geo"
+        "element": "Geo",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/1/1d/Item_Gorou_Leisurely_Hound.png/revision/latest?cb=20211126224550",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/2/29/Namecard_Background_Gorou_Leisurely_Hound.png/revision/latest?cb=20211126224544",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/2/2f/Namecard_Banner_Gorou_Leisurely_Hound.png/revision/latest?cb=20211126224555"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -4137,7 +4578,14 @@
         "constellation": "Opera Grandis",
         "region": "Liyue",
         "affiliation": "Yun-Han Opera Troupe",
-        "element": "Geo"
+        "element": "Geo",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/7/7b/Item_Yun_Jin_Rhyme.png/revision/latest?cb=20220105061638",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/5/5e/Namecard_Background_Yun_Jin_Rhyme.png/revision/latest?cb=20220105061658",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Namecard_Banner_Yun_Jin_Rhyme.png/revision/latest?cb=20220105061713"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -4201,7 +4649,14 @@
         "constellation": "Lapis Dei",
         "region": "Liyue",
         "affiliation": "Liyue Harbor",
-        "element": "Geo"
+        "element": "Geo",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Zhongli_Planet_Befall.png/revision/latest?cb=20201208040743",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Namecard_Background_Zhongli_Planet_Befall.png/revision/latest?cb=20210330005409",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/a/ae/Namecard_Banner_Zhongli_Planet_Befall.png/revision/latest?cb=20210330005312"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -4268,7 +4723,14 @@
         "constellation": "Princeps Cretaceus",
         "region": "Mondstadt",
         "affiliation": "Knights of Favonius",
-        "element": "Geo"
+        "element": "Geo",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Albedo_Sun_Blossom.png/revision/latest?cb=20201223232307",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/7/7e/Namecard_Background_Albedo_Sun_Blossom.png/revision/latest?cb=20210330005326",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/c/cd/Namecard_Banner_Albedo_Sun_Blossom.png/revision/latest?cb=20210330005422"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",
@@ -4334,7 +4796,14 @@
         "constellation": "Taurus Iracundus",
         "region": "Inazuma",
         "affiliation": "Arataki Gang",
-        "element": "Geo"
+        "element": "Geo",
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Item_Itto_Oni_Face.png/revision/latest?cb=20211126224917",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/7/75/Namecard_Background_Itto_Oni_Face.png/revision/latest?cb=20211126224907",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Namecard_Banner_Itto_Oni_Face.png/revision/latest?cb=20211126224923"
+          }
+        ]
       }
     ],
     "recommended_weapon": "",

@@ -19,7 +19,7 @@ def get_character():
     new_json_array = []
     
     for character_data in content:
-        print(character_data["character_info"][0]["img_namecard"][0]["img_in_game"])
+        print(character_data["list_img_char"][0]["img_char_nbg"])
         new_json = {
             "name": character_data["name"],
             "element": character_data["character_info"][0]["element"],

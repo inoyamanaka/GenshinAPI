@@ -181,6 +181,7 @@ class GenshinCharacterScraper:
                             "region":region,
                             "affiliation":affiliation,
                             "element":element,
+                            "img_namecard":list_img_namecard,
                             })
 
         return information
