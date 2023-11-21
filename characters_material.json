@@ -1,19 +1,25 @@
 [
   {
-    "real_name": "Hu Tao[Note 1]",
-    "rarity": "5 Stars",
+    "real_name": "Mao Xiangling[Note 1]",
+    "rarity": "4 Stars",
     "weapon": "Polearm",
-    "constellation": "Papilio Charontis",
+    "constellation": "Trulla",
     "region": "Liyue",
-    "affiliation": "Wangsheng Funeral Parlor",
+    "affiliation": "Wanmin Restaurant",
     "element": "Pyro",
-    "img_namecard": [],
+    "img_namecard": [
+      {
+        "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Xiangling_Fresh_from_the_Pan.png/revision/latest?cb=20201118070019",
+        "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Namecard_Background_Xiangling_Fresh_from_the_Pan.png/revision/latest?cb=20210330005406",
+        "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Namecard_Banner_Xiangling_Fresh_from_the_Pan.png/revision/latest?cb=20210330005309"
+      }
+    ],
     "img_character": [
       {
-        "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-        "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-        "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434",
-        "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/hu_tao-nobg.png"
+        "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+        "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+        "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+        "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
       }
     ],
     "talentMaterial": [
@@ -22,8 +28,8 @@
         "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
       },
       {
-        "name": "Shard of a Foul Legacy",
-        "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+        "name": "Dvalin's Claw",
+        "image": "https://paimon.moe/images/items/dvalins_claw.png"
       }
     ],
     "talentAsencsion": [
@@ -32,16 +38,16 @@
         "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
       },
       {
-        "name": "Juvenile Jade",
-        "image": "https://paimon.moe/images/items/juvenile_jade.png"
+        "name": "Everflame Seed",
+        "image": "https://paimon.moe/images/items/everflame_seed.png"
       },
       {
-        "name": "Silk Flower",
-        "image": "https://paimon.moe/images/items/silk_flower.png"
+        "name": "Jueyun Chili",
+        "image": "https://paimon.moe/images/items/jueyun_chili.png"
       },
       {
-        "name": "Whopperflower Nectar",
-        "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+        "name": "Slime Condensate",
+        "image": "https://paimon.moe/images/items/slime_condensate.png"
       }
     ]
   }

@@ -14,17 +14,26 @@ def read_item():
 
 @app.get("/characters")
 def get_character():
-    url = "https://genshin.jmp.blue/characters"
-
-    response = requests.get(url)
-
-    if response.status_code == 200:
-        data = response.json()  # Jika respons berupa JSON
-        print(data)
-    else:
-        print(f"Failed to retrieve data. Status code: {response.status_code}")
+    file = open('characters_data_combine.json')
+    content = json.load(file) 
+    new_json_array = []
+    
+    for character_data in content:
+        print(character_data["name"])
+        print(character_data["character_info"][0]["element"])
+        print(character_data["character_info"][0]["img_namecard"][0]["img_namecard_2"])
         
-    return data
+        new_json = {
+            "name": character_data["name"],
+            "element": character_data["character_info"][0]["element"],
+            "img_namecard_2": character_data["character_info"][0]["img_namecard"][0]["img_namecard_2"],
+            "img_in_game": character_data["character_info"][0]["img_character"][0]["img_in_game"]
+        }
+        new_json_array.append(new_json)
+    # Mengubah array objek Python menjadi string JSON
+    # new_json_str = json.dumps(new_json_array, indent=2)
+
+    return new_json_array
 
 @app.get("/characters/{name}")
 def get_detail_character(name: str):    

@@ -20,9 +20,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -31,8 +32,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -41,16 +42,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -113,12 +114,19 @@
         "region": "Liyue",
         "affiliation": "Wanmin Restaurant",
         "element": "Pyro",
-        "img_namecard": [],
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Item_Xiangling_Fresh_from_the_Pan.png/revision/latest?cb=20201118070019",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Namecard_Background_Xiangling_Fresh_from_the_Pan.png/revision/latest?cb=20210330005406",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Namecard_Banner_Xiangling_Fresh_from_the_Pan.png/revision/latest?cb=20210330005309"
+          }
+        ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -127,8 +135,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -137,16 +145,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -217,9 +225,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -228,8 +237,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -238,16 +247,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -312,9 +321,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -323,8 +333,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -333,16 +343,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -411,9 +421,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -422,8 +433,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -432,16 +443,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -513,9 +524,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -524,8 +536,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -534,16 +546,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -605,12 +617,19 @@
         "region": "Mondstadt",
         "affiliation": "Dawn Winery",
         "element": "Pyro",
-        "img_namecard": [],
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/c/c7/Item_Diluc_Flames.png/revision/latest?cb=20201118064922",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/2/2a/Namecard_Background_Diluc_Flames.png/revision/latest?cb=20210330005335",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/0/08/Namecard_Banner_Diluc_Flames.png/revision/latest?cb=20210330005430"
+          }
+        ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -619,8 +638,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -629,16 +648,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -707,9 +726,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -718,8 +738,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -728,16 +748,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -799,12 +819,19 @@
         "region": "Liyue",
         "affiliation": "Wangsheng Funeral Parlor",
         "element": "Pyro",
-        "img_namecard": [],
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/e/ec/Item_Hu_Tao_Spirit_Soother.png/revision/latest?cb=20210208142355",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Namecard_Background_Hu_Tao_Spirit_Soother.png/revision/latest?cb=20210330005340",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/4/43/Namecard_Banner_Hu_Tao_Spirit_Soother.png/revision/latest?cb=20210330005434"
+          }
+        ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -813,8 +840,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -823,16 +850,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -894,12 +921,19 @@
         "region": "Inazuma",
         "affiliation": "Naganohara Fireworks",
         "element": "Pyro",
-        "img_namecard": [],
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/1/1a/Item_Yoimiya_Auratus_Spark.png/revision/latest?cb=20210725071318",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Namecard_Background_Yoimiya_Auratus_Spark.png/revision/latest?cb=20210725071335",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Namecard_Banner_Yoimiya_Auratus_Spark.png/revision/latest?cb=20210725071354"
+          }
+        ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -908,8 +942,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -918,16 +952,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -995,9 +1029,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -1006,8 +1041,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -1016,16 +1051,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -1097,9 +1132,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -1108,8 +1144,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -1118,16 +1154,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -1184,12 +1220,19 @@
         "region": "Mondstadt",
         "affiliation": "Adventurers' Guild",
         "element": "Electro",
-        "img_namecard": [],
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Item_Fischl_Night_Raven.png/revision/latest?cb=20201118065803",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/0/0c/Namecard_Background_Fischl_Night_Raven.png/revision/latest?cb=20210330005336",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/e/ed/Namecard_Banner_Fischl_Night_Raven.png/revision/latest?cb=20210330005432"
+          }
+        ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -1198,8 +1241,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -1208,16 +1251,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -1288,9 +1331,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -1299,8 +1343,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -1309,16 +1353,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -1379,12 +1423,19 @@
         "region": "Mondstadt",
         "affiliation": "Knights of Favonius",
         "element": "Electro",
-        "img_namecard": [],
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/2/29/Item_Lisa_Tempus_Fugit.png/revision/latest?cb=20201118065654",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/8/86/Namecard_Background_Lisa_Tempus_Fugit.png/revision/latest?cb=20210330005345",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/8/8c/Namecard_Banner_Lisa_Tempus_Fugit.png/revision/latest?cb=20210330005250"
+          }
+        ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -1393,8 +1444,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -1403,16 +1454,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -1481,9 +1532,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -1492,8 +1544,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -1502,16 +1554,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -1578,9 +1630,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -1589,8 +1642,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -1599,16 +1652,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -1677,9 +1730,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -1688,8 +1742,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -1698,16 +1752,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -1767,12 +1821,19 @@
         "region": "Sumeru",
         "affiliation": "The Palace of Alcazarzaray",
         "element": "Electro",
-        "img_namecard": [],
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/8/8e/Item_Dori_Jinni.png/revision/latest?cb=20220831100543",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/6/68/Namecard_Background_Dori_Jinni.png/revision/latest?cb=20220910215254",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Namecard_Banner_Dori_Jinni.png/revision/latest?cb=20220910215303"
+          }
+        ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -1781,8 +1842,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -1791,16 +1852,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -1869,9 +1930,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -1880,8 +1942,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -1890,16 +1952,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -1960,12 +2022,19 @@
         "region": "Inazuma",
         "affiliation": "Inazuma City",
         "element": "Electro",
-        "img_namecard": [],
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/e/e3/Item_Raiden_Shogun_Enlightenment.png/revision/latest?cb=20210901111436",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/5/5e/Namecard_Background_Raiden_Shogun_Enlightenment.png/revision/latest?cb=20210902035057",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/e/e9/Namecard_Banner_Raiden_Shogun_Enlightenment.png/revision/latest?cb=20210902035130"
+          }
+        ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -1974,8 +2043,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -1984,16 +2053,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -2061,9 +2130,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -2072,8 +2142,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -2082,16 +2152,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -2161,9 +2231,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -2172,8 +2243,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -2182,16 +2253,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -2260,9 +2331,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -2271,8 +2343,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -2281,16 +2353,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -2360,9 +2432,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -2371,8 +2444,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -2381,16 +2454,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -2464,9 +2537,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -2475,8 +2549,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -2485,16 +2559,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -2563,9 +2637,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -2574,8 +2649,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -2584,16 +2659,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -2663,9 +2738,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -2674,8 +2750,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -2684,16 +2760,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -2761,9 +2837,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -2772,8 +2849,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -2782,16 +2859,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -2860,9 +2937,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -2871,8 +2949,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -2881,16 +2959,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -2959,9 +3037,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -2970,8 +3049,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -2980,16 +3059,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -3059,9 +3138,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -3070,8 +3150,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -3080,16 +3160,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -3150,12 +3230,19 @@
         "region": "Mondstadt",
         "affiliation": "Church of Favonius",
         "element": "Hydro",
-        "img_namecard": [],
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Item_Barbara_Flow.png/revision/latest?cb=20201118065545",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/7/7a/Namecard_Background_Barbara_Flow.png/revision/latest?cb=20210330005328",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Namecard_Banner_Barbara_Flow.png/revision/latest?cb=20210330005424"
+          }
+        ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -3164,8 +3251,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -3174,16 +3261,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -3250,9 +3337,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -3261,8 +3349,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -3271,16 +3359,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -3338,12 +3426,19 @@
         "region": "Snezhnaya",
         "affiliation": "Fatui",
         "element": "Hydro",
-        "img_namecard": [],
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/5/50/Item_Childe_Foul_Legacy.png/revision/latest?cb=20201208040743",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Namecard_Background_Childe_Foul_Legacy.png/revision/latest?cb=20210330005358",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Namecard_Banner_Childe_Foul_Legacy.png/revision/latest?cb=20210330005302"
+          }
+        ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -3352,8 +3447,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -3362,16 +3457,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -3433,12 +3528,19 @@
         "region": "Mondstadt",
         "affiliation": "Mondstadt",
         "element": "Hydro",
-        "img_namecard": [],
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mona_Starry_Sky.png/revision/latest?cb=20201118065913",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/9/9d/Namecard_Background_Mona_Starry_Sky.png/revision/latest?cb=20210330005349",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Namecard_Banner_Mona_Starry_Sky.png/revision/latest?cb=20210330005254"
+          }
+        ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -3447,8 +3549,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -3457,16 +3559,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -3535,9 +3637,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -3546,8 +3649,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -3556,16 +3659,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -3635,9 +3738,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -3646,8 +3750,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -3656,16 +3760,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -3737,9 +3841,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -3748,8 +3853,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -3758,16 +3863,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -3833,9 +3938,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -3844,8 +3950,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -3854,16 +3960,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -3932,9 +4038,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -3943,8 +4050,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -3953,16 +4060,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -4020,12 +4127,19 @@
         "region": "Fontaine",
         "affiliation": "Court of Fontaine",
         "element": "Hydro",
-        "img_namecard": [],
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/8/80/Item_Furina_Banquet.png/revision/latest?cb=20231108032121",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/f/fa/Namecard_Background_Furina_Banquet.png/revision/latest?cb=20231108032045",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Namecard_Banner_Furina_Banquet.png/revision/latest?cb=20231108032140"
+          }
+        ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -4034,8 +4148,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -4044,16 +4158,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -4120,9 +4234,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -4131,8 +4246,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -4141,16 +4256,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -4220,9 +4335,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -4231,8 +4347,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -4241,16 +4357,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -4312,12 +4428,19 @@
         "region": "Mondstadt",
         "affiliation": "Knights of Favonius",
         "element": "Cryo",
-        "img_namecard": [],
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/f/f6/Item_Kaeya_Pavo_Ocellus.png/revision/latest?cb=20201118065620",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/c/c5/Namecard_Background_Kaeya_Pavo_Ocellus.png/revision/latest?cb=20210330005343",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/7/75/Namecard_Banner_Kaeya_Pavo_Ocellus.png/revision/latest?cb=20210330005247"
+          }
+        ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -4326,8 +4449,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -4336,16 +4459,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -4415,9 +4538,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -4426,8 +4550,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -4436,16 +4560,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -4514,9 +4638,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -4525,8 +4650,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -4535,16 +4660,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -4604,12 +4729,19 @@
         "region": "Mondstadt",
         "affiliation": "Knights of Favonius",
         "element": "Cryo",
-        "img_namecard": [],
+        "img_namecard": [
+          {
+            "img_namecard_1": "https://static.wikia.nocookie.net/gensin-impact/images/5/55/Item_Mika_Index.png/revision/latest?cb=20230301050413",
+            "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Namecard_Background_Mika_Index.png/revision/latest?cb=20230301050436",
+            "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/e/e0/Namecard_Banner_Mika_Index.png/revision/latest?cb=20230301051503"
+          }
+        ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -4618,8 +4750,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -4628,16 +4760,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -4707,9 +4839,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -4718,8 +4851,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -4728,16 +4861,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -4807,9 +4940,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -4818,8 +4952,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -4828,16 +4962,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -4908,9 +5042,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -4919,8 +5054,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -4929,16 +5064,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -5008,9 +5143,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -5019,8 +5155,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -5029,16 +5165,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -5106,9 +5242,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -5117,8 +5254,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -5127,16 +5264,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -5205,9 +5342,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -5216,8 +5354,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -5226,16 +5364,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -5304,9 +5442,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -5315,8 +5454,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -5325,16 +5464,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -5404,9 +5543,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -5415,8 +5555,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -5425,16 +5565,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -5504,9 +5644,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -5515,8 +5656,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -5525,16 +5666,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -5605,9 +5746,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -5616,8 +5758,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -5626,16 +5768,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -5703,9 +5845,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -5714,8 +5857,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -5724,16 +5867,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -5800,9 +5943,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -5811,8 +5955,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -5821,16 +5965,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -5903,9 +6047,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -5914,8 +6059,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -5924,16 +6069,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -6002,9 +6147,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -6013,8 +6159,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -6023,16 +6169,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -6100,9 +6246,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -6111,8 +6258,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -6121,16 +6268,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -6197,9 +6344,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -6208,8 +6356,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -6218,16 +6366,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -6295,9 +6443,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -6306,8 +6455,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -6316,16 +6465,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -6396,9 +6545,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -6407,8 +6557,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -6417,16 +6567,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }
@@ -6496,9 +6646,10 @@
         ],
         "img_character": [
           {
-            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Hu_Tao_Card.png/revision/latest?cb=20220725204937",
-            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest?cb=20220507160922",
-            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Character_Hu_Tao_Game.png/revision/latest?cb=20210628112434"
+            "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
+            "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
+            "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
+            "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
           }
         ],
         "talentMaterial": [
@@ -6507,8 +6658,8 @@
             "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
           },
           {
-            "name": "Shard of a Foul Legacy",
-            "image": "https://paimon.moe/images/items/shard_of_a_foul_legacy.png"
+            "name": "Dvalin's Claw",
+            "image": "https://paimon.moe/images/items/dvalins_claw.png"
           }
         ],
         "talentAsencsion": [
@@ -6517,16 +6668,16 @@
             "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
           },
           {
-            "name": "Juvenile Jade",
-            "image": "https://paimon.moe/images/items/juvenile_jade.png"
+            "name": "Everflame Seed",
+            "image": "https://paimon.moe/images/items/everflame_seed.png"
           },
           {
-            "name": "Silk Flower",
-            "image": "https://paimon.moe/images/items/silk_flower.png"
+            "name": "Jueyun Chili",
+            "image": "https://paimon.moe/images/items/jueyun_chili.png"
           },
           {
-            "name": "Whopperflower Nectar",
-            "image": "https://paimon.moe/images/items/whopperflower_nectar.png"
+            "name": "Slime Condensate",
+            "image": "https://paimon.moe/images/items/slime_condensate.png"
           }
         ]
       }

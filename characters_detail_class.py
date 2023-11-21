@@ -135,11 +135,14 @@ class GenshinCharacterScraper:
 
             
             namecard = f"https://genshin-impact.fandom.com/{nation[5].find_all('a')[1]['href']}"
+            
             html_3 = requests.get(namecard).text
             soup_3 = BeautifulSoup(html_3, "lxml")
             
             # namedcard = soup_3.find_all('div', class_='pi-item pi-data pi-item-spacing pi-border-color')
             img_namecard = soup_3.find_all('div', class_='wds-tab__content')
+            
+            
             img_namecard_1 = img_namecard[0].find('a')['href']
             img_namecard_2 = img_namecard[1].find('a')['href']
             img_namecard_3 = img_namecard[2].find('a')['href']
@@ -165,6 +168,12 @@ class GenshinCharacterScraper:
             img_namecard_2 = img_namecard[1].find('a')['href']
             img_namecard_3 = img_namecard[2].find('a')['href']
             
+            list_img_namecard.append({
+                                "img_namecard_1":img_namecard_1,
+                                "img_namecard_2":img_namecard_2,
+                                "img_namecard_3":img_namecard_3})
+            # print(img_namecard_1)
+            
         information.append({"real_name":real_name,
                             "rarity":rarity,
                             "weapon":weapon,
@@ -186,7 +195,7 @@ class GenshinCharacterScraper:
 
 # Example of how to use the class
 scraper = GenshinCharacterScraper()
-character_name = 'Hu_tao'  # Replace with the desired character name
+character_name = 'Xiangling'  # Replace with the desired character name
 result_material_1, result_material_2 = scraper.scrape_paimon_moe(character_name)
 list_img_char = scraper.scrape_genshin_wiki(character_name)
 information = scraper.scrape_character_info(character_name)
