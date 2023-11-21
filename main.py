@@ -32,8 +32,8 @@ def get_character():
         new_json_array.append(new_json)
     # Mengubah array objek Python menjadi string JSON
     # new_json_str = json.dumps(new_json_array, indent=2)
-
-    return new_json_array
+    response_data = {"data": new_json_array}
+    return response_data
 
 @app.get("/characters/{name}")
 def get_detail_character(name: str):    
