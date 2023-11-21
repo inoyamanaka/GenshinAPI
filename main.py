@@ -26,7 +26,7 @@ def get_character():
         new_json = {
             "name": character_data["name"],
             "element": character_data["character_info"][0]["element"],
-            "img_namecard_2": character_data["character_info"][0]["img_namecard"][0]["img_namecard_2"],
+            "img_namecard": character_data["character_info"][0]["img_namecard"][0]["img_namecard_2"],
             "img_in_game": character_data["character_info"][0]["img_character"][0]["img_in_game"]
         }
         new_json_array.append(new_json)
