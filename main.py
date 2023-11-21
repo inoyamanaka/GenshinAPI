@@ -19,15 +19,12 @@ def get_character():
     new_json_array = []
     
     for character_data in content:
-        print(character_data["name"])
-        print(character_data["character_info"][0]["element"])
-        print(character_data["character_info"][0]["img_namecard"][0]["img_namecard_2"])
-        
+        print(character_data["character_info"][0]["img_namecard"][0]["img_in_game"])
         new_json = {
             "name": character_data["name"],
             "element": character_data["character_info"][0]["element"],
             "img_namecard": character_data["character_info"][0]["img_namecard"][0]["img_namecard_2"],
-            "img_in_game": character_data["character_info"][0]["img_character"][0]["img_in_game"]
+            "img_in_game": character_data["list_img_character"][0]["img_char_nbg"]
         }
         new_json_array.append(new_json)
     # Mengubah array objek Python menjadi string JSON

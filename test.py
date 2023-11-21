@@ -39,6 +39,7 @@ for h in range (0, 7):
         character_data = {
             "name": character_name,
             "role": character_role,
+            "list_img_char":list_img_char,
             "character_info": information,
             "recommended_weapon":recommended_weapon,
             "recommended_artifact":recommended_artifact,

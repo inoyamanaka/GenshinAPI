@@ -181,10 +181,7 @@ class GenshinCharacterScraper:
                             "region":region,
                             "affiliation":affiliation,
                             "element":element,
-                            "img_namecard":list_img_namecard,
-                            "img_character":list_img_char,
-                            "talentMaterial": result_material_1,
-                            "talentAsencsion": result_material_2})
+                            })
 
         return information
 
@@ -193,11 +190,13 @@ class GenshinCharacterScraper:
             json.dump(data, json_file, indent=2)
 
 
-# Example of how to use the class
-scraper = GenshinCharacterScraper()
-character_name = 'Xiangling'  # Replace with the desired character name
-result_material_1, result_material_2 = scraper.scrape_paimon_moe(character_name)
-list_img_char = scraper.scrape_genshin_wiki(character_name)
-information = scraper.scrape_character_info(character_name)
+# # Example of how to use the class
+# scraper = GenshinCharacterScraper()
 
-scraper.save_to_json(information, 'characters_material.json')
+
+# character_name = 'Xiangling'  # Replace with the desired character name
+# result_material_1, result_material_2 = scraper.scrape_paimon_moe(character_name)
+# list_img_char = scraper.scrape_genshin_wiki(character_name)
+# information = scraper.scrape_character_info(character_name)
+
+# scraper.save_to_json(information, 'characters_material.json')
