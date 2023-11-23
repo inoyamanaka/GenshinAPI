@@ -3,18 +3,45 @@ import os
 import re
 from bs4 import BeautifulSoup
 import requests
-url = "https://genshin.hoyoverse.com/en/character/mondstadt"
-# html = requests.get().content
-# soup = BeautifulSoup(html, "html.parser")
-# tables = soup.find_all("li", class_=["swiper-slide", "swiper-slide-active"])
+from requests_html import HTMLSession
 
-# print(soup)
+def basic_soup_load(url, params):
+    url = f"{url}{params}"
+    print(url)
+    session = HTMLSession()
+    response = session.get(url)
+    response.html.render()
+    response.close()
+    
+    soup = BeautifulSoup(response.html.html, 'html.parser')
 
-response = requests.get(url)
-soup = BeautifulSoup(response.content, 'html.parser')
+    return soup
 
-# target_div = soup.find('div', class_="character__main")  # Replace 'my-div' with the actual div ID
-# li_count = len(target_div.find_all('li'))
+def get_chars_limit(url, region):
+    soup = basic_soup_load(url=url, params=region)
+    target_div = soup.find('div', 'character__main')
 
-# print("Number of <li> tags within the specific <div>: ", li_count)
-print(soup)
+    li_count = round(len(target_div.find_all('li', class_='swiper-slide'))/2)
+    return li_count
+
+def get_char_assets(url, region, index):
+    param = f"{region}?char={index}"
+    soup = basic_soup_load(url=url, params=param)
+
+    target_main = soup.find('div', class_='character__main')
+    target_li_main = target_main.find('li', {'class': ['swiper-slide', 'swiper-slide-active']})
+    target_person = target_li_main.find('img', class_='character__person').get('src')
+    target_emblem = target_li_main.find('img', class_='character__icon').get('src')
+    
+    target_page = soup.find('ul', class_='character__page--render')
+    target_li_page = target_page.find('li', {'class': ['swiper-slide', 'swiper-slide-thumb-active', 'swiper-slide-visible']})
+    target_icon = target_li_page.find('img').get('src')
+    target_name = target_li_page.find('p').text
+
+    # print(target_li_page)
+    return [target_person, target_emblem, target_icon, target_name]
+
+kota = ['mondstadt', 'liyue', 'inazuma', 'sumeru', 'Fontaine']
+base_url = f"https://genshin.hoyoverse.com/en/character/"
+
+print(get_char_assets(url=base_url, region=kota[0], index=18))
