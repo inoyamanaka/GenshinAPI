@@ -1,5 +1,4 @@
 # Genshin Impact API Development Project
-https://vercel.com/herlambangkurniawan321-gmailcom/genshin-api/ANxkdPRGdkond9K4DUqVxcDq3nyV
 This project is dedicated to the development of a Genshin Impact API. The goal is to provide a platform for accessing Genshin Impact-related data programmatically.
 
 ## Acknowledgments
