@@ -2,6 +2,7 @@ import json
 from fastapi import FastAPI
 import requests
 import uvicorn
+from collections import defaultdict
 
 app = FastAPI()
 
@@ -17,9 +18,11 @@ def get_character():
     file = open('characters_data_combine.json')
     content = json.load(file) 
     new_json_array = []
+    grouped_data = defaultdict(list)
     
     for character_data in content:
-        print(character_data["list_img_char"][0]["img_char_nbg"])
+        # print(character_data["region"])
+        region = character_data["character_info"][0]["region"]
         new_json = {
             "name": character_data["name"],
             "element": character_data["character_info"][0]["element"],
@@ -27,9 +30,9 @@ def get_character():
             "img_in_game": character_data["list_img_char"][0]["img_char_nbg"]
         }
         new_json_array.append(new_json)
-    # Mengubah array objek Python menjadi string JSON
-    # new_json_str = json.dumps(new_json_array, indent=2)
-    response_data = {"data": new_json_array}
+        grouped_data[region].append(new_json)
+        
+    response_data = {"data": [list(value) for value in grouped_data.values()]}
     return response_data
 
 @app.get("/characters/{name}")
