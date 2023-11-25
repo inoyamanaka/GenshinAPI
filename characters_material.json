@@ -13,42 +13,6 @@
         "img_namecard_2": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Namecard_Background_Xiangling_Fresh_from_the_Pan.png/revision/latest?cb=20210330005406",
         "img_namecard_3": "https://static.wikia.nocookie.net/gensin-impact/images/6/60/Namecard_Banner_Xiangling_Fresh_from_the_Pan.png/revision/latest?cb=20210330005309"
       }
-    ],
-    "img_character": [
-      {
-        "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Xiangling_Card.png/revision/latest?cb=20220725205223",
-        "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/d/d9/Character_Xiangling_Full_Wish.png/revision/latest?cb=20220507154040",
-        "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/2/2b/Character_Xiangling_Game.png/revision/latest?cb=20210708074224",
-        "img_char_nbg": "https://cdn.wanderer.moe/genshin-impact/splash-art/xiangling-nobg.png"
-      }
-    ],
-    "talentMaterial": [
-      {
-        "name": "Diligence",
-        "image": "https://paimon.moe/images/items/teachings_of_diligence.png"
-      },
-      {
-        "name": "Dvalin's Claw",
-        "image": "https://paimon.moe/images/items/dvalins_claw.png"
-      }
-    ],
-    "talentAsencsion": [
-      {
-        "name": "Agnidus Agate Fragment",
-        "image": "https://paimon.moe/images/items/agnidus_agate_fragment.png"
-      },
-      {
-        "name": "Everflame Seed",
-        "image": "https://paimon.moe/images/items/everflame_seed.png"
-      },
-      {
-        "name": "Jueyun Chili",
-        "image": "https://paimon.moe/images/items/jueyun_chili.png"
-      },
-      {
-        "name": "Slime Condensate",
-        "image": "https://paimon.moe/images/items/slime_condensate.png"
-      }
     ]
   }
 ]

@@ -20,7 +20,6 @@ class GenshinCharacterScraper:
         if character_name == 'Childe':
             char_name = 'tartaglia'
         
-        
         html = requests.get(f'https://paimon.moe/characters/{char_name.lower()}').text
         soup = BeautifulSoup(html, "lxml")
 
@@ -57,6 +56,7 @@ class GenshinCharacterScraper:
         char_name = character_name
         if character_name == 'Childe':
             char_name = 'Tartaglia'
+       
         list_img_char = []
 
         img_char_1 = ''
@@ -66,6 +66,15 @@ class GenshinCharacterScraper:
 
         html_2 = requests.get(f'https://genshin-impact.fandom.com/wiki/{char_name.title()}').text
         soup_2 = BeautifulSoup(html_2, "lxml")
+        
+        
+        html_nobg = requests.get(f"https://genshinbuild.com/en/{char_name.lower().replace('_', '-')}").text
+        soup_nobg = BeautifulSoup(html_nobg, "lxml")
+        try:
+            img_char_nobg = soup_nobg.find_all('div', id='pers')[0].find_all('img')[1]['src']
+        except:
+            img_char_nobg = soup_nobg.find_all('section', id='pers')[0].find_all('img')[1]['src']
+     
 
         # ... (your existing scraping code for genshin wiki)
         img_char = soup_2.find_all('div', class_='wds-tab__content')
@@ -73,13 +82,13 @@ class GenshinCharacterScraper:
         img_char_1 = img_char[0].find('a')['href']
         img_char_2 = img_char[1].find('a')['href']
         img_char_3 = img_char[2].find('a')['href']
-        img_char_nbg = f'https://cdn.wanderer.moe/genshin-impact/splash-art/{char_name.lower()}-nobg.png'
+        # img_char_nbg = f'https://cdn.wanderer.moe/genshin-impact/splash-art/{char_name.lower()}-nobg.png'
 
         list_img_char.append({
                             "img_card":img_char_1,
                             "img_wish":img_char_2,
                             "img_in_game":img_char_3,
-                            "img_char_nbg":img_char_nbg})
+                            "img_char_nbg":img_char_nobg})
                 
 
         return list_img_char
