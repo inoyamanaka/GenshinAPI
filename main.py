@@ -37,8 +37,24 @@ def get_character():
 
 @app.get("/characters/{name}")
 def get_detail_character(name: str):    
-    url = f"https://genshin.jmp.blue/characters/{name}"
-    response = requests.get(url)
+    file = open('characters_data_combine.json')
+    content = json.load(file) 
+    
+    sorted_data = sorted(content, key=lambda x: x["name"].lower())
+    print(sorted_data)
+    low, high = 0, len(sorted_data) - 1
+    while low <= high:
+        mid = (low + high) // 2
+        mid_character = sorted_data[mid]["name"].lower()
+
+        if mid_character == name.lower():
+            return sorted_data[mid]
+        elif mid_character < name.lower():
+            low = mid + 1
+        else:
+            high = mid - 1
+
+    return None
 
 if __name__ == "__main__":
     uvicorn.run(app, host="127.0.0.1", port=8000)
