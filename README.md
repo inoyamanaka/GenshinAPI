@@ -1,5 +1,4 @@
 # Genshin Impact API Development Project
-
 This project is dedicated to the development of a Genshin Impact API. The goal is to provide a platform for accessing Genshin Impact-related data programmatically.
 
 ## Acknowledgments
