@@ -1,8 +1,7 @@
 class CharacterEntity:
-    def __init__(self, name, element, region, img_in_game, img_namecard):
+    def __init__(self, name, element, img_in_game, img_namecard):
         self.name = name
         self.element = element
-        self.region = region
         self.img_in_game = img_in_game
         self.img_namecard = img_namecard
         

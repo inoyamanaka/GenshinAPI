@@ -22,12 +22,25 @@ def get_character():
     file = open('all_character_data.json')
     content = json.load(file) 
     character_entities = []
+    grouped_data = defaultdict(list)
     
     
         
     for character_data in content:
-        print(character_data)
+        index = 0
+        # print(character_data)
         region = character_data["region"]
+        # Determine the index based on the region
+        if region == "Mondstadt":
+            index = 0
+        elif region == "Liyue" or region == "Snezhnaya":
+            index = 1
+        elif region == "Inazuma":
+            index = 2
+        elif region == "Sumeru":
+            index = 3
+        elif region == "Fontaine":
+            index = 4
         character_entity = CharacterEntity(
             name=character_data["character_name"],
             element=character_data["element"],
@@ -36,13 +49,12 @@ def get_character():
         )
         character_entities.append(character_entity)
         
-    # Optionally, you can also group the characters by region using your defaultdict
-    grouped_data = defaultdict(list)
-    for character_entity in character_entities:
-        grouped_data[character_entity.region].append(character_entity)
-        
+        # Optionally, you can also group the characters by region using your defaultdict
+        grouped_data[index].append(character_entity)
+    
     # Convert the grouped data to a format suitable for the response
-    response_data = {"data": {region: [character.__dict__ for character in characters] for region, characters in grouped_data.items()}}
+    sorted_grouped_data = sorted(grouped_data.items(), key=lambda x: x[0])
+    response_data = {"data": [group for index, group in sorted_grouped_data]}
     return response_data
 
 @app.get("/characters/{name}")
