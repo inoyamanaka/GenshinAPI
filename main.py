@@ -31,7 +31,6 @@ def get_character():
         character_entity = CharacterEntity(
             name=character_data["character_name"],
             element=character_data["element"],
-            region=region,
             img_in_game=character_data["char_image"][0]["img_char_nbg"],
             img_namecard=character_data["img_namecard"][0]["img_namecard_2"]
         )
