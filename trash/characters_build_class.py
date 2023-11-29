@@ -22,7 +22,6 @@ class CharacterScraper:
             index += 1
 
       
-
     def scrape_characters(self, file_path):
         result = []
         pattern = re.compile(r'\d+\.')

@@ -53,9 +53,28 @@ class GenshinCharacterScraper:
         return result_material_1, result_material_2
 
     def scrape_genshin_wiki(self, character_name):
-        char_name = character_name
+        char_name = character_name.replace(' ', '_')
         if character_name == 'Childe':
             char_name = 'Tartaglia'
+        if character_name == 'Ayaka':
+            char_name = "Kamisato_Ayaka"
+        if character_name == 'Ayato':
+            char_name = "Kamisato_Ayato"
+        if character_name == 'Itto':
+            char_name = "Arataki_Itto"
+        if character_name == 'Kazuha':
+            char_name = "Kaedehara_Kazuha"
+        if character_name == 'Kokomi':
+            char_name = 'Sangonomiya_Kokomi'
+        if character_name == 'Raiden':
+            char_name = 'Raiden_Shogun'
+        if character_name == 'Heizou':
+            char_name = 'Shikanoin_Heizou'
+        if character_name == 'Sara':
+            char_name = 'Kujou_Sara'
+            
+        
+            
        
         list_img_char = []
 
@@ -97,6 +116,11 @@ class GenshinCharacterScraper:
         char_name = character_name
         if character_name == 'Childe':
             char_name = 'Tartaglia'
+        if character_name == 'Raiden':
+            char_name = 'Raiden_Shogun'
+        if character_name == 'Sara':
+            char_name = 'Kujou_Sara'
+            
         html_2 = requests.get(f'https://genshin-impact.fandom.com/wiki/{char_name.title()}').text
         soup_2 = BeautifulSoup(html_2, "lxml")
         
@@ -144,13 +168,16 @@ class GenshinCharacterScraper:
 
             
             namecard = f"https://genshin-impact.fandom.com/{nation[5].find_all('a')[1]['href']}"
+            # print(nation[5].find_all('a')[1]['href'])
+            if nation[5].find_all('a')[1]['href'] == '#cite_note-Howto-2':
+                namecard = f"https://genshin-impact.fandom.com/{nation[4].find_all('a')[1]['href']}"
+
             
             html_3 = requests.get(namecard).text
             soup_3 = BeautifulSoup(html_3, "lxml")
             
             # namedcard = soup_3.find_all('div', class_='pi-item pi-data pi-item-spacing pi-border-color')
             img_namecard = soup_3.find_all('div', class_='wds-tab__content')
-            
             
             img_namecard_1 = img_namecard[0].find('a')['href']
             img_namecard_2 = img_namecard[1].find('a')['href']
