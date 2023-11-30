@@ -50,7 +50,7 @@ for i in range (0, len(character_list_result)):
             "char_image": char_image,
             'material': result_material_1+result_material_2,  
             "best_weapon": char_info.get_best_weapons_and_artifacts(name.replace(' ', ''))[0],
-            "best_artefact": char_info.get_best_weapons_and_artifacts(name.replace(' ', ''))[0],
+            "best_artefact": char_info.get_best_weapons_and_artifacts(name.replace(' ', ''))[1],
             "best_team": char_info.get_best_teams(name.replace(' ', '')),
             "stat_priority": char_info.get_substats(name.replace(' ', '')),
             'skills': char_info.get_skills(name.replace(' ', ''))

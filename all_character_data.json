@@ -72,24 +72,64 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Splendor_of_Tranquil_Waters.png",
-        "name": "Splendor of Tranquil Waters"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/golden_troupe.png",
+            "name": "Golden Troupe",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Cutter.png",
-        "name": "Primordial Jade Cutter"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Festering_Desire.png",
-        "name": "Festering Desire"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/golden_troupe.png",
+            "name": "Golden Troupe",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Key_of_Khaj-Nisut.png",
-        "name": "Key of Khaj-Nisut"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/golden_troupe.png",
+            "name": "Golden Troupe",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/heart_of_depth.png",
+            "name": "Heart of Depth",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Sword.png",
-        "name": "Favonius Sword"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/heart_of_depth.png",
+            "name": "Heart of Depth",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -311,24 +351,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Amber.png",
-        "name": "Prototype Amber"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Codex.png",
-        "name": "Favonius Codex"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Thrilling_Tales_of_Dragon_Slayers.png",
-        "name": "Thrilling Tales of Dragon Slayers"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/ocean-hued_clam.png",
+            "name": "Ocean-Hued Clam",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Wine_and_Song.png",
-        "name": "Wine and Song"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Fruit_of_Fulfillment.png",
-        "name": "Fruit of Fulfillment"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/ocean-hued_clam.png",
+            "name": "Ocean-Hued Clam",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -550,24 +625,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Cinnabar_Spindle.png",
-        "name": "Cinnabar Spindle"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/husk_of_opulent_dreams.png",
+            "name": "Husk of Opulent Dreams",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Harbinger_of_Dawn.png",
-        "name": "Harbinger of Dawn"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/archaic_petra.png",
+            "name": "Archaic Petra",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/husk_of_opulent_dreams.png",
+            "name": "Husk of Opulent Dreams",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Cutter.png",
-        "name": "Primordial Jade Cutter"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/archaic_petra.png",
+            "name": "Archaic Petra",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Mistsplitter_Reforged.png",
-        "name": "Mistsplitter Reforged"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Freedom-Sworn.png",
-        "name": "Freedom-Sworn"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -768,24 +878,64 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Light_of_Foliar_Incision.png",
-        "name": "Light of Foliar Incision"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Cutter.png",
-        "name": "Primordial Jade Cutter"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png",
+            "name": "Deepwood Memories",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Mistsplitter_Reforged.png",
-        "name": "Mistsplitter Reforged"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png",
+            "name": "Deepwood Memories",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Haran_Geppaku_Futsu.png",
-        "name": "Haran Geppaku Futsu"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/The_Black_Sword.png",
-        "name": "The Black Sword"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png",
+            "name": "Deepwood Memories",
+            "amount": "4"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -933,7 +1083,7 @@
         "img_card": "https://static.wikia.nocookie.net/gensin-impact/images/c/cd/Aloy_Card.png/revision/latest?cb=20210722184414",
         "img_wish": "https://static.wikia.nocookie.net/gensin-impact/images/2/2c/Character_Aloy_Full_Wish.png/revision/latest?cb=20220507130247",
         "img_in_game": "https://static.wikia.nocookie.net/gensin-impact/images/3/34/Character_Aloy_Game.png/revision/latest?cb=20220811101256",
-        "img_char_nbg": "https://genshinbuild.com/images/AT/Arco.webp"
+        "img_char_nbg": "https://genshinbuild.com/images/FullQuality/Character_Aloy_Full_Wish.webp"
       }
     ],
     "material": [
@@ -986,24 +1136,64 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Thundering_Pulse.png",
-        "name": "Thundering Pulse"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Polar_Star.png",
-        "name": "Polar Star"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png",
+            "name": "Blizzard Strayer",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Harp.png",
-        "name": "Skyward Harp"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/The_Stringless.png",
-        "name": "The Stringless"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png",
+            "name": "Blizzard Strayer",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/The_Viridescent_Hunt.png",
-        "name": "The Viridescent Hunt"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -1164,24 +1354,69 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Mistsplitter_Reforged.png",
-        "name": "Mistsplitter Reforged"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png",
+            "name": "Blizzard Strayer",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Haran_Geppaku_Futsu.png",
-        "name": "Haran Geppaku Futsu"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png",
+            "name": "Blizzard Strayer",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Light_of_Foliar_Incision.png",
-        "name": "Light of Foliar Incision"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png",
+            "name": "Gladiator's Finale",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Summit_Shaper.png",
-        "name": "Summit Shaper"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/echoes_of_an_offering.png",
+            "name": "Echoes of an Offering",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/vermillion_hereafter.png",
+            "name": "Vermillion Hereafter",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Amenoma_Kageuchi.png",
-        "name": "Amenoma Kageuchi"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png",
+            "name": "Blizzard Strayer",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -1384,24 +1619,54 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Haran_Geppaku_Futsu.png",
-        "name": "Haran Geppaku Futsu"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/heart_of_depth.png",
+            "name": "Heart of Depth",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Cutter.png",
-        "name": "Primordial Jade Cutter"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png",
+            "name": "Gladiator's Finale",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Mistsplitter_Reforged.png",
-        "name": "Mistsplitter Reforged"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/nymph's_dream.png",
+            "name": "Nymph's Dream",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/The_Black_Sword.png",
-        "name": "The Black Sword"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png",
+            "name": "Gladiator's Finale",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/heart_of_depth.png",
+            "name": "Heart of Depth",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Summit_Shaper.png",
-        "name": "Summit Shaper"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png",
+            "name": "Blizzard Strayer",
+            "amount": "4"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -1623,24 +1888,54 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Jadefall's_Splendor.png",
-        "name": "Jadefall's Splendor"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png",
+            "name": "Deepwood Memories",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Amber.png",
-        "name": "Prototype Amber"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/ocean-hued_clam.png",
+            "name": "Ocean-Hued Clam",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Codex.png",
-        "name": "Favonius Codex"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/instructor.png",
+            "name": "Instructor",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Hakushin_Ring.png",
-        "name": "Hakushin Ring"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Thrilling_Tales_of_Dragon_Slayers.png",
-        "name": "Thrilling Tales of Dragon Slayers"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -1862,24 +2157,64 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Polar_Star.png",
-        "name": "Polar Star"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/heart_of_depth.png",
+            "name": "Heart of Depth",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Thundering_Pulse.png",
-        "name": "Thundering Pulse"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/heart_of_depth.png",
+            "name": "Heart of Depth",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Hunter's_Path.png",
-        "name": "Hunter's Path"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/heart_of_depth.png",
+            "name": "Heart of Depth",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Aqua_Simulacra.png",
-        "name": "Aqua Simulacra"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/The_Viridescent_Hunt.png",
-        "name": "The Viridescent Hunt"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "4"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -2080,24 +2415,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_the_Scarlet_Sands.png",
-        "name": "Staff of the Scarlet Sands"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png",
+            "name": "Gladiator's Finale",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Winged-Spear.png",
-        "name": "Primordial Jade Winged-Spear"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png",
+            "name": "Thundering Fury",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Calamity_Queller.png",
-        "name": "Calamity Queller"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_Homa.png",
-        "name": "Staff of Homa"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png",
+            "name": "Thundering Fury",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/White_Tassel.png",
-        "name": "White Tassel"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png",
+            "name": "Thundering Fury",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -2294,20 +2664,7 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Greatsword.png",
-        "name": "Favonius Greatsword"
-      },
-      {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Wolf's_Gravestone.png",
-        "name": "Wolf's Gravestone"
-      },
-      {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Makhaira_Aquamarine.png",
-        "name": "Makhaira Aquamarine"
-      },
-      {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/The_Bell.png",
-        "name": "The Bell"
+        "artifacts": []
       }
     ],
     "best_team": [
@@ -2487,24 +2844,64 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Redhorn_Stonethresher.png",
-        "name": "Redhorn Stonethresher"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png",
+            "name": "Crimson Witch of Flames",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Beacon_of_the_Reed_Sea.png",
-        "name": "Beacon of the Reed Sea"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Serpent_Spine.png",
-        "name": "Serpent Spine"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png",
+            "name": "Crimson Witch of Flames",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Wolf's_Gravestone.png",
-        "name": "Wolf's Gravestone"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png",
+            "name": "Crimson Witch of Flames",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/The_Unforged.png",
-        "name": "The Unforged"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -2684,24 +3081,64 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Song_of_Broken_Pines.png",
-        "name": "Song of Broken Pines"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/pale_flame.png",
+            "name": "Pale Flame",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Wolf's_Gravestone.png",
-        "name": "Wolf's Gravestone"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/bloodstained_chivalry.png",
+            "name": "Bloodstained Chivalry",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/pale_flame.png",
+            "name": "Pale Flame",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Beacon_of_the_Reed_Sea.png",
-        "name": "Beacon of the Reed Sea"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png",
+            "name": "Gladiator's Finale",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/pale_flame.png",
+            "name": "Pale Flame",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Redhorn_Stonethresher.png",
-        "name": "Redhorn Stonethresher"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/bloodstained_chivalry.png",
+            "name": "Bloodstained Chivalry",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png",
+            "name": "Gladiator's Finale",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Serpent_Spine.png",
-        "name": "Serpent Spine"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png",
+            "name": "Gladiator's Finale",
+            "amount": "4"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -2902,24 +3339,64 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Splendor_of_Tranquil_Waters.png",
-        "name": "Splendor of Tranquil Waters"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/golden_troupe.png",
+            "name": "Golden Troupe",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Cutter.png",
-        "name": "Primordial Jade Cutter"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Festering_Desire.png",
-        "name": "Festering Desire"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/golden_troupe.png",
+            "name": "Golden Troupe",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Key_of_Khaj-Nisut.png",
-        "name": "Key of Khaj-Nisut"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/golden_troupe.png",
+            "name": "Golden Troupe",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/heart_of_depth.png",
+            "name": "Heart of Depth",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Sword.png",
-        "name": "Favonius Sword"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/heart_of_depth.png",
+            "name": "Heart of Depth",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -3141,24 +3618,64 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Hunter's_Path.png",
-        "name": "Hunter's Path"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Amos'_Bow.png",
-        "name": "Amos' Bow"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png",
+            "name": "Wanderer's Troupe",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Aqua_Simulacra.png",
-        "name": "Aqua Simulacra"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png",
+            "name": "Wanderer's Troupe",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Polar_Star.png",
-        "name": "Polar Star"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png",
+            "name": "Blizzard Strayer",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Crescent.png",
-        "name": "Prototype Crescent"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png",
+            "name": "Blizzard Strayer",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png",
+            "name": "Wanderer's Troupe",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -3355,24 +3872,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_Homa.png",
-        "name": "Staff of Homa"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png",
+            "name": "Crimson Witch of Flames",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_the_Scarlet_Sands.png",
-        "name": "Staff of the Scarlet Sands"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Dragon's_Bane.png",
-        "name": "Dragon's Bane"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Deathmatch.png",
-        "name": "Deathmatch"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png",
+            "name": "Crimson Witch of Flames",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Winged-Spear.png",
-        "name": "Primordial Jade Winged-Spear"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png",
+            "name": "Crimson Witch of Flames",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -3548,24 +4100,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Redhorn_Stonethresher.png",
-        "name": "Redhorn Stonethresher"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/husk_of_opulent_dreams.png",
+            "name": "Husk of Opulent Dreams",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Serpent_Spine.png",
-        "name": "Serpent Spine"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/desert_pavilion_chronicle.png",
+            "name": "Desert Pavilion Chronicle",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Pride.png",
-        "name": "Skyward Pride"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/retracing_bolide.png",
+            "name": "Retracing Bolide",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Whiteblind.png",
-        "name": "Whiteblind"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/archaic_petra.png",
+            "name": "Archaic Petra",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/husk_of_opulent_dreams.png",
+            "name": "Husk of Opulent Dreams",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Wolf's_Gravestone.png",
-        "name": "Wolf's Gravestone"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/husk_of_opulent_dreams.png",
+            "name": "Husk of Opulent Dreams",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -3745,24 +4332,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Cutter.png",
-        "name": "Primordial Jade Cutter"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png",
+            "name": "Viridescent Venerer",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Freedom-Sworn.png",
-        "name": "Freedom-Sworn"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Mistsplitter_Reforged.png",
-        "name": "Mistsplitter Reforged"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/ocean-hued_clam.png",
+            "name": "Ocean-Hued Clam",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Haran_Geppaku_Futsu.png",
-        "name": "Haran Geppaku Futsu"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png",
+            "name": "Viridescent Venerer",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Amenoma_Kageuchi.png",
-        "name": "Amenoma Kageuchi"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -3938,24 +4560,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Freedom-Sworn.png",
-        "name": "Freedom-Sworn"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png",
+            "name": "Viridescent Venerer",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Sword.png",
-        "name": "Favonius Sword"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/instructor.png",
+            "name": "Instructor",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Xiphos'_Moonlight.png",
-        "name": "Xiphos' Moonlight"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png",
+            "name": "Thundering Fury",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Sword.png",
-        "name": "Sacrificial Sword"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png",
+            "name": "Wanderer's Troupe",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Blade.png",
-        "name": "Skyward Blade"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png",
+            "name": "Viridescent Venerer",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -4177,24 +4834,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Mistsplitter_Reforged.png",
-        "name": "Mistsplitter Reforged"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png",
+            "name": "Thundering Fury",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Cutter.png",
-        "name": "Primordial Jade Cutter"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/thundersoother.png",
+            "name": "Thundersoother",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Haran_Geppaku_Futsu.png",
-        "name": "Haran Geppaku Futsu"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Freedom-Sworn.png",
-        "name": "Freedom-Sworn"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png",
+            "name": "Thundering Fury",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Harbinger_of_Dawn.png",
-        "name": "Harbinger of Dawn"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png",
+            "name": "Thundering Fury",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -4416,24 +5108,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/The_Widsith.png",
-        "name": "The Widsith"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png",
+            "name": "Crimson Witch of Flames",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Lost_Prayer_to_the_Sacred_Winds.png",
-        "name": "Lost Prayer to the Sacred Winds"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/lavawalker.png",
+            "name": "Lavawalker",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Kagura's_Verity.png",
-        "name": "Kagura's Verity"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png",
+            "name": "Crimson Witch of Flames",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/The_Widsith.png",
-        "name": "The Widsith"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png",
+            "name": "Crimson Witch of Flames",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Atlas.png",
-        "name": "Skyward Atlas"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png",
+            "name": "Wanderer's Troupe",
+            "amount": "4"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -4609,24 +5336,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Thrilling_Tales_of_Dragon_Slayers.png",
-        "name": "Thrilling Tales of Dragon Slayers"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Amber.png",
-        "name": "Prototype Amber"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/ocean-hued_clam.png",
+            "name": "Ocean-Hued Clam",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Hakushin_Ring.png",
-        "name": "Hakushin Ring"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/maiden_beloved.png",
+            "name": "Maiden Beloved",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Fragments.png",
-        "name": "Sacrificial Fragments"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/ocean-hued_clam.png",
+            "name": "Ocean-Hued Clam",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Everlasting_Moonglow.png",
-        "name": "Everlasting Moonglow"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/maiden_beloved.png",
+            "name": "Maiden Beloved",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/ocean-hued_clam.png",
+            "name": "Ocean-Hued Clam",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -4854,24 +5616,54 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/The_First_Great_Magic.png",
-        "name": "The First Great Magic"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/marechaussee_hunter.png",
+            "name": "Marechaussee Hunter",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Aqua_Simulacra.png",
-        "name": "Aqua Simulacra"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/vermillion_hereafter.png",
+            "name": "Vermillion Hereafter",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Thundering_Pulse.png",
-        "name": "Thundering Pulse"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Harp.png",
-        "name": "Skyward Harp"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/lavawalker.png",
+            "name": "Lavawalker",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Crescent.png",
-        "name": "Prototype Crescent"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png",
+            "name": "Crimson Witch of Flames",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/marechaussee_hunter.png",
+            "name": "Marechaussee Hunter",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -5093,24 +5885,54 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Thrilling_Tales_of_Dragon_Slayers.png",
-        "name": "Thrilling Tales of Dragon Slayers"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Codex.png",
-        "name": "Favonius Codex"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Amber.png",
-        "name": "Prototype Amber"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/scholar.png",
+            "name": "Scholar",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Wine_and_Song.png",
-        "name": "Wine and Song"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/The_Widsith.png",
-        "name": "The Widsith"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/scholar.png",
+            "name": "Scholar",
+            "amount": "4"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -5338,24 +6160,64 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/A_Thousand_Floating_Dreams.png",
-        "name": "A Thousand Floating Dreams"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png",
+            "name": "Deepwood Memories",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Kagura's_Verity.png",
-        "name": "Kagura's Verity"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Fragments.png",
-        "name": "Sacrificial Fragments"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/flower_of_paradise_lost.png",
+            "name": "Flower of Paradise Lost",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Wandering_Evenstar.png",
-        "name": "Wandering Evenstar"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png",
+            "name": "Wanderer's Troupe",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/The_Widsith.png",
-        "name": "The Widsith"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -5577,24 +6439,64 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Key_of_Khaj-Nisut.png",
-        "name": "Key of Khaj-Nisut"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/heart_of_depth.png",
+            "name": "Heart of Depth",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Sword.png",
-        "name": "Favonius Sword"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Xiphos'_Moonlight.png",
-        "name": "Xiphos' Moonlight"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Festering_Desire.png",
-        "name": "Festering Desire"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png",
+            "name": "Deepwood Memories",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Sword.png",
-        "name": "Sacrificial Sword"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "4"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -5774,24 +6676,54 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Sword.png",
-        "name": "Sacrificial Sword"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Blade.png",
-        "name": "Skyward Blade"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/ocean-hued_clam.png",
+            "name": "Ocean-Hued Clam",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Kagotsurube_Isshin.png",
-        "name": "Kagotsurube Isshin"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/maiden_beloved.png",
+            "name": "Maiden Beloved",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/The_Flute.png",
-        "name": "The Flute"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/maiden_beloved.png",
+            "name": "Maiden Beloved",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Sword.png",
-        "name": "Favonius Sword"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -5967,24 +6899,69 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Engulfing_Lightning.png",
-        "name": "Engulfing Lightning"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_Homa.png",
-        "name": "Staff of Homa"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Winged-Spear.png",
-        "name": "Primordial Jade Winged-Spear"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png",
+            "name": "Thundering Fury",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_the_Scarlet_Sands.png",
-        "name": "Staff of the Scarlet Sands"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png",
+            "name": "Thundering Fury",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/The_Catch.png",
-        "name": "The Catch"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -6185,24 +7162,64 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Calamity_Queller.png",
-        "name": "Calamity Queller"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Engulfing_Lightning.png",
-        "name": "Engulfing Lightning"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png",
+            "name": "Gladiator's Finale",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Vortex_Vanquisher.png",
-        "name": "Vortex Vanquisher"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Spine.png",
-        "name": "Skyward Spine"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/the_exile.png",
+            "name": "The Exile",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Lance.png",
-        "name": "Favonius Lance"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/the_exile.png",
+            "name": "The Exile",
+            "amount": "4"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -6424,24 +7441,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Hunter's_Path.png",
-        "name": "Hunter's Path"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png",
+            "name": "Wanderer's Troupe",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Elegy_for_the_End.png",
-        "name": "Elegy for the End"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Aqua_Simulacra.png",
-        "name": "Aqua Simulacra"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png",
+            "name": "Deepwood Memories",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png",
+            "name": "Wanderer's Troupe",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Polar_Star.png",
-        "name": "Polar Star"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png",
+            "name": "Wanderer's Troupe",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Slingshot.png",
-        "name": "Slingshot"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png",
+            "name": "Deepwood Memories",
+            "amount": "4"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -6642,24 +7694,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Elegy_for_the_End.png",
-        "name": "Elegy for the End"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png",
+            "name": "Viridescent Venerer",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/The_Stringless.png",
-        "name": "The Stringless"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Windblume_Ode.png",
-        "name": "Windblume Ode"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png",
+            "name": "Wanderer's Troupe",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Alley_Hunter.png",
-        "name": "Alley Hunter"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Warbow.png",
-        "name": "Favonius Warbow"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "4"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -6881,24 +7968,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Tulaytullah's_Remembrance.png",
-        "name": "Tulaytullah's Remembrance"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/desert_pavilion_chronicle.png",
+            "name": "Desert Pavilion Chronicle",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Lost_Prayer_to_the_Sacred_Winds.png",
-        "name": "Lost Prayer to the Sacred Winds"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Atlas.png",
-        "name": "Skyward Atlas"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/echoes_of_an_offering.png",
+            "name": "Echoes of an Offering",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Memory_of_Dust.png",
-        "name": "Memory of Dust"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/desert_pavilion_chronicle.png",
+            "name": "Desert Pavilion Chronicle",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png",
+            "name": "Viridescent Venerer",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/The_Widsith.png",
-        "name": "The Widsith"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/desert_pavilion_chronicle.png",
+            "name": "Desert Pavilion Chronicle",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -7078,24 +8200,64 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Winged-Spear.png",
-        "name": "Primordial Jade Winged-Spear"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/vermillion_hereafter.png",
+            "name": "Vermillion Hereafter",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_Homa.png",
-        "name": "Staff of Homa"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/desert_pavilion_chronicle.png",
+            "name": "Desert Pavilion Chronicle",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Vortex_Vanquisher.png",
-        "name": "Vortex Vanquisher"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/desert_pavilion_chronicle.png",
+            "name": "Desert Pavilion Chronicle",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/vermillion_hereafter.png",
+            "name": "Vermillion Hereafter",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Calamity_Queller.png",
-        "name": "Calamity Queller"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/vermillion_hereafter.png",
+            "name": "Vermillion Hereafter",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Deathmatch.png",
-        "name": "Deathmatch"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/desert_pavilion_chronicle.png",
+            "name": "Desert Pavilion Chronicle",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png",
+            "name": "Viridescent Venerer",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -7292,24 +8454,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Kagura's_Verity.png",
-        "name": "Kagura's Verity"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Atlas.png",
-        "name": "Skyward Atlas"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Lost_Prayer_to_the_Sacred_Winds.png",
-        "name": "Lost Prayer to the Sacred Winds"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png",
+            "name": "Thundering Fury",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Solar_Pearl.png",
-        "name": "Solar Pearl"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/thundersoother.png",
+            "name": "Thundersoother",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Oathsworn_Eye.png",
-        "name": "Oathsworn Eye"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "4"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -7531,24 +8728,69 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Elegy_for_the_End.png",
-        "name": "Elegy for the End"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Warbow.png",
-        "name": "Favonius Warbow"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Aqua_Simulacra.png",
-        "name": "Aqua Simulacra"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/heart_of_depth.png",
+            "name": "Heart of Depth",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Bow.png",
-        "name": "Sacrificial Bow"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Slingshot.png",
-        "name": "Slingshot"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/heart_of_depth.png",
+            "name": "Heart of Depth",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -7770,24 +9012,54 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Thundering_Pulse.png",
-        "name": "Thundering Pulse"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Rust.png",
-        "name": "Rust"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png",
+            "name": "Crimson Witch of Flames",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Aqua_Simulacra.png",
-        "name": "Aqua Simulacra"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/echoes_of_an_offering.png",
+            "name": "Echoes of an Offering",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Polar_Star.png",
-        "name": "Polar Star"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/retracing_bolide.png",
+            "name": "Retracing Bolide",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Slingshot.png",
-        "name": "Slingshot"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png",
+            "name": "Crimson Witch of Flames",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -8009,24 +9281,49 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Black_Tassel.png",
-        "name": "Black Tassel"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Lance.png",
-        "name": "Favonius Lance"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/archaic_petra.png",
+            "name": "Archaic Petra",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_Homa.png",
-        "name": "Staff of Homa"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png",
+            "name": "Deepwood Memories",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Spine.png",
-        "name": "Skyward Spine"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/instructor.png",
+            "name": "Instructor",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Engulfing_Lightning.png",
-        "name": "Engulfing Lightning"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -8248,24 +9545,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Elegy_for_the_End.png",
-        "name": "Elegy for the End"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Warbow.png",
-        "name": "Favonius Warbow"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/instructor.png",
+            "name": "Instructor",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Bow.png",
-        "name": "Sacrificial Bow"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/the_exile.png",
+            "name": "The Exile",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/The_Viridescent_Hunt.png",
-        "name": "The Viridescent Hunt"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/End_of_the_Line.png",
-        "name": "End of the Line"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [],
@@ -8423,24 +9755,64 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Thrilling_Tales_of_Dragon_Slayers.png",
-        "name": "Thrilling Tales of Dragon Slayers"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/maiden_beloved.png",
+            "name": "Maiden Beloved",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Everlasting_Moonglow.png",
-        "name": "Everlasting Moonglow"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/maiden_beloved.png",
+            "name": "Maiden Beloved",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Amber.png",
-        "name": "Prototype Amber"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/maiden_beloved.png",
+            "name": "Maiden Beloved",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/ocean-hued_clam.png",
+            "name": "Ocean-Hued Clam",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Codex.png",
-        "name": "Favonius Codex"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/ocean-hued_clam.png",
+            "name": "Ocean-Hued Clam",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Wine_and_Song.png",
-        "name": "Wine and Song"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/instructor.png",
+            "name": "Instructor",
+            "amount": "4"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -8662,24 +10034,64 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Wolf's_Gravestone.png",
-        "name": "Wolf's Gravestone"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Serpent_Spine.png",
-        "name": "Serpent Spine"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Beacon_of_the_Reed_Sea.png",
-        "name": "Beacon of the Reed Sea"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png",
+            "name": "Thundering Fury",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Redhorn_Stonethresher.png",
-        "name": "Redhorn Stonethresher"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png",
+            "name": "Thundering Fury",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Akuoumaru.png",
-        "name": "Akuoumaru"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/thundersoother.png",
+            "name": "Thundersoother",
+            "amount": "4"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -8901,24 +10313,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Mistsplitter_Reforged.png",
-        "name": "Mistsplitter Reforged"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Aquila_Favonia.png",
-        "name": "Aquila Favonia"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Blade.png",
-        "name": "Skyward Blade"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png",
+            "name": "Crimson Witch of Flames",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Freedom-Sworn.png",
-        "name": "Freedom-Sworn"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/The_Alley_Flash.png",
-        "name": "The Alley Flash"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png",
+            "name": "Crimson Witch of Flames",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -9140,24 +10587,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Lance.png",
-        "name": "Favonius Lance"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Black_Tassel.png",
-        "name": "Black Tassel"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_Homa.png",
-        "name": "Staff of Homa"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Spine.png",
-        "name": "Skyward Spine"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Engulfing_Lightning.png",
-        "name": "Engulfing Lightning"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/the_exile.png",
+            "name": "The Exile",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -9358,24 +10840,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Amber.png",
-        "name": "Prototype Amber"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Codex.png",
-        "name": "Favonius Codex"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Thrilling_Tales_of_Dragon_Slayers.png",
-        "name": "Thrilling Tales of Dragon Slayers"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/ocean-hued_clam.png",
+            "name": "Ocean-Hued Clam",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Wine_and_Song.png",
-        "name": "Wine and Song"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Fruit_of_Fulfillment.png",
-        "name": "Fruit of Fulfillment"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/ocean-hued_clam.png",
+            "name": "Ocean-Hued Clam",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -9597,24 +11114,69 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Wolf's_Gravestone.png",
-        "name": "Wolf's Gravestone"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png",
+            "name": "Blizzard Strayer",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Serpent_Spine.png",
-        "name": "Serpent Spine"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Redhorn_Stonethresher.png",
-        "name": "Redhorn Stonethresher"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png",
+            "name": "Blizzard Strayer",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Beacon_of_the_Reed_Sea.png",
-        "name": "Beacon of the Reed Sea"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/The_Unforged.png",
-        "name": "The Unforged"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png",
+            "name": "Blizzard Strayer",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -9815,24 +11377,49 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Elegy_for_the_End.png",
-        "name": "Elegy for the End"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png",
+            "name": "Deepwood Memories",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Polar_Star.png",
-        "name": "Polar Star"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Bow.png",
-        "name": "Sacrificial Bow"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Warbow.png",
-        "name": "Favonius Warbow"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/instructor.png",
+            "name": "Instructor",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Aqua_Simulacra.png",
-        "name": "Aqua Simulacra"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "4"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -10054,24 +11641,64 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Warbow.png",
-        "name": "Favonius Warbow"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Bow.png",
-        "name": "Sacrificial Bow"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Elegy_for_the_End.png",
-        "name": "Elegy for the End"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/maiden_beloved.png",
+            "name": "Maiden Beloved",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Recurve_Bow.png",
-        "name": "Recurve Bow"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/maiden_beloved.png",
+            "name": "Maiden Beloved",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/End_of_the_Line.png",
-        "name": "End of the Line"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/maiden_beloved.png",
+            "name": "Maiden Beloved",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -10293,24 +11920,54 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Greatsword.png",
-        "name": "Favonius Greatsword"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Greatsword.png",
-        "name": "Sacrificial Greatsword"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png",
+            "name": "Deepwood Memories",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Katsuragikiri_Nagamasa.png",
-        "name": "Katsuragikiri Nagamasa"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/instructor.png",
+            "name": "Instructor",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Forest_Regalia.png",
-        "name": "Forest Regalia"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/the_exile.png",
+            "name": "The Exile",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Pride.png",
-        "name": "Skyward Pride"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/the_exile.png",
+            "name": "The Exile",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -10490,24 +12147,54 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Warbow.png",
-        "name": "Favonius Warbow"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png",
+            "name": "Viridescent Venerer",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Elegy_for_the_End.png",
-        "name": "Elegy for the End"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/End_of_the_Line.png",
-        "name": "End of the Line"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Fading_Twilight.png",
-        "name": "Fading Twilight"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Bow.png",
-        "name": "Sacrificial Bow"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/the_exile.png",
+            "name": "The Exile",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -10729,24 +12416,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Aqua_Simulacra.png",
-        "name": "Aqua Simulacra"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/golden_troupe.png",
+            "name": "Golden Troupe",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Polar_Star.png",
-        "name": "Polar Star"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png",
+            "name": "Thundering Fury",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Hunter's_Path.png",
-        "name": "Hunter's Path"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png",
+            "name": "Thundering Fury",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Harp.png",
-        "name": "Skyward Harp"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/thundersoother.png",
+            "name": "Thundersoother",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/The_Stringless.png",
-        "name": "The Stringless"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png",
+            "name": "Thundering Fury",
+            "amount": "4"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -10968,24 +12690,64 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Pride.png",
-        "name": "Skyward Pride"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/pale_flame.png",
+            "name": "Pale Flame",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Song_of_Broken_Pines.png",
-        "name": "Song of Broken Pines"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/pale_flame.png",
+            "name": "Pale Flame",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Wolf's_Gravestone.png",
-        "name": "Wolf's Gravestone"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/bloodstained_chivalry.png",
+            "name": "Bloodstained Chivalry",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/pale_flame.png",
+            "name": "Pale Flame",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Beacon_of_the_Reed_Sea.png",
-        "name": "Beacon of the Reed Sea"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/golden_troupe.png",
+            "name": "Golden Troupe",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/pale_flame.png",
+            "name": "Pale Flame",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Serpent_Spine.png",
-        "name": "Serpent Spine"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/pale_flame.png",
+            "name": "Pale Flame",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -11186,24 +12948,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Warbow.png",
-        "name": "Favonius Warbow"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/the_exile.png",
+            "name": "The Exile",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Bow.png",
-        "name": "Sacrificial Bow"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Elegy_for_the_End.png",
-        "name": "Elegy for the End"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/the_exile.png",
+            "name": "The Exile",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Recurve_Bow.png",
-        "name": "Recurve Bow"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/husk_of_opulent_dreams.png",
+            "name": "Husk of Opulent Dreams",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/End_of_the_Line.png",
-        "name": "End of the Line"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/husk_of_opulent_dreams.png",
+            "name": "Husk of Opulent Dreams",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -11358,24 +13155,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Atlas.png",
-        "name": "Skyward Atlas"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png",
+            "name": "Viridescent Venerer",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Fragments.png",
-        "name": "Sacrificial Fragments"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Kagura's_Verity.png",
-        "name": "Kagura's Verity"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png",
+            "name": "Wanderer's Troupe",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Lost_Prayer_to_the_Sacred_Winds.png",
-        "name": "Lost Prayer to the Sacred Winds"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Magic_Guide.png",
-        "name": "Magic Guide"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -11576,24 +13408,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Cutter.png",
-        "name": "Primordial Jade Cutter"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Mistsplitter_Reforged.png",
-        "name": "Mistsplitter Reforged"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png",
+            "name": "Blizzard Strayer",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Light_of_Foliar_Incision.png",
-        "name": "Light of Foliar Incision"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Freedom-Sworn.png",
-        "name": "Freedom-Sworn"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Lion's_Roar.png",
-        "name": "Lion's Roar"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/instructor.png",
+            "name": "Instructor",
+            "amount": "4"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -11815,24 +13682,49 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Greatsword.png",
-        "name": "Favonius Greatsword"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png",
+            "name": "Deepwood Memories",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Greatsword.png",
-        "name": "Sacrificial Greatsword"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/ocean-hued_clam.png",
+            "name": "Ocean-Hued Clam",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Mailed_Flower.png",
-        "name": "Mailed Flower"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/flower_of_paradise_lost.png",
+            "name": "Flower of Paradise Lost",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Wolf's_Gravestone.png",
-        "name": "Wolf's Gravestone"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/instructor.png",
+            "name": "Instructor",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Song_of_Broken_Pines.png",
-        "name": "Song of Broken Pines"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "4"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -12033,24 +13925,45 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Sword.png",
-        "name": "Favonius Sword"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/vourukasha's_glow.png",
+            "name": "Vourukasha's Glow",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Key_of_Khaj-Nisut.png",
-        "name": "Key of Khaj-Nisut"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/instructor.png",
+            "name": "Instructor",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Sword.png",
-        "name": "Sacrificial Sword"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png",
+            "name": "Deepwood Memories",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Sapwood_Blade.png",
-        "name": "Sapwood Blade"
-      },
-      {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Festering_Desire.png",
-        "name": "Festering Desire"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -12247,24 +14160,54 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Freedom-Sworn.png",
-        "name": "Freedom-Sworn"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/flower_of_paradise_lost.png",
+            "name": "Flower of Paradise Lost",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Xiphos'_Moonlight.png",
-        "name": "Xiphos' Moonlight"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Iron_Sting.png",
-        "name": "Iron Sting"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/flower_of_paradise_lost.png",
+            "name": "Flower of Paradise Lost",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Toukabou_Shigure.png",
-        "name": "Toukabou Shigure"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png",
+            "name": "Thundering Fury",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Key_of_Khaj-Nisut.png",
-        "name": "Key of Khaj-Nisut"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/instructor.png",
+            "name": "Instructor",
+            "amount": "4"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -12465,24 +14408,64 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Key_of_Khaj-Nisut.png",
-        "name": "Key of Khaj-Nisut"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Cutter.png",
-        "name": "Primordial Jade Cutter"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Sword.png",
-        "name": "Favonius Sword"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png",
+            "name": "Blizzard Strayer",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Freedom-Sworn.png",
-        "name": "Freedom-Sworn"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Harbinger_of_Dawn.png",
-        "name": "Harbinger of Dawn"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png",
+            "name": "Blizzard Strayer",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -12704,24 +14687,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Kagura's_Verity.png",
-        "name": "Kagura's Verity"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png",
+            "name": "Thundering Fury",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Lost_Prayer_to_the_Sacred_Winds.png",
-        "name": "Lost Prayer to the Sacred Winds"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Atlas.png",
-        "name": "Skyward Atlas"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/thundersoother.png",
+            "name": "Thundersoother",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/A_Thousand_Floating_Dreams.png",
-        "name": "A Thousand Floating Dreams"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png",
+            "name": "Thundering Fury",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/The_Widsith.png",
-        "name": "The Widsith"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png",
+            "name": "Thundering Fury",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -12943,24 +14961,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Sword.png",
-        "name": "Sacrificial Sword"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png",
+            "name": "Viridescent Venerer",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Sword.png",
-        "name": "Favonius Sword"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/instructor.png",
+            "name": "Instructor",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Fleuve_Cendre_Ferryman.png",
-        "name": "Fleuve Cendre Ferryman"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Festering_Desire.png",
-        "name": "Festering Desire"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png",
+            "name": "Viridescent Venerer",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Sapwood_Blade.png",
-        "name": "Sapwood Blade"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png",
+            "name": "Wanderer's Troupe",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -13161,24 +15214,54 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Lance.png",
-        "name": "Favonius Lance"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Engulfing_Lightning.png",
-        "name": "Engulfing Lightning"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/ocean-hued_clam.png",
+            "name": "Ocean-Hued Clam",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Black_Tassel.png",
-        "name": "Black Tassel"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/maiden_beloved.png",
+            "name": "Maiden Beloved",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Spine.png",
-        "name": "Skyward Spine"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/maiden_beloved.png",
+            "name": "Maiden Beloved",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/ocean-hued_clam.png",
+            "name": "Ocean-Hued Clam",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Starglitter.png",
-        "name": "Prototype Starglitter"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/the_exile.png",
+            "name": "The Exile",
+            "amount": "4"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -13379,24 +15462,64 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Lost_Prayer_to_the_Sacred_Winds.png",
-        "name": "Lost Prayer to the Sacred Winds"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/archaic_petra.png",
+            "name": "Archaic Petra",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Kagura's_Verity.png",
-        "name": "Kagura's Verity"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/archaic_petra.png",
+            "name": "Archaic Petra",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Atlas.png",
-        "name": "Skyward Atlas"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/archaic_petra.png",
+            "name": "Archaic Petra",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Memory_of_Dust.png",
-        "name": "Memory of Dust"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/archaic_petra.png",
+            "name": "Archaic Petra",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Solar_Pearl.png",
-        "name": "Solar Pearl"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "4"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -13597,24 +15720,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Redhorn_Stonethresher.png",
-        "name": "Redhorn Stonethresher"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/husk_of_opulent_dreams.png",
+            "name": "Husk of Opulent Dreams",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Serpent_Spine.png",
-        "name": "Serpent Spine"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/retracing_bolide.png",
+            "name": "Retracing Bolide",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Pride.png",
-        "name": "Skyward Pride"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png",
+            "name": "Gladiator's Finale",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Whiteblind.png",
-        "name": "Whiteblind"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/archaic_petra.png",
+            "name": "Archaic Petra",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/husk_of_opulent_dreams.png",
+            "name": "Husk of Opulent Dreams",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Greatsword.png",
-        "name": "Favonius Greatsword"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png",
+            "name": "Gladiator's Finale",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/husk_of_opulent_dreams.png",
+            "name": "Husk of Opulent Dreams",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -13815,24 +15973,64 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Wolf's_Gravestone.png",
-        "name": "Wolf's Gravestone"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/pale_flame.png",
+            "name": "Pale Flame",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Beacon_of_the_Reed_Sea.png",
-        "name": "Beacon of the Reed Sea"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png",
+            "name": "Gladiator's Finale",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Song_of_Broken_Pines.png",
-        "name": "Song of Broken Pines"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/bloodstained_chivalry.png",
+            "name": "Bloodstained Chivalry",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/pale_flame.png",
+            "name": "Pale Flame",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Redhorn_Stonethresher.png",
-        "name": "Redhorn Stonethresher"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png",
+            "name": "Gladiator's Finale",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/pale_flame.png",
+            "name": "Pale Flame",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Serpent_Spine.png",
-        "name": "Serpent Spine"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png",
+            "name": "Gladiator's Finale",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -14054,24 +16252,64 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_Homa.png",
-        "name": "Staff of Homa"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png",
+            "name": "Blizzard Strayer",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Wavebreaker's_Fin.png",
-        "name": "Wavebreaker's Fin"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Vortex_Vanquisher.png",
-        "name": "Vortex Vanquisher"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png",
+            "name": "Blizzard Strayer",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Winged-Spear.png",
-        "name": "Primordial Jade Winged-Spear"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png",
+            "name": "Blizzard Strayer",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Blackcliff_Pole.png",
-        "name": "Blackcliff Pole"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -14268,24 +16506,64 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Harp.png",
-        "name": "Skyward Harp"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Elegy_for_the_End.png",
-        "name": "Elegy for the End"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Polar_Star.png",
-        "name": "Polar Star"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png",
+            "name": "Thundering Fury",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Hunter's_Path.png",
-        "name": "Hunter's Path"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Mouun's_Moon.png",
-        "name": "Mouun's Moon"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png",
+            "name": "Thundering Fury",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -14486,24 +16764,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Wolf's_Gravestone.png",
-        "name": "Wolf's Gravestone"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png",
+            "name": "Viridescent Venerer",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Greatsword.png",
-        "name": "Favonius Greatsword"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Katsuragikiri_Nagamasa.png",
-        "name": "Katsuragikiri Nagamasa"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/maiden_beloved.png",
+            "name": "Maiden Beloved",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Greatsword.png",
-        "name": "Sacrificial Greatsword"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/maiden_beloved.png",
+            "name": "Maiden Beloved",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/ocean-hued_clam.png",
+            "name": "Ocean-Hued Clam",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Forest_Regalia.png",
-        "name": "Forest Regalia"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/maiden_beloved.png",
+            "name": "Maiden Beloved",
+            "amount": "4"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -14725,24 +17038,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/A_Thousand_Floating_Dreams.png",
-        "name": "A Thousand Floating Dreams"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png",
+            "name": "Viridescent Venerer",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Fragments.png",
-        "name": "Sacrificial Fragments"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/instructor.png",
+            "name": "Instructor",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Thrilling_Tales_of_Dragon_Slayers.png",
-        "name": "Thrilling Tales of Dragon Slayers"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png",
+            "name": "Wanderer's Troupe",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Hakushin_Ring.png",
-        "name": "Hakushin Ring"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Magic_Guide.png",
-        "name": "Magic Guide"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png",
+            "name": "Viridescent Venerer",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -14964,24 +17312,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Lance.png",
-        "name": "Favonius Lance"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Engulfing_Lightning.png",
-        "name": "Engulfing Lightning"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/The_Catch.png",
-        "name": "The Catch"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/instructor.png",
+            "name": "Instructor",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Kitain_Cross_Spear.png",
-        "name": "Kitain Cross Spear"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Starglitter.png",
-        "name": "Prototype Starglitter"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/the_exile.png",
+            "name": "The Exile",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -15203,24 +17586,64 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_the_Scarlet_Sands.png",
-        "name": "Staff of the Scarlet Sands"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_Homa.png",
-        "name": "Staff of Homa"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png",
+            "name": "Crimson Witch of Flames",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/The_Catch.png",
-        "name": "The Catch"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png",
+            "name": "Crimson Witch of Flames",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Engulfing_Lightning.png",
-        "name": "Engulfing Lightning"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Deathmatch.png",
-        "name": "Deathmatch"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png",
+            "name": "Crimson Witch of Flames",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -15442,24 +17865,64 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Cutter.png",
-        "name": "Primordial Jade Cutter"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Sword.png",
-        "name": "Favonius Sword"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Sword.png",
-        "name": "Sacrificial Sword"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Mistsplitter_Reforged.png",
-        "name": "Mistsplitter Reforged"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/heart_of_depth.png",
+            "name": "Heart of Depth",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Haran_Geppaku_Futsu.png",
-        "name": "Haran Geppaku Futsu"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/heart_of_depth.png",
+            "name": "Heart of Depth",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -15681,24 +18144,69 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Redhorn_Stonethresher.png",
-        "name": "Redhorn Stonethresher"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/bloodstained_chivalry.png",
+            "name": "Bloodstained Chivalry",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/pale_flame.png",
+            "name": "Pale Flame",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Pride.png",
-        "name": "Skyward Pride"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/pale_flame.png",
+            "name": "Pale Flame",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Serpent_Spine.png",
-        "name": "Serpent Spine"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/pale_flame.png",
+            "name": "Pale Flame",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/The_Unforged.png",
-        "name": "The Unforged"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/pale_flame.png",
+            "name": "Pale Flame",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Song_of_Broken_Pines.png",
-        "name": "Song of Broken Pines"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/pale_flame.png",
+            "name": "Pale Flame",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -15899,24 +18407,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Atlas.png",
-        "name": "Skyward Atlas"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png",
+            "name": "Crimson Witch of Flames",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Memory_of_Dust.png",
-        "name": "Memory of Dust"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Lost_Prayer_to_the_Sacred_Winds.png",
-        "name": "Lost Prayer to the Sacred Winds"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png",
+            "name": "Wanderer's Troupe",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Kagura's_Verity.png",
-        "name": "Kagura's Verity"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png",
+            "name": "Crimson Witch of Flames",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+            "name": "Gilded Dreams",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/The_Widsith.png",
-        "name": "The Widsith"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png",
+            "name": "Crimson Witch of Flames",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+            "name": "Shimenawa's Reminiscence",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -16096,24 +18639,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Lance.png",
-        "name": "Favonius Lance"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png",
+            "name": "Deepwood Memories",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Black_Tassel.png",
-        "name": "Black Tassel"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Moonpiercer.png",
-        "name": "Moonpiercer"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/instructor.png",
+            "name": "Instructor",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Kitain_Cross_Spear.png",
-        "name": "Kitain Cross Spear"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Engulfing_Lightning.png",
-        "name": "Engulfing Lightning"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/maiden_beloved.png",
+            "name": "Maiden Beloved",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+            "name": "Tenacity of the Millelith",
+            "amount": "2"
+          }
+        ]
       }
     ],
     "best_team": [
@@ -16289,24 +18867,59 @@
     ],
     "best_artefact": [
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Lance.png",
-        "name": "Favonius Lance"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/husk_of_opulent_dreams.png",
+            "name": "Husk of Opulent Dreams",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Engulfing_Lightning.png",
-        "name": "Engulfing Lightning"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/husk_of_opulent_dreams.png",
+            "name": "Husk of Opulent Dreams",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/The_Catch.png",
-        "name": "The Catch"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+            "name": "Noblesse Oblige",
+            "amount": "4"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Starglitter.png",
-        "name": "Prototype Starglitter"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+            "name": "Emblem of Severed Fate",
+            "amount": "2"
+          },
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/the_exile.png",
+            "name": "The Exile",
+            "amount": "2"
+          }
+        ]
       },
       {
-        "image_url": "https://rerollcdn.com/GENSHIN/Weapons/Kitain_Cross_Spear.png",
-        "name": "Kitain Cross Spear"
+        "artifacts": [
+          {
+            "image_url": "https://rerollcdn.com/GENSHIN/Gear/the_exile.png",
+            "name": "The Exile",
+            "amount": "4"
+          }
+        ]
       }
     ],
     "best_team": [
