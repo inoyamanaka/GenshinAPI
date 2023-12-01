@@ -1,0 +1,86 @@
+[
+  {
+    "material": {
+      "name": "Branch",
+      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Branch.png"
+    },
+    "days": "Monday, Thursday"
+  },
+  {
+    "material": {
+      "name": "Decarabian",
+      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Decarabian.png"
+    },
+    "days": "Monday, Thursday"
+  },
+  {
+    "material": {
+      "name": "Guyun",
+      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Guyun.png"
+    },
+    "days": "Monday, Thursday"
+  },
+  {
+    "material": {
+      "name": "Talisman of the Forest Dew",
+      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Talisman_of_the_Forest_Dew.png"
+    },
+    "days": "Monday, Thursday"
+  },
+  {
+    "material": {
+      "name": "Boreal Wolf",
+      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Boreal_Wolf.png"
+    },
+    "days": "Tuesday, Friday"
+  },
+  {
+    "material": {
+      "name": "Mist Veiled Elixir",
+      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Mist_Veiled_Elixir.png"
+    },
+    "days": "Tuesday, Friday"
+  },
+  {
+    "material": {
+      "name": "Narukami",
+      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Narukami.png"
+    },
+    "days": "Tuesday, Friday"
+  },
+  {
+    "material": {
+      "name": "Oasis Garden",
+      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Oasis_Garden.png"
+    },
+    "days": "Tuesday, Friday"
+  },
+  {
+    "material": {
+      "name": "Aerosiderite",
+      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Aerosiderite.png"
+    },
+    "days": "Wednesday, Saturday"
+  },
+  {
+    "material": {
+      "name": "Dandelion Gladiator",
+      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Dandelion_Gladiator.png"
+    },
+    "days": "Wednesday, Saturday"
+  },
+  {
+    "material": {
+      "name": "Mask",
+      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Mask.png"
+    },
+    "days": "Wednesday, Saturday"
+  },
+  {
+    "material": {
+      "name": "Scorching Might",
+      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Scorching_Might.png"
+    },
+    "days": "Wednesday, Saturday"
+  }
+]
