@@ -13,9 +13,9 @@ We would like to express our gratitude to the following sources for their valuab
    - For their engaging and user-friendly Genshin Impact database and information.
    - Website: [Paimon moe](https://paimon.moe/)
 
-3. **Wanderer moe**
+3. **Genshin GG**
    - For their contributions to Genshin Impact community resources.
-   - Website: [Wanderer moe](https://wanderer.moe/)
+   - Website: [Genshin GG](https://genshin.gg/)
 
 ## How to Use
 
