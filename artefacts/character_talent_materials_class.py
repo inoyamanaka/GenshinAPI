@@ -31,18 +31,18 @@ class CharacterTalentsMaterials:
                     element_img = list_apa.find('div', class_='rt-td wrap-row').find_all('a', class_='character-portrait')[i].find_all('img')[1]['src']
                     characters_list_row.append({"char_img": character_img, "char_elemental": element_img})
 
-                self.characters_list.append(characters_list_row)
-
             except:
                 print('-')
                 continue
+            
+            self.characters_list.append(characters_list_row)
 
     def generate_schedule_data(self):
         for i in range(0, len(self.material_list)):
             characters_data_list = []
-            for j in range(0, len(self.characters_list[i])):
-                characters_data_list.append(self.characters_list[j])
-                print(characters_data_list[j])
+            # for j in range(0, len(self.characters_list[i])):
+            characters_data_list.append(self.characters_list[i])
+                # print(characters_data_list[j])
             schedule_data = {"material": self.material_list[i], "days": self.days_list[i], "character_list": characters_data_list}
             self.schedule_data_list.append(schedule_data)
 
@@ -50,6 +50,4 @@ class CharacterTalentsMaterials:
         with open(f'artefacts/datasources/{filename}', 'w', encoding='utf-8') as json_file:
             json.dump(self.schedule_data_list, json_file, ensure_ascii=False, indent=2)
 
-
-# Example usage:
 

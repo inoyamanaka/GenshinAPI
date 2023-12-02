@@ -27,78 +27,6 @@
           "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
         }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Charlotte.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Freminet.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Furina.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lynette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Wriothesley.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        }
       ]
     ]
   },
@@ -111,28 +39,6 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
           "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
         },
@@ -143,40 +49,6 @@
         {
           "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
         }
       ]
     ]
@@ -190,42 +62,6 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
           "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
         },
@@ -257,7 +93,16 @@
           "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
         }
-      ],
+      ]
+    ]
+  },
+  {
+    "material": {
+      "name": "Justice",
+      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Justice.png"
+    },
+    "days": "Monday, Thursday",
+    "character_list": [
       [
         {
           "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Charlotte.png",
@@ -271,7 +116,16 @@
           "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Furina.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
         }
-      ],
+      ]
+    ]
+  },
+  {
+    "material": {
+      "name": "Order",
+      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Order.png"
+    },
+    "days": "Monday, Thursday",
+    "character_list": [
       [
         {
           "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lynette.png",
@@ -281,7 +135,16 @@
           "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Wriothesley.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
         }
-      ],
+      ]
+    ]
+  },
+  {
+    "material": {
+      "name": "Prosperity",
+      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Prosperity.png"
+    },
+    "days": "Monday, Thursday",
+    "character_list": [
       [
         {
           "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Keqing.png",
@@ -311,7 +174,16 @@
           "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Yelan.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
         }
-      ],
+      ]
+    ]
+  },
+  {
+    "material": {
+      "name": "Transience",
+      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Transience.png"
+    },
+    "days": "Monday, Thursday",
+    "character_list": [
       [
         {
           "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Heizou.png",
@@ -337,7 +209,16 @@
           "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Yoimiya.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
         }
-      ],
+      ]
+    ]
+  },
+  {
+    "material": {
+      "name": "Diligence",
+      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Diligence.png"
+    },
+    "days": "Tuesday, Friday",
+    "character_list": [
       [
         {
           "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Chongyun.png",
@@ -372,581 +253,6 @@
   },
   {
     "material": {
-      "name": "Justice",
-      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Justice.png"
-    },
-    "days": "Monday, Thursday",
-    "character_list": [
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        }
-      ]
-    ]
-  },
-  {
-    "material": {
-      "name": "Order",
-      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Order.png"
-    },
-    "days": "Monday, Thursday",
-    "character_list": [
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ]
-    ]
-  },
-  {
-    "material": {
-      "name": "Prosperity",
-      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Prosperity.png"
-    },
-    "days": "Monday, Thursday",
-    "character_list": [
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Charlotte.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Freminet.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Furina.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lynette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Wriothesley.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Keqing.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Ningguang.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Qiqi.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Shenhe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Geo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Xiao.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Yelan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Heizou.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Kirara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Kokomi.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Thoma.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Electro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Yoimiya.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        }
-      ]
-    ]
-  },
-  {
-    "material": {
-      "name": "Transience",
-      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Transience.png"
-    },
-    "days": "Monday, Thursday",
-    "character_list": [
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Charlotte.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Freminet.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Furina.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lynette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Wriothesley.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Keqing.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Ningguang.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Qiqi.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Shenhe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Geo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Xiao.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Yelan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ]
-    ]
-  },
-  {
-    "material": {
-      "name": "Diligence",
-      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Diligence.png"
-    },
-    "days": "Tuesday, Friday",
-    "character_list": [
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Charlotte.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Freminet.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Furina.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lynette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Wriothesley.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Keqing.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Ningguang.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Qiqi.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Shenhe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Geo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Xiao.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Yelan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Heizou.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Kirara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Kokomi.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Thoma.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Electro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Yoimiya.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        }
-      ]
-    ]
-  },
-  {
-    "material": {
       "name": "Elegance",
       "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Elegance.png"
     },
@@ -954,96 +260,24 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Ayaka.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
+        },
+        {
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Ayato.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Itto.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
+        },
+        {
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Kuki Shinobu.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Charlotte.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Freminet.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Furina.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lynette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Wriothesley.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sara.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
         }
       ]
     ]
@@ -1057,96 +291,24 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Alhaitham.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Dori.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Kaveh.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Layla.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
+        },
+        {
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Nahida.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Charlotte.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Freminet.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Furina.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lynette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Wriothesley.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
         }
       ]
     ]
@@ -1160,152 +322,32 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Bennett.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diluc.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Eula.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Jean.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Charlotte.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Freminet.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Furina.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Mona.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lynette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Wriothesley.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Keqing.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Ningguang.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Noelle.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Qiqi.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Shenhe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Geo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Xiao.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Yelan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Heizou.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Kirara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Kokomi.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Thoma.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Electro).png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Razor.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Yoimiya.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
         }
       ]
     ]
@@ -1319,144 +361,159 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Charlotte.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Freminet.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Furina.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lynette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Wriothesley.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Keqing.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Ningguang.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Albedo.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Qiqi.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Fischl.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
+        },
+        {
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Kaeya.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Shenhe.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lisa.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
+        },
+        {
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Mika.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Geo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Rosaria.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Xiao.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Venti.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Yelan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
         }
-      ],
+      ]
+    ]
+  },
+  {
+    "material": {
+      "name": "Gold",
+      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Gold.png"
+    },
+    "days": "Wednesday, Saturday",
+    "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Heizou.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Kirara.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Baizhu.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Kokomi.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Beidou.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
+        },
+        {
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Xingqiu.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Thoma.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Xinyan.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
+        },
+        {
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Yanfei.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
+        },
+        {
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Zhongli.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
+        }
+      ]
+    ]
+  },
+  {
+    "material": {
+      "name": "Light",
+      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Light.png"
+    },
+    "days": "Wednesday, Saturday",
+    "character_list": [
+      [
+        {
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Gorou.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
+        },
+        {
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Raiden.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
+        },
+        {
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sayu.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
+        },
+        {
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Yae Miko.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
+        }
+      ]
+    ]
+  },
+  {
+    "material": {
+      "name": "Praxis",
+      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Praxis.png"
+    },
+    "days": "Wednesday, Saturday",
+    "character_list": [
+      [
+        {
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Collei.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
+        },
+        {
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Dehya.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
+        },
+        {
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Nilou.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
+        },
+        {
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Wanderer.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
+        }
+      ]
+    ]
+  },
+  {
+    "material": {
+      "name": "Bloodjade Branch",
+      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Bloodjade_Branch.png"
+    },
+    "days": "Azhdaha",
+    "character_list": [
+      [
+        {
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Ayaka.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
+        },
+        {
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Dori.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
+        },
+        {
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Yanfei.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
+        }
+      ]
+    ]
+  },
+  {
+    "material": {
+      "name": "Dragon Lord's Crown",
+      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Dragon_Lord's_Crown.png"
+    },
+    "days": "Azhdaha",
+    "character_list": [
+      [
+        {
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Eula.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
         },
         {
           "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Electro).png",
@@ -1471,483 +528,6 @@
   },
   {
     "material": {
-      "name": "Gold",
-      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Gold.png"
-    },
-    "days": "Wednesday, Saturday",
-    "character_list": [
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Charlotte.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Freminet.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Furina.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lynette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Wriothesley.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Keqing.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Ningguang.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Qiqi.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Shenhe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Geo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Xiao.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Yelan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ]
-    ]
-  },
-  {
-    "material": {
-      "name": "Light",
-      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Light.png"
-    },
-    "days": "Wednesday, Saturday",
-    "character_list": [
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Charlotte.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Freminet.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Furina.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ]
-    ]
-  },
-  {
-    "material": {
-      "name": "Praxis",
-      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Praxis.png"
-    },
-    "days": "Wednesday, Saturday",
-    "character_list": [
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Charlotte.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Freminet.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Furina.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ]
-    ]
-  },
-  {
-    "material": {
-      "name": "Bloodjade Branch",
-      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Bloodjade_Branch.png"
-    },
-    "days": "Azhdaha",
-    "character_list": [
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        }
-      ]
-    ]
-  },
-  {
-    "material": {
-      "name": "Dragon Lord's Crown",
-      "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Dragon_Lord's_Crown.png"
-    },
-    "days": "Azhdaha",
-    "character_list": [
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        }
-      ]
-    ]
-  },
-  {
-    "material": {
       "name": "Gilded Scale",
       "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Gilded_Scale.png"
     },
@@ -1955,72 +535,16 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Kazuha.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sayu.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Yelan.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
         }
       ]
     ]
@@ -2034,85 +558,19 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Qiqi.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Geo).png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Venti.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Charlotte.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Freminet.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Furina.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Xingqiu.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
         }
       ]
@@ -2127,85 +585,19 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
           "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Keqing.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
         },
         {
           "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Charlotte.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Freminet.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Furina.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Mona.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
         }
       ]
@@ -2220,86 +612,20 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Fischl.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Kaeya.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Ningguang.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
         },
         {
           "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Charlotte.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Freminet.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Furina.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
         }
       ]
     ]
@@ -2313,71 +639,15 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Bennett.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diluc.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Jean.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
         }
       ]
@@ -2392,86 +662,20 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lisa.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Noelle.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Razor.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Xiangling.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Charlotte.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Freminet.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Furina.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
         }
       ]
     ]
@@ -2485,86 +689,20 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
           "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Beidou.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Chongyun.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
         },
         {
           "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Charlotte.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Freminet.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Furina.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
         }
       ]
     ]
@@ -2578,72 +716,16 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Albedo.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Xinyan.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Zhongli.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
         }
       ]
     ]
@@ -2657,54 +739,6 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
           "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
         },
@@ -2713,16 +747,8 @@
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Hu Tao.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
         }
       ]
     ]
@@ -2736,71 +762,15 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Ganyu.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Rosaria.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Xiao.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
         }
       ]
@@ -2815,72 +785,16 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Itto.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sara.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Yun Jin.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
         }
       ]
     ]
@@ -2894,72 +808,16 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Kokomi.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Shenhe.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Thoma.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
         }
       ]
     ]
@@ -2973,72 +831,16 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
           "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Gorou.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Raiden.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
         }
       ]
     ]
@@ -3052,15 +854,7 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Heizou.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
         },
         {
@@ -3068,56 +862,8 @@
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Yae Miko.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
         }
       ]
     ]
@@ -3131,7 +877,7 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Ayato.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
         },
         {
@@ -3139,64 +885,8 @@
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
           "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
         }
       ]
     ]
@@ -3214,81 +904,15 @@
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Collei.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
+        },
+        {
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Kuki Shinobu.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Charlotte.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Freminet.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Furina.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Nilou.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
         }
       ]
@@ -3303,72 +927,16 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Dehya.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
         },
         {
           "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Nahida.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
         }
       ]
     ]
@@ -3382,72 +950,16 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Alhaitham.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Layla.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Mika.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
         }
       ]
     ]
@@ -3461,38 +973,12 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Wanderer.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Yaoyao.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
         }
       ]
     ]
@@ -3506,72 +992,16 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Baizhu.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Freminet.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
         },
         {
           "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
         }
       ]
     ]
@@ -3585,72 +1015,16 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Kaveh.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
         },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
         {
           "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Wriothesley.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
         }
       ]
     ]
@@ -3664,72 +1038,16 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Kirara.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
         },
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lynette.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
         },
         {
           "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Hydro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        }
-      ],
-      [
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
         }
       ]
     ]
@@ -3740,7 +1058,9 @@
       "material_img": "https://rerollcdn.com/GENSHIN/Farming/NEW/Lightless_Eye_of_the_Maelstrom.png"
     },
     "days": "All-Devouring Narwhal",
-    "character_list": []
+    "character_list": [
+      []
+    ]
   },
   {
     "material": {
@@ -3751,24 +1071,8 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Furina.png",
           "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
         }
       ]
     ]
@@ -3782,24 +1086,8 @@
     "character_list": [
       [
         {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
-        },
-        {
-          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
-          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
+          "char_img": "https://rerollcdn.com/GENSHIN/Characters/1/Charlotte.png",
+          "char_elemental": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
         }
       ]
     ]
